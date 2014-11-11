@@ -72,9 +72,9 @@
     "zero-state":"this user hasn't made any quizzes yet, here are some quizzes to take"
   },
   "quiz":{
-    "header":"QUIZ":%{title}"
+    "header":"QUIZ: %{title}"
   },
-  quizzes":{
+  "quizzes":{
     "pagination":{
       "next":"Next",
       "previous":"Previous"
