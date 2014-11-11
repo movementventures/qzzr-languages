@@ -1,0 +1,167 @@
+
+pt:
+  admin:
+    actions:
+      charts:
+        title: "Charts"
+        menu: "Charts"
+        breadcrumb: "Charts"
+      publish_quiz:
+        title: "Publicar Quiz %{model_label_plural}"
+        menu: "Publicar Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_quiz:
+        title: "Ver Quiz %{model_label_plural}"
+        menu: "Ver Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_user:
+        title: "Ver User %{model_label_plural}"
+        menu: "Ver User"
+        breadcrumb: "%{model_label_plural}"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              invalid: "Entrar um email válido."
+              taken: "Desculpa, mas este email já foi registrado."
+            nickname:
+              taken: "Desculpa, mas este usuário já foi registrado."
+  network:
+    common:
+      share: Compartilhe
+    events:
+      head-to-head: "%{first-user} marcou %{first-score} contra %{second-user} que marcou %{second-score}"
+      quiz-posted: "%{user} postou um quiz"
+      result-graded: "%{user} marcou %{score}"
+      result-graded-outcome: "%{user} marcou %{score} & recebeu \"%{outcome}\""
+      result-outcome: "%{user} recebeu \"%{outcome}\""
+    header:
+      create: Fazer um quiz
+      go-pro: "Upgrade a Pro"
+      subtitle: "Quizzes para você criado por você"
+    landing:
+      definition: "The best place for quizzes - make one or take one."
+      part-of-speech: "noun \\ˈkwiz zer\\"
+      pitch:
+        capture-leads: "Capture leads"
+        drive-social: "Drive social traffic"
+        go-pro: "Go pro"
+        header: "Use Qzzr for your business"
+        present-offers: "Present offers"
+    offer:
+      email-placeholder: "example@email.com.br"
+      enter-your-email: "Entrar seu email"
+      skip: "Pular"
+      submit: "Continuar"
+    profile:
+      follow: Seguir
+      followers: "%{smart_count} Seguidor |||| %{smart_count} Seguidores"
+      following: "%{smart_count} Seguindo |||| %{smart_count} Seguindo"
+      interests: Interesses
+      quizzes-completed: "Quizzes concluídos"
+      quizzes-created: "Quizzes concluídos"
+      unfollow: Dexiar de Seguir
+      zero-state: "Este usuário ainda não fez um quiz, aqui estão alguns quizzes."
+    quiz:
+      header: "QUIZ: %{title}"
+    quizzes:
+      personality: Personalidade
+      trending: Trending
+      trivia: Trivia
+      your-feed: "Seu quiz feed"
+    results:
+      brackets: 
+        title: Brackets
+        count: "%{smart_count} pessoas"
+      grade-count: "%{score}/%{count}"
+      more-about-your-result: "Mais sobre seu resultado"
+      more-details: "Mais detalhes"
+      range: "%{lower}-%{upper}%"
+      scored-percentage: "Marcou %{percentage}"
+      scroll-down: "Rolar para baixo"
+      share-your-result: 'Compartiliar seu resultado'
+      you-scored: "Marcou %{percentage}%"
+      your-result: "Resultado"
+    search:
+      no-results: "Não encontramos nada por sua pesquisa."
+      no-results-suggestion: "Seja menos especifico."
+      search-qzzr: "Pesquisar no Qzzr"
+    sidenav:
+      beat-em: "Beat 'em!"
+      blog: Blog
+      follow-these-folks: "Seguir estas pessoas"
+      help: Ajuda
+      home: Início
+      how-to: Ajuda
+      leaderboards: Leaderboards
+      popular: Popular
+      register: Cadastrar-se
+      search: Pesquisar
+      settings: Configuraçōes
+      sign-in: "Entrar"
+      sign-out: "Sair"
+      terms: Termos
+      topics: Tópicos
+      trending: Trending
+      upgrade: "Upgrade a Pro"
+    social:
+      back: 'Voltar para o code recomendado'
+      branded-caption: "Feito com Qzzr - Quizzes para você criado por você"
+      branded-graded-result-match: "Eu marquei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue?"
+      branded-graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue mais do que isso?"
+      branded-outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" no Qzzr! E você?"
+      branded-quiz: "Ver \"%{quiz_title}\" no Qzzr!"
+      caption: "Feito com Qzzr"
+      description: "Faça seus próprios quizzes gratuitamente no Qzzr, a maneira mais simples do mundo."
+      email: 'Email'
+      embed: 'Codigo para insirir na pagina'
+      facebook: 'Compartiliar'
+      gplus: 'Compartiliar'
+      graded-result-match: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue?"
+      graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue mais do que isso?"
+      hashtag: quizzes
+      link: 'Link'
+      linkedin: 'Compartiliar'
+      on-qzzr: 'no Qzzr!'
+      outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" E você?"
+      pinterest: 'Pin it'
+      quiz: "Ver \"%{quiz_title}\""
+      reddit: 'Compartiliar'
+      trouble: 'Dificuladades insirir o quiz? Experimente com este codigo'
+      tumblr: 'Compartiliar'
+      twitter: 'Tweet'
+      wordpress: 'WordPress'
+    take:
+      advance: "Clique em qualquer lugar para avançar"
+      correct: "Correto"
+      done: Feito
+      incorrect: "Incorreto"
+      made-by: "Feito por %{author}"
+      multiple-select: "Selecione todos os que se aplicam"
+      next: Próximo
+      question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
+      start: Começar
+      times-taken: "Tomado %{smart_count} vez |||| Tomado %{smart_count} vezes"
+    topics:
+      arts: Arte
+      business: Negócios
+      education: Educação
+      food: Comeda
+      games: Jogos
+      geography: Geografia
+      header: Tópicos
+      history: Historíco
+      humor: Humor
+      lifestyle: Estilo de Vida
+      literature: Literatura
+      movies: Filmes
+      music: Músico
+      nature: Natureza
+      science: Ciência
+      sports: Esportes
+      tech: Tecnologia
+      tv: Televisão
+    users:
+      follow: Seguir
