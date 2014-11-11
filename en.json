@@ -1,222 +1,222 @@
 {
-  common: {
-    share: "Share"
+  "common":{
+    "share":"Share"
   },
-  events: {
-    head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}",
-    quiz-posted: "%{user} posted this quiz",
-    result-graded: "%{user} scored %{score}",
-    result-graded-outcome: "%{user} scored %{score} & got "%{outcome}"",
-    result-outcome: "%{user} got "%{outcome}""
+  "events":{
+    "head-to-head":"%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}",
+    "quiz-posted":"%{user} posted this quiz",
+    "result-graded":"%{user} scored %{score}",
+    "result-graded-outcome":"%{user} scored %{score} & got \"%{outcome}\"",
+    "result-outcome":"%{user} got \"%{outcome}\""
   },
-  header: {
-    create: "Create",
-    create-long: "Create a quiz · it's free",
-    go-pro: "Go Pro",
-    subtitle: "The place to take & make quizzes"
+  "header":{
+    "create":"Create",
+    "create-long":"Create a quiz · it's free",
+    "go-pro":"Go Pro",
+    "subtitle":"The place to take & make quizzes"
   },
-  landing: {
-    pitch: {
-      capture-leads: "Capture leads",
-      drive-social: "Drive social traffic",
-      pitch-subheadline: "It's free!",
-      go-pro: "Get started",
-      header: "Qzzr for business",
-      present-offers: "Present offers"
+  "landing":{
+    "pitch":{
+      "capture-leads":"Capture leads",
+      "drive-social":"Drive social traffic",
+      "pitch-subheadline":"It's free!",
+      "go-pro":"Get started",
+      "header":"Qzzr for business",
+      "present-offers":"Present offers"
     }
   },
-  offer: {
-    email-placeholder: "example@email.com",
-    enter-your-email: "Enter your email",
-    skip: "Skip",
-    submit: "Submit"
+  "offer":{
+    "email-placeholder":"example@email.com",
+    "enter-your-email":"Enter your email",
+    "skip":"Skip",
+    "submit":"Submit"
   },
-  pages: {
-    index: {
-      title: "Take Fun Quizzes and Personality Tests for Free | Qzzr",
-      description: "Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere.",
-      keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+  "pages":{
+    "index":{
+      "title":"Take Fun Quizzes and Personality Tests for Free | Qzzr",
+      "description":"Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere.",
+      "keywords":"quizzes,fun quizzes,personality quizzes,personality tests"
     },
-    trending: {
-      title: "Take the Most Popular Quizzes on the Internet | Qzzr",
-      description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+    "trending":{
+      "title":"Take the Most Popular Quizzes on the Internet | Qzzr",
+      "description":"What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
     },
-    topics: {
-      title: "Search Online Quizzes by Topic | Qzzr",
-      description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+    "topics":{
+      "title":"Search Online Quizzes by Topic | Qzzr",
+      "description":"Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
     },
-    quiz: {
-      by-author: "By this author",
-      comments: "Comments",
-      create-your-own: "Create your own quiz",
-      default-title: "Get Your Quiz On | Qzzr",
-      description: "%{description} | What's your result? Take the quiz now!",
-      default-description: "Take this quiz now! What's your result?",
-      more-quizzes: "View more quizzes",
-      posted-by: "Posted by %{author}",
-      suggested: "Suggested",
-      title: "%{title} | Qzzr"
+    "quiz":{
+      "by-author":"By this author",
+      "comments":"Comments",
+      "create-your-own":"Create your own quiz",
+      "default-title":"Get Your Quiz On | Qzzr",
+      "description":"%{description} | What's your result? Take the quiz now!",
+      "default-description":"Take this quiz now! What's your result?",
+      "more-quizzes":"View more quizzes",
+      "posted-by":"Posted by %{author}",
+      "suggested":"Suggested",
+      "title":"%{title} | Qzzr"
     },
-    profile: {
-      title: "%{name} | Qzzr"
+    "profile":{
+      "title":"%{name} | Qzzr"
     }
   },
-  profile: {
-    follow: "Follow",
-    followers: "%{smart_count} Follower |||| %{smart_count} Followers",
-    following: "%{smart_count} Following |||| %{smart_count} Following",
-    interests: "Interests",
-    quizzes-completed: "Quizzes completed",
-    quizzes-created: "Quizzes created",
-    unfollow: "Unfollow",
-    zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
+  "profile":{
+    "follow":"Follow",
+    "followers":"%{smart_count} Follower |||| %{smart_count} Followers",
+    "following":"%{smart_count} Following |||| %{smart_count} Following",
+    "interests":"Interests",
+    "quizzes-completed":"Quizzes completed",
+    "quizzes-created":"Quizzes created",
+    "unfollow":"Unfollow",
+    "zero-state":"this user hasn't made any quizzes yet, here are some quizzes to take"
   },
-  quiz: {
-    header: "QUIZ: %{title}"
+  "quiz":{
+    "header":"QUIZ":%{title}"
   },
-  quizzes: {
-    pagination: {
-      next: "Next",
-      previous: "Previous"
+  quizzes":{
+    "pagination":{
+      "next":"Next",
+      "previous":"Previous"
     },
-    personality: "Personality quizzes",
-    trending: "Trending quizzes",
-    trivia: "Trivia quizzes",
-    view-all: "View all",
-    your-feed: "Your feed"
+    "personality":"Personality quizzes",
+    "trending":"Trending quizzes",
+    "trivia":"Trivia quizzes",
+    "view-all":"View all",
+    "your-feed":"Your feed"
   },
-  results: {
-    bracket: {
-      count: "%{smart_count} person |||| %{smart_count} people",
-      range: "%{lower}-%{upper}%",
-      title: "Brackets"
+  "results":{
+    "bracket":{
+      "count":"%{smart_count} person |||| %{smart_count} people",
+      "range":"%{lower}-%{upper}%",
+      "title":"Brackets"
     },
-    grade-count: "%{score}/%{count}",
-    more-about-your-result: "More about your result",
-    more-details: "More details",
-    range: "%{lower}-%{upper}%",
-    recommended: "Other great quizzes",
-    retake: "Retake",
-    scored-percentage: "Scored %{percentage}",
-    scroll-down: "Scroll down",
-    share-your-result: "Share your result",
-    you-scored: "Scored %{percentage}%",
-    your-result: "Result"
+    "grade-count":"%{score}/%{count}",
+    "more-about-your-result":"More about your result",
+    "more-details":"More details",
+    "range":"%{lower}-%{upper}%",
+    "recommended":"Other great quizzes",
+    "retake":"Retake",
+    "scored-percentage":"Scored %{percentage}",
+    "scroll-down":"Scroll down",
+    "share-your-result":"Share your result",
+    "you-scored":"Scored %{percentage}%",
+    "your-result":"Result"
   },
-  search: {
-    no-results: "We couldn't find anything for that search.",
-    no-results-suggestion: "Try being less specific.",
-    search-qzzr: "Search Qzzr"
+  "search":{
+    "no-results":"We couldn't find anything for that search.",
+    "no-results-suggestion":"Try being less specific.",
+    "search-qzzr":"Search Qzzr"
   },
-  sidenav: {
-    beat-em: "Beat 'em!",
-    blog: "Blog",
-    featured-topics: "Featured Topics",
-    follow-these-folks: "Follow these folks",
-    help: "Help",
-    home: "Home",
-    how-to: "How-to",
-    leaderboards: "Leaderboards",
-    popular: "Popular",
-    sign-up: "Sign up",
-    sign-up-tagline: "Save your results & create free quizzes",
-    search: "Search",
-    settings: "Settings",
-    log-in: "Log in",
-    log-out: "Log out",
-    terms: "Terms",
-    topics: "Topics",
-    trending: "Trending",
-    upgrade: "Go Pro"
+  "sidenav":{
+    "beat-em":"Beat 'em!",
+    "blog":"Blog",
+    "featured-topics":"Featured Topics",
+    "follow-these-folks":"Follow these folks",
+    "help":"Help",
+    "home":"Home",
+    "how-to":"How-to",
+    "leaderboards":"Leaderboards",
+    "popular":"Popular",
+    "sign-up":"Sign up",
+    "sign-up-tagline":"Save your results & create free quizzes",
+    "search":"Search",
+    "settings":"Settings",
+    "log-in":"Log in",
+    "log-out":"Log out",
+    "terms":"Terms",
+    "topics":"Topics",
+    "trending":"Trending",
+    "upgrade":"Go Pro"
   },
-  social: {
-    back: "Go back to recommended embed code",
-    branded-caption: "Made with Qzzr - Quizzes for you by you",
-    branded-graded-result-match: "I scored %{score}% on "%{quiz_title}" on Qzzr! Can you match that?",
-    branded-graded-result-top: "I scored %{score}% on "%{quiz_title}" on Qzzr! Can you top that?",
-    branded-outcome-result: "I got "%{outcome_title}" on "%{quiz_title}" on Qzzr! What about you?",
-    branded-quiz: "Check out "%{quiz_title}" on Qzzr!",
-    can-you-match: "CAN YOU MATCH THAT?",
-    can-you-top: "CAN YOU TOP THAT?",
-    caption: "Made with Qzzr",
-    description: "Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
-    email: "Email",
-    embed: "Embed in page",
-    facebook: "Share",
-    gplus: "Share",
-    graded-result-match: "I Scored %{score}% on "%{quiz_title}" Can you match that?",
-    graded-result-top: "I Scored %{score}% on "%{quiz_title}" Can you top that?",
-    hashtag: "quizzes",
-    image-outcome-result: "RESULT: %{title}",
-    image-graded-result: "SCORED %{percent}%",
-    link: "Link",
-    linkedin: "Share",
-    on-qzzr: "on Qzzr!",
-    outcome-result: "I got "%{outcome_title}" on "%{quiz_title}" What about you?",
-    pinterest: "Pin it",
-    quiz: "Check out "%{quiz_title}"",
-    reddit: "Share",
-    share-quiz: "Share this quiz",
-    trouble: "Trouble embedding? Try this code",
-    tumblr: "Share",
-    twitter: "Tweet",
-    what-about-you: "WHAT ABOUT YOU?",
-    wordpress: "WordPress"
+  "social":{
+    "back":"Go back to recommended embed code",
+    "branded-caption":"Made with Qzzr - Quizzes for you by you",
+    "branded-graded-result-match":"I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you match that?",
+    "branded-graded-result-top":"I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?",
+    "branded-outcome-result":"I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr! What about you?",
+    "branded-quiz":"Check out \"%{quiz_title}\" on Qzzr!",
+    "can-you-match":"CAN YOU MATCH THAT?",
+    "can-you-top":"CAN YOU TOP THAT?",
+    "caption":"Made with Qzzr",
+    "description":"Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
+    "email":"Email",
+    "embed":"Embed in page",
+    "facebook":"Share",
+    "gplus":"Share",
+    "graded-result-match":"I Scored %{score}% on \"%{quiz_title}\" Can you match that?",
+    "graded-result-top":"I Scored %{score}% on \"%{quiz_title}\" Can you top that?",
+    "hashtag":"quizzes",
+    "image-outcome-result":"RESULT:%{title}",
+    "image-graded-result":"SCORED %{percent}%",
+    "link":"Link",
+    "linkedin":"Share",
+    "on-qzzr":"on Qzzr!",
+    "outcome-result":"I got \"%{outcome_title}\" on \"%{quiz_title}\" What about you?",
+    "pinterest":"Pin it",
+    "quiz":"Check out \"%{quiz_title}\"",
+    "reddit":"Share",
+    "share-quiz":"Share this quiz",
+    "trouble":"Trouble embedding? Try this code",
+    "tumblr":"Share",
+    "twitter":"Tweet",
+    "what-about-you":"WHAT ABOUT YOU?",
+    "wordpress":"WordPress"
   },
-  take: {
-    click-to-advance: "Click anywhere to advance",
-    correct: "Correct",
-    done: "Done",
-    incorrect: "Incorrect",
-    made-by: "Made by %{author}",
-    multiple-select: "Select all that apply",
-    next: "Next",
-    question-count: "%{smart_count} question |||| %{smart_count} questions",
-    start: "Start",
-    tap-to-advance: "Tap anywhere to advance",
-    times-taken: "Taken %{smart_count} time |||| Taken %{smart_count} times"
+  "take":{
+    "click-to-advance":"Click anywhere to advance",
+    "correct":"Correct",
+    "done":"Done",
+    "incorrect":"Incorrect",
+    "made-by":"Made by %{author}",
+    "multiple-select":"Select all that apply",
+    "next":"Next",
+    "question-count":"%{smart_count} question |||| %{smart_count} questions",
+    "start":"Start",
+    "tap-to-advance":"Tap anywhere to advance",
+    "times-taken":"Taken %{smart_count} time |||| Taken %{smart_count} times"
   },
-  topics: {
-    arts: "Art",
-    business: "Business",
-    education: "Education",
-    food: "Food",
-    games: "Games",
-    geography: "Geography",
-    header: "Topics",
-    history: "History",
-    humor: "Humor",
-    lifestyle: "Lifestyle",
-    literature: "Literature",
-    movies: "Movies",
-    music: "Music",
-    nature: "Nature",
-    science: "Science",
-    sports: "Sports",
-    tech: "Technology",
-    tv: "TV",
-    world-travel: "World & Travel",
-    love: "Love",
-    tv-movies: "TV & Movies",
-    politics: "Politics",
-    celebrities: "Celebrities",
-    religion: "Religion",
-    video-games: "Video Games",
-    automotive: "Automotive",
-    animals: "Animals",
-    health-fitness: "Health & Fitness",
-    beauty: "Beauty",
-    art-style: "Art & Style",
-    food-drink: "Food & Drink",
-    science-technology: "Science & Technology",
-    trivia: "Trivia",
-    personality: "Personality",
-    girls-women: "Girls & Women",
-    current-events: "Current Events",
-    kids: "Kids",
-    espanol: "Español"
+  "topics":{
+    "arts":"Art",
+    "business":"Business",
+    "education":"Education",
+    "food":"Food",
+    "games":"Games",
+    "geography":"Geography",
+    "header":"Topics",
+    "history":"History",
+    "humor":"Humor",
+    "lifestyle":"Lifestyle",
+    "literature":"Literature",
+    "movies":"Movies",
+    "music":"Music",
+    "nature":"Nature",
+    "science":"Science",
+    "sports":"Sports",
+    "tech":"Technology",
+    "tv":"TV",
+    "world-travel":"World & Travel",
+    "love":"Love",
+    "tv-movies":"TV & Movies",
+    "politics":"Politics",
+    "celebrities":"Celebrities",
+    "religion":"Religion",
+    "video-games":"Video Games",
+    "automotive":"Automotive",
+    "animals":"Animals",
+    "health-fitness":"Health & Fitness",
+    "beauty":"Beauty",
+    "art-style":"Art & Style",
+    "food-drink":"Food & Drink",
+    "science-technology":"Science & Technology",
+    "trivia":"Trivia",
+    "personality":"Personality",
+    "girls-women":"Girls & Women",
+    "current-events":"Current Events",
+    "kids":"Kids",
+    "espanol":"Español"
   },
-  users: {
-    follow: "Follow"
+  "users":{
+    "follow":"Follow"
   }
 }
