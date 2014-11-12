@@ -6,7 +6,7 @@ var yaml = require('js-yaml');
 describe('qzzr-languages', function() {
   var root = __dirname + '/../';
   dir(root).forEach(function(locale) {
-    if (!~locale.indexOf('.yml')) return;
+    if (!~locale.indexOf('.yml') || ~locale.indexOf('travis')) return;
 
     var l = locale.replace('.yml', '');
     describe(l, function() {
