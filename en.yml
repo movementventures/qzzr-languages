@@ -46,7 +46,7 @@ en:
         capture-leads: "Capture leads"
         drive-social: "Drive social traffic"
         pitch-subheadline: "It's free!"
-        go-pro: "Get started"
+        go-pro: "Learn more"
         header: "Qzzr for business"
         present-offers: "Present offers"
     offer:
@@ -174,8 +174,10 @@ en:
     take:
       click-to-advance: "Click anywhere to advance"
       correct: "Correct"
+      correct-feedback: "Correct: %{feedback}"
       done: Done
       incorrect: "Incorrect"
+      incorrect-feedback: "Incorrect: %{feedback}"
       made-by: "Made by %{author}"
       multiple-select: "Select all that apply"
       next: Next
