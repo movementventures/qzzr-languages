@@ -1,7 +1,5 @@
 
-langs ?= *
-
 test:
-	@./node_modules/.bin/mocha --grep test/$(langs)
+	@./node_modules/.bin/mocha
 
 .PHONY: test
