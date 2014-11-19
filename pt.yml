@@ -58,10 +58,9 @@ pt:
       more-about-your-result: "Mais sobre seu resultado"
       more-details: "Mais detalhes"
       range: "%{lower}-%{upper}%"
-      scored-percentage: "Marcou %{percentage}"
+      scored-percentage: "Marcou %{percentage}%"
       scroll-down: "Rolar para baixo"
       share-your-result: 'Compartiliar seu resultado'
-      you-scored: "Marcou %{percentage}%"
       your-result: "Resultado"
     search:
       no-results: "Não encontramos nada por sua pesquisa."

@@ -109,10 +109,9 @@ en:
       range: "%{lower}-%{upper}%"
       recommended: "Other great quizzes"
       retake: "Retake"
-      scored-percentage: "Scored %{percentage}"
+      scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down"
       share-your-result: 'Share your result'
-      you-scored: "Scored %{percentage}%"
       your-result: "Result"
     search:
       no-results: "We couldn't find anything for that search."
