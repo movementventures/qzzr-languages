@@ -112,7 +112,8 @@ en:
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down"
       share-your-result: 'Share your result'
-      your-result: "Result"
+      your-result-graded: "Result: Scored %{percentage}%"
+      your-result-outcome: "Result: %{outcome}"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
