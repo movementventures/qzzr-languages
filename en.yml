@@ -172,6 +172,7 @@ en:
       what-about-you: 'WHAT ABOUT YOU?'
       wordpress: 'WordPress'
     take:
+      challenge-a-friend: "Challenge Friends"
       click-to-advance: "Click anywhere to advance"
       correct: "Correct"
       correct-feedback: "Correct: %{feedback}"
