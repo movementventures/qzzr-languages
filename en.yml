@@ -179,6 +179,7 @@ en:
       done: Done
       incorrect: "Incorrect"
       incorrect-feedback: "Incorrect: %{feedback}"
+      invite-a-friend: "Invite Friends"
       made-by: "Made by %{author}"
       multiple-select: "Select all that apply"
       next: Next
