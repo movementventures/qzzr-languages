@@ -27,6 +27,8 @@ en:
               taken: "Sorry, that email is already taken."
             nickname:
               taken: "Sorry, that username is already taken."
+            password:
+              too_short: "Password is too short (minimum is %{count} characters)."
   network:
     common:
       share: Share
