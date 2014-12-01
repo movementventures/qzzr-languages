@@ -230,3 +230,13 @@ en:
       espanol: "Español"
     users:
       follow: Follow
+  maker:
+    quiz:
+      create:
+        graded-help: "E.G WHERE IS THIS IN THE U.S?"
+        graded-label: "Graded"
+        outcome-help: "E.G WHICH SUPERHERO ARE YOU?"
+        outcome-label: "Outcome"
+      description: "Description"
+      title: "Title"
+
