@@ -231,6 +231,9 @@ en:
     users:
       follow: Follow
   maker:
+    question:
+      description: "Description"
+      title: "Title"
     quiz:
       create:
         graded-help: "E.G WHERE IS THIS IN THE U.S?"
