@@ -231,12 +231,22 @@ en:
     users:
       follow: Follow
   maker:
+    answer:
+      label: "Label"
     outcome:
       description: "Description"
       title: "Title"
     question:
       description: "Description"
+      disable-images: "Disable images"
+      enable-images: "Enable images"
+      feedback: "Feedback"
+      image: "Image"
+      select-all: "Select all"
+      select-one: "Select one"
       title: "Title"
+      true-false: "True/false"
+      type: "Type"
     quiz:
       create:
         graded-help: "E.G WHERE IS THIS IN THE U.S?"
