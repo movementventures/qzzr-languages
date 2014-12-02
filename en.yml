@@ -231,6 +231,9 @@ en:
     users:
       follow: Follow
   maker:
+    outcome:
+      description: "Description"
+      title: "Title"
     question:
       description: "Description"
       title: "Title"
