@@ -232,9 +232,15 @@ en:
       follow: Follow
   maker:
     answer:
+      image: "Image"
       label: "Label"
+    offer:
+      description: "Description"
+      enabled: "Enabled"
+      title: "Title"
     outcome:
       description: "Description"
+      image: "Image"
       title: "Title"
     question:
       description: "Description"
@@ -254,5 +260,9 @@ en:
         outcome-help: "e.g. What color are you?"
         outcome-label: "Outcome"
       description: "Description"
+      randomized-answers: "Randomize answer order"
+      randomized-questions: "Randomize question order"
+      share-redirect-url: "Share redirect URL"
       title: "Title"
+
 
