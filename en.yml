@@ -249,9 +249,9 @@ en:
       type: "Type"
     quiz:
       create:
-        graded-help: "E.G WHERE IS THIS IN THE U.S?"
+        graded-help: "e.g. What movie is this?"
         graded-label: "Graded"
-        outcome-help: "E.G WHICH SUPERHERO ARE YOU?"
+        outcome-help: "e.g. What color are you?"
         outcome-label: "Outcome"
       description: "Description"
       title: "Title"
