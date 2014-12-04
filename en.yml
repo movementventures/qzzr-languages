@@ -272,6 +272,7 @@ en:
       add-question: "Add a question"
       background-topics: "Upload background & select topics"
       create:
+        choose: 'Choose a quiz type'
         graded-help: "e.g. What movie is this?"
         graded-label: "Graded"
         outcome-help: "e.g. What color are you?"
