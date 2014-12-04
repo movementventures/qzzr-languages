@@ -232,6 +232,7 @@ en:
       follow: Follow
   maker:
     answer:
+      add: 'Add answer'
       image: "Image"
       label: "Label"
     offer:
