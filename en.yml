@@ -280,4 +280,8 @@ en:
         randomized-answers: "Randomize answer order"
         randomized-questions: "Randomize question order"
         show-feedback: 'Show instant answer feedback'
-    sharing: 'Sharing'
+    sharing:
+      header: 'Sharing'
+      share-image: 'Share image'
+      custom-text: 'Custom share text'
+      placeholder: 'e.g. Submit'
