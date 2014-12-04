@@ -235,6 +235,7 @@ en:
       image: "Image"
       label: "Label"
     offer:
+      header: 'Offer'
       description: "Description"
       enabled: "Enabled"
       title: "Title"
@@ -243,6 +244,7 @@ en:
       description: "Description"
       image: "Image"
       title: "Title"
+    publish: 'Publish'
     question:
       description: "Description"
       disable-images: "Disable images"
@@ -255,6 +257,7 @@ en:
       true-false: "True/false"
       type: "Type"
     quiz:
+      add-outcome: "Add outcome"
       add-question: "Add a question"
       background-topics: "Upload background & select topics"
       create:
@@ -263,8 +266,18 @@ en:
         outcome-help: "e.g. What color are you?"
         outcome-label: "Outcome"
       description: "Description"
-      randomized-answers: "Randomize answer order"
-      randomized-questions: "Randomize question order"
       select-topic: "Select a topic"
       share-redirect-url: "Share redirect URL"
       title: "Title"
+    settings:
+      header: 'Settings'
+      quiz-type:
+        header: 'Quiz Type'
+        graded-quiz: 'Graded quiz'
+        outcome-quiz: 'Outcome quiz'
+      advanced:
+        header: 'Advanced'
+        randomized-answers: "Randomize answer order"
+        randomized-questions: "Randomize question order"
+        show-feedback: 'Show instant answer feedback'
+    sharing: 'Sharing'
