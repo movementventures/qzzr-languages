@@ -235,10 +235,17 @@ en:
       image: "Image"
       label: "Label"
     offer:
-      header: 'Offer'
+      call-to-action: 'Call-to-action copy'
       description: "Description"
       enabled: "Enabled"
-      title: "Title"
+      header: 'Offer'
+      heading-description: 'Heading & description copy'
+      lead-form: 'Lead form'
+      like-form: 'Like Facebook page'
+      link-form: 'Link form'
+      placeholder: 'e.g. Submit'
+      title: 'Heading'
+      type: 'Offer type'
     outcome:
       header: 'Outcomes'
       description: "Description"
