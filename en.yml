@@ -239,6 +239,7 @@ en:
       enabled: "Enabled"
       title: "Title"
     outcome:
+      header: 'Outcomes'
       description: "Description"
       image: "Image"
       title: "Title"
@@ -254,6 +255,8 @@ en:
       true-false: "True/false"
       type: "Type"
     quiz:
+      add-question: "Add a question"
+      background-topics: "Upload background & select topics"
       create:
         graded-help: "e.g. What movie is this?"
         graded-label: "Graded"
@@ -262,7 +265,6 @@ en:
       description: "Description"
       randomized-answers: "Randomize answer order"
       randomized-questions: "Randomize question order"
+      select-topic: "Select a topic"
       share-redirect-url: "Share redirect URL"
       title: "Title"
-
-
