@@ -251,7 +251,11 @@ en:
       description: "Description"
       image: "Image"
       title: "Title"
-    publish: 'Publish'
+    publish:
+      header: 'Publish'
+      preview: 'Preview'
+      unpublish: 'Unpublish'
+      delete: 'Delete quiz'
     question:
       description: "Description"
       disable-images: "Disable images"
