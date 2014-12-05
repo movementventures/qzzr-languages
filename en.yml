@@ -39,9 +39,14 @@ en:
       result-graded-outcome: "%{user} scored %{score} & got \"%{outcome}\""
       result-outcome: "%{user} got \"%{outcome}\""
     header:
+      discover: Discover
+      hubs: Hubs
+      account-settings: "Account settings"
+      more: More
       create: Create
-      create-long: "Create a quiz · it's free"
-      go-pro: "Go Pro"
+      create-long: "Create a quiz"
+      free: "It's free"
+      go-pro: "Qzzr for Business"
       subtitle: "Quizzes for you, by you."
     landing:
       pitch:
