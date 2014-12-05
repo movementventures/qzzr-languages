@@ -257,6 +257,9 @@ en:
       description: "Description"
       image: "Image"
       title: "Title"
+      default:
+        title: "Catch-all"
+        description: "Description (optional)"
     publish:
       header: 'Publish'
       preview: 'Preview'
