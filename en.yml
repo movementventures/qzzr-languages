@@ -275,7 +275,7 @@ en:
       type: "Type"
     quiz:
       add-outcome: "Add outcome"
-      add-question: "Add a question"
+      add-question: "New question"
       background-topics: "Upload background & select topics"
       create:
         choose: 'Choose a quiz type'
