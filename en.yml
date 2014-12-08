@@ -254,6 +254,7 @@ en:
       like-form: 'Like Facebook page'
       link-form: 'Offer form'
       placeholder: 'e.g. Submit'
+      present: 'Present offer'
       title: 'Heading'
       type: 'Offer type'
     outcome:
