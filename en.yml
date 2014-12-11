@@ -105,7 +105,7 @@ en:
         next: Next
         previous: Previous
       personality: Personality quizzes
-      trending: Trending quizzes
+      trending: Popular quizzes
       trivia: Trivia quizzes
       view-all: "View all"
       your-feed: "Your feed"
@@ -147,7 +147,7 @@ en:
       log-out: "Log out"
       terms: Terms
       topics: Topics
-      trending: Trending
+      trending: Popular
       upgrade: "Go Pro"
     social:
       back: 'Go back to recommended embed code'
@@ -187,7 +187,7 @@ en:
       click-to-advance: "Click anywhere to advance"
       correct: "Correct"
       correct-feedback: "Correct: %{feedback}"
-      done: Done
+      done: Submit
       incorrect: "Incorrect"
       incorrect-feedback: "Incorrect: %{feedback}"
       invite-a-friend: "Invite Friends"
