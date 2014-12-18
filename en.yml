@@ -50,13 +50,13 @@ en:
       subtitle: "Quizzes for you, by you."
     landing:
       pitch:
-        capture-leads: "Capture leads"
-        drive-social: "Drive social traffic"
+        capture-leads: "embed and share it"
+        drive-social: "create a quiz for free"
         pitch-subheadline: "It's free!"
         go-pro: "Learn more"
         header: "Qzzr for business"
-        present-offers: "Present offers"
-        subheader: "Use quizzes to grow your business in remarkable ways."
+        present-offers: "drive social traffic"
+        subheader: "Make an engaging quiz for your website."
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
         sign-up-cta: "Sign up now"
