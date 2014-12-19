@@ -60,6 +60,7 @@ en:
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
         sign-up-cta: "Sign up now"
+    made-with: 'Made with'
     offer:
       email-placeholder: "example@email.com"
       enter-your-email: "Enter your email"
