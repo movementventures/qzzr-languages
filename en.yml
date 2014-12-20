@@ -197,6 +197,7 @@ en:
       incorrect-feedback: "Incorrect: %{feedback}"
       invite-a-friend: "Invite Friends"
       made-by: "Made by %{author}"
+      made-with: "Made with %{app_name}"
       multiple-select: "Select all that apply"
       next: Next
       question-count: "%{smart_count} question |||| %{smart_count} questions"
