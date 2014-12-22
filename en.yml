@@ -50,12 +50,12 @@ en:
       subtitle: "Quizzes for you, by you."
     landing:
       pitch:
-        capture-leads: "embed and share it"
-        drive-social: "create a quiz for free"
+        capture-leads: "Embed and share it"
+        drive-social: "Create a quiz for free"
         pitch-subheadline: "It's free!"
         go-pro: "Learn more"
         header: "Qzzr for business"
-        present-offers: "drive social traffic"
+        present-offers: "Drive social traffic"
         subheader: "Make an engaging quiz for your website."
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
@@ -197,13 +197,14 @@ en:
       incorrect-feedback: "Incorrect: %{feedback}"
       invite-a-friend: "Invite Friends"
       made-by: "Made by %{author}"
+      make-quiz: "Want to make your own quiz for free?"
+      make-quiz-label: "Check out qzzr"
       multiple-select: "Select all that apply"
       next: Next
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
       tap-to-advance: "Tap anywhere to advance"
       times-taken: "Taken %{smart_count} time |||| Taken %{smart_count} times"
-      make-quiz: "Want to make your own quiz for free?"
     topics:
       arts: Art
       business: Business
