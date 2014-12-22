@@ -203,6 +203,7 @@ en:
       start: Start
       tap-to-advance: "Tap anywhere to advance"
       times-taken: "Taken %{smart_count} time |||| Taken %{smart_count} times"
+      make-quiz: "Want to make your own quiz for free?"
     topics:
       arts: Art
       business: Business
