@@ -192,6 +192,8 @@ en:
       twitter: 'Tweet'
       what-about-you: 'WHAT ABOUT YOU?'
       wordpress: 'WordPress'
+      wordpress-link: 'WordPress (for use with our %{link})'
+      wordpress-link-label: 'plugin'
     take:
       challenge-a-friend: "Challenge Friends"
       click-to-advance: "Click anywhere to advance"
