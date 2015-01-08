@@ -63,9 +63,11 @@ en:
     made-with: 'Made with'
     maindish:
       social:
-        branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Maindish! What about you?"
-        branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\" on Maindish! Can you match that?"
-        branded-quiz: "Check out \"%{quiz_title}\" on Maindish!"
+        branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
+        branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\""
+        caption: "www.maindish.co"
+        description: "Great new quiz. %{quiz_title}"
+        via: maindish
     offer:
       email-placeholder: "example@email.com"
       enter-your-email: "Enter your email"
