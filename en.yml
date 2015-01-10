@@ -67,7 +67,6 @@ en:
         graded-result: "I scored %{score}% on \"%{quiz_title}\""
         caption: "www.maindish.co"
         description: "Great new quiz. %{quiz_title}"
-        via: ""
     offer:
       email-placeholder: "example@email.com"
       enter-your-email: "Enter your email"
