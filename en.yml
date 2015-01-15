@@ -287,7 +287,7 @@ en:
       call-to-action: 'Call-to-action copy'
       description: "Description"
       enabled: "Enabled"
-      header: 'Offer'
+      header: 'Campaign'
       heading-description: 'Heading & description copy'
       lead-form: 'Lead form'
       like-form: 'Like Facebook page'
