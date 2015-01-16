@@ -331,6 +331,7 @@ en:
         outcome-help: "e.g. What color are you?"
         outcome-label: "Outcome"
       description: "Description"
+      image: "Image"
       select-topic: "Select a topic"
       share-redirect-url: "Share redirect URL"
       title: "Title"
