@@ -288,10 +288,13 @@ en:
       description: "Description"
       enabled: "Enabled"
       header: 'Campaign'
-      heading-description: 'Heading & description copy'
       lead-form: 'Lead form'
       like-form: 'Like Facebook page'
-      link-form: 'Offer form'
+      like-header: 'Facebook page url'
+      link-form: 'Click-thru to page'
+      link-header: 'Go-to page'
+      offer-details-header: 'Details'
+      no-offer-form: 'None'
       placeholder: 'e.g. Submit'
       present: 'Present offer'
       title: 'Heading'
