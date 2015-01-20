@@ -301,7 +301,7 @@ en:
         facbebook-url: 'http://facebook.com/facebook.page'
         link-form-url: 'http://yourlandingpage.com'
     outcome:
-      header: 'Outcomes'
+      header: 'Results'
       description: "Description (optional)"
       description-example: 'You enjoy being awesome...'
       image: "Image"
