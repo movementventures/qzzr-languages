@@ -303,7 +303,7 @@ en:
     outcome:
       header: 'Results'
       description: "Description (optional)"
-      description-example: 'You enjoy being awesome...'
+      description-example: 'e.g. You enjoy being awesome...'
       image: "Image"
       title: "Result title"
       title-example: 'e.g. Indiana Jones'
