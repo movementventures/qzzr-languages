@@ -309,6 +309,8 @@ en:
       link-button-url-title: 'Button URL'
       link-button-url-example: 'http://example.com'
 
+      is-enabled-button-label: 'Visible to quiz takers'
+
     outcome:
       header: 'Results'
       description: "Description (optional)"
