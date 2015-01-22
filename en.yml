@@ -293,10 +293,10 @@ en:
       link-title-example: 'e.g. 10% off your next order!'
       link-description-example: 'Click the button below to activate'
 
-      like-title-example: 'e.g. Like us on Facebook'
-      like-description-example: 'e.g. Facebook fans get special offers'
-      like-url-title: 'Facebook page url'
-      like-url-example: 'http://facebook.com/facebook.page'
+      facebook-title-example: 'e.g. Like us on Facebook'
+      facebook-description-example: 'e.g. Facebook fans get special offers'
+      facebook-url-title: 'Facebook page url'
+      facebook-url-example: 'http://facebook.com/facebook.page'
 
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
