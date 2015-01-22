@@ -286,6 +286,9 @@ en:
     offer:
       enabled: "Enabled"
       header: 'Campaign'
+      lead-form: 'Lead form'
+      like-form: 'Like Facebook page'
+      link-form: 'Click-thru to page'
 
       offer-title: 'Title'
       offer-description: 'Description (optional)'
