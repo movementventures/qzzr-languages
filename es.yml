@@ -94,7 +94,7 @@ es:
       next: Avanzar
       question-count: "%{smart_count} pregunta |||| %{smart_count} preguntas"
       start: Empezar
-      times-taken: "Tomado %{smart_count} vez |||| Tomado %{smart_count} vezes"
+      times-taken: "Tomado %{smart_count} vez |||| Tomado %{smart_count} veces"
     topics:
       arts: Arte
       business: Negocios
