@@ -177,7 +177,7 @@ en:
       sign-up: "Sign up"
       sign-up-tagline: "Save your results & create free quizzes"
       search: Search
-      settings: Settings
+      settings: Edit Settings
       log-in: "Log in"
       log-out: "Log out"
       terms: Terms
@@ -286,20 +286,26 @@ en:
     offer:
       enabled: "Enabled"
       header: 'Campaign'
-      lead-form: 'Lead form'
-      like-form: 'Like Facebook page'
-      like-header: 'Facebook page url'
-      link-form: 'Click-thru to page'
-      link-header: 'Go-to page'
-      offer-details-header: 'Details'
-      no-offer-form: 'None'
-      placeholders:
-        heading: 'Heading'
-        details: 'Details (optional)'
-        email-placeholder: 'Email placeholder (optional)'
-        button-label: 'Button label'
-        facbebook-url: 'http://facebook.com/facebook.page'
-        link-form-url: 'http://yourlandingpage.com'
+
+      offer-title: 'Title'
+      offer-description: 'Description (optional)'
+
+      link-title-example: 'e.g. 10% off your next order!'
+      link-description-example: 'Click the button below to activate'
+
+      like-title-example: 'e.g. Like us on Facebook'
+      like-description-example: 'e.g. Facebook fans get special offers'
+      like-url-title: 'Facebook page url'
+      like-url-example: 'http://facebook.com/facebook.page'
+
+      lead-title-example: 'e.g. Sign up for updates!'
+      lead-description-example: 'Stay up to date & get special offers'
+
+      link-button-label-title: 'Button label'
+      link-button-label-example: 'Apply discount'
+      link-button-url-title: 'Button URL'
+      link-button-url-example: 'http://example.com'
+
     outcome:
       header: 'Results'
       description: "Description (optional)"
@@ -360,6 +366,6 @@ en:
         show-feedback: 'Show instant answer feedback'
     sharing:
       header: 'Sharing'
-      share-image: 'Share image'
+      share-image: 'Custom share image'
       custom-text: 'Custom share text'
       placeholder: 'e.g. Submit'
