@@ -286,30 +286,28 @@ en:
     offer:
       enabled: "Enabled"
       header: 'Campaign'
-      lead-form: 'Lead form'
+      is-enabled-button-label: 'Visible to quiz takers'
+
       like-form: 'Like Facebook page'
-      link-form: 'Click-thru to page'
-
-      offer-title: 'Title'
-      offer-description: 'Description (optional)'
-
-      link-title-example: 'e.g. 10% off your next order!'
-      link-description-example: 'Click the button below to activate'
-
       facebook-title-example: 'e.g. Like us on Facebook'
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
 
+      lead-form: 'Lead form'
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
 
+      link-form: 'Click-thru to page'
+      link-title-example: 'e.g. 10% off your next order!'
+      link-description-example: 'Click the button below to activate'
       link-button-label-title: 'Button label'
       link-button-label-example: 'Apply discount'
       link-button-url-title: 'Button URL'
       link-button-url-example: 'http://example.com'
 
-      is-enabled-button-label: 'Visible to quiz takers'
+      offer-title: 'Title'
+      offer-description: 'Description (optional)'
 
     outcome:
       header: 'Results'
@@ -331,7 +329,8 @@ en:
       description-example: "e.g. Hint: it is not Hawaii"
       disable-images: "Disable images"
       enable-images: "Enable images"
-      feedback: "Feedback"
+      feedback-title: "Feedback (optional)"
+      feedback-example: "e.g. Bees can smell fear"
       image: "Image"
       select-all: "Select all"
       select-one: "Select one"
