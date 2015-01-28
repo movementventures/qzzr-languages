@@ -51,38 +51,48 @@ pt:
       trivia: Trivia
       your-feed: "Seu quiz feed"
     results:
-      brackets: 
+      bracket:
+        count: '%{smart_count} pessoa |||| %{smart_count} pessoas'
+        range: '%{lower}-%{upper}%'
         title: Brackets
-        count: "%{smart_count} pessoas"
       grade-count: "%{score}/%{count}"
       more-about-your-result: "Mais sobre seu resultado"
       more-details: "Mais detalhes"
       range: "%{lower}-%{upper}%"
+      recommended: "Outros quizzes ótimos"
+      retake: "Refazer"
       scored-percentage: "Marcou %{percentage}%"
       scroll-down: "Rolar para baixo"
       share-your-result: 'Compartilhar seu resultado'
-      your-result: "Resultado"
+      your-result-graded: "Resultado: Marcou %{percentage}%"
+      your-result-outcome: "Resultado: %{outcome}"
     search:
       no-results: "Não encontramos nada por sua pesquisa."
       no-results-suggestion: "Seja menos especifico."
-      search-qzzr: "Pesquisar no Qzzr"
+      search-qzzr: "Pesquisar"
     sidenav:
       beat-em: "Beat 'em!"
       blog: "Blog"
+      featured-topics: 'Featured Topics'
       follow-these-folks: "Seguir estas pessoas"
-      help: "Ajuda"
+      go-pro: "Para a empresa"
+      guidelines: "Guia de Contento"
+      help: "Ajuda e Suporte"
       home: "Início"
       how-to: "Ajuda"
-      leaderboards: "Leaderboards"
-      popular: "Popular"
-      register: "Cadastrar-se"
+      leaderboards: Leaderboards
+      popular: Popular
+      privacy: "Privacidade"
+      profile: "Perfil"
+      sign-up: "Cadastrar-se"
+      sign-up-tagline: "Save your results & create free quizzes"
       search: "Pesquisar"
-      settings: "Configuraçōes"
-      sign-in: "Entrar"
-      sign-out: "Sair"
+      settings: "Editar Configuraçōes"
+      log-in: "Entrar"
+      log-out: "Sair"
       terms: "Termos"
       topics: "Tópicos"
-      trending: "Trending"
+      trending: "Popular"
       upgrade: "Upgrade a Pro"
     social:
       back: 'Voltar para o code recomendado'
@@ -91,6 +101,8 @@ pt:
       branded-graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue mais do que isso?"
       branded-outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" no Qzzr! E você?"
       branded-quiz: "Ver \"%{quiz_title}\" no Qzzr!"
+      can-you-match: "CAN YOU MATCH THAT?"
+      can-you-top: "CAN YOU TOP THAT?"
       caption: "Feito com Qzzr"
       description: "Faça seus próprios quizzes gratuitamente no Qzzr, a maneira mais simples do mundo."
       email: 'Email'
@@ -100,27 +112,38 @@ pt:
       graded-result-match: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue?"
       graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue mais do que isso?"
       hashtag: "quizzes"
+      image-outcome-result: "RESULT: %{title}"
+      image-graded-result: "SCORED %{percent}%"
       link: 'Link'
       linkedin: 'Compartilhar'
       on-qzzr: 'no Qzzr!'
       outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" E você?"
-      pinterest: 'Pin it'
+      pinterest: 'Pin'
       quiz: "Ver \"%{quiz_title}\""
       reddit: 'Compartilhar'
+      share-quiz: "Share this quiz"
       trouble: 'Dificuladades insirir o quiz? Experimente com este codigo'
       tumblr: 'Compartilhar'
       twitter: 'Tweet'
+      what-about-you: 'E você?'
       wordpress: 'WordPress'
+      wordpress-link: 'WordPress (por uso com nosso %{link})'
+      wordpress-link-label: 'plugin'
     take:
       advance: "Clique em qualquer lugar para avançar"
       correct: "Correto"
+      correct-feedback: "Correto: %{feedback}"
       done: "Feito"
       incorrect: "Incorreto"
+      incorrect-feedback: "Incorreto: %{feedback}"
       made-by: "Criado por %{author}"
+      make-quiz: "Quer fazer seu próprio quiz no Qzzr?"
+      make-quiz-label: "Discobre o Qzzr"
       multiple-select: "Selecione todos os que se aplicam"
       next: "Próximo"
       question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
       start: "Iniciar"
+      tap-to-advance: "Toque para avançar"
       times-taken: "Feito %{smart_count} vez |||| Feito %{smart_count} vezes"
     topics:
       arts: Arte
