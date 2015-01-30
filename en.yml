@@ -197,6 +197,7 @@ en:
       description: "Make your own quizzes for free on Qzzr, the world's simplest quiz tool."
       email: 'Email'
       embed: 'Embed in page'
+      embed-default: 'Default'
       facebook: 'Share'
       gplus: 'Share'
       graded-result-match: "I Scored %{score}% on \"%{quiz_title}\" Can you match that?"
