@@ -321,6 +321,7 @@ en:
         description: "Description (optional)"
     publish:
       header: 'Publish'
+      update: 'Update'
       preview: 'Preview'
       unpublish: 'Unpublish'
       delete: 'Delete quiz'
