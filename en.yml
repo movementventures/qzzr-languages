@@ -315,7 +315,7 @@ en:
       description: "Description (optional)"
       description-example: 'e.g. You enjoy being awesome...'
       add-graded-outcome: 'Define results (optional)'
-      graded-outcome-example: 'e.g. You\'re a genius (95-100)'
+      graded-outcome-example: "e.g. You're a genius (95-100)"
       image: "Image"
       title: "Result title"
       title-example: 'e.g. Indiana Jones'
