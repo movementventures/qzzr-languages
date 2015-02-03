@@ -314,6 +314,8 @@ en:
       header: 'Results'
       description: "Description (optional)"
       description-example: 'e.g. You enjoy being awesome...'
+      add-graded-outcome: 'Define results (optional)'
+      graded-outcome-example: 'e.g. You\'re a genius (95-100)'
       image: "Image"
       title: "Result title"
       title-example: 'e.g. Indiana Jones'
@@ -341,7 +343,7 @@ en:
       true-false: "True/false"
       type: "Type"
     quiz:
-      add-outcome: "Add outcome"
+      add-outcome: "Add result"
       add-question: "New question"
       background-topics: "Upload background & select topics"
       create:
