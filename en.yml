@@ -363,6 +363,7 @@ en:
       background: 'Upload Background'
       header: 'Settings'
       appearance: 'Appearance'
+      tweet-via: 'Tweet via'
       quiz-type:
         header: 'Quiz Type'
         graded-quiz: 'Graded quiz'
