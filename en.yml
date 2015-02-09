@@ -284,6 +284,9 @@ en:
       add: 'Add answer'
       image: "Image"
       label: "Label"
+    appearance:
+      font-example: 'e.g. Georgia'
+      font-family: 'Font Family'
     offer:
       enabled: "Enabled"
       header: 'Campaign'
