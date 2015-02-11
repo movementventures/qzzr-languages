@@ -314,17 +314,18 @@ en:
       offer-description: 'Description (optional)'
 
     outcome:
-      header: 'Results'
-      description: "Description (optional)"
-      description-example: 'e.g. You enjoy being awesome...'
       add-graded-outcome: 'Define results (optional)'
-      graded-outcome-example: "e.g. You're a genius (95-100)"
-      image: "Image"
-      title: "Result title"
-      title-example: 'e.g. Indiana Jones'
       default:
         title: "Catch-all"
         description: "Description (optional)"
+      description: "Description (optional)"
+      description-example: 'e.g. You enjoy being awesome...'
+      graded-outcome-example: "e.g. You're a genius (95-100)"
+      header: 'Results'
+      image: "Image"
+      range-warning: 'If ranges overlap, vertical order determines priority'
+      title: "Result title"
+      title-example: 'e.g. Indiana Jones'
     publish:
       header: 'Publish'
       update: 'Update'
