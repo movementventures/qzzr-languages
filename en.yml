@@ -284,6 +284,7 @@ en:
       add: 'Add answer'
       image: "Image"
       label: "Label"
+      link-result: 'Link result'
     appearance:
       font-example: 'e.g. Georgia'
       font-family: 'Font Family'
