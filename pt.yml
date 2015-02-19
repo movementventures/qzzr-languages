@@ -15,9 +15,9 @@ pt:
     events:
       head-to-head: "%{first-user} marcou %{first-score} contra %{second-user} que marcou %{second-score}"
       quiz-posted: "%{user} postou um quiz"
-      result-graded: "%{user} marcou %{score}"
-      result-graded-outcome: "%{user} marcou %{score} & recebeu \"%{outcome}\""
-      result-outcome: "%{user} recebeu \"%{outcome}\""
+      result-graded: "%{user} tirou %{score}"
+      result-graded-outcome: "%{user} marcou %{score} & tirou \"%{outcome}\""
+      result-outcome: "%{user} tirou \"%{outcome}\""
     header:
       create: "Fazer um quiz"
       go-pro: "Upgrade a Pro"
@@ -97,31 +97,31 @@ pt:
     social:
       back: 'Voltar para o code recomendado'
       branded-caption: "Feito com Qzzr - Quizzes para você criado por você"
-      branded-graded-result-match: "Eu marquei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue?"
-      branded-graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue mais do que isso?"
-      branded-outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" no Qzzr! E você?"
+      branded-graded-result-match: "Eu tirei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue?"
+      branded-graded-result-top: "Eu tirei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue mais do que isso?"
+      branded-outcome-result: "Eu tirei \"%{outcome_title}\" no \"%{quiz_title}\" no Qzzr! E você?"
       branded-quiz: "Ver \"%{quiz_title}\" no Qzzr!"
-      can-you-match: "CAN YOU MATCH THAT?"
-      can-you-top: "CAN YOU TOP THAT?"
+      can-you-match: "CONSEGUE?"
+      can-you-top: "CONSEGUE?"
       caption: "Feito com Qzzr"
       description: "Faça seus próprios quizzes gratuitamente no Qzzr, a maneira mais simples do mundo."
       email: 'Email'
       embed: 'Codigo para insirir na pagina'
       facebook: 'Compartilhar'
       gplus: 'Compartilhar'
-      graded-result-match: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue?"
-      graded-result-top: "Eu marquei %{score}% em \"%{quiz_title}\" Consegue mais do que isso?"
+      graded-result-match: "Eu tirei %{score}% em \"%{quiz_title}\" Consegue?"
+      graded-result-top: "Eu tirei %{score}% em \"%{quiz_title}\" Consegue mais do que isso?"
       hashtag: "quizzes"
-      image-outcome-result: "RESULT: %{title}"
-      image-graded-result: "SCORED %{percent}%"
+      image-outcome-result: "RESULTADO: %{title}"
+      image-graded-result: "TIREI %{percent}%"
       link: 'Link'
       linkedin: 'Compartilhar'
       on-qzzr: 'no Qzzr!'
-      outcome-result: "Eu recebei \"%{outcome_title}\" no \"%{quiz_title}\" E você?"
+      outcome-result: "Eu tirei \"%{outcome_title}\" no \"%{quiz_title}\" E você?"
       pinterest: 'Pin'
       quiz: "Ver \"%{quiz_title}\""
       reddit: 'Compartilhar'
-      share-quiz: "Share this quiz"
+      share-quiz: "Compartilhar este quiz"
       trouble: 'Dificuladades insirir o quiz? Experimente com este codigo'
       tumblr: 'Compartilhar'
       twitter: 'Tweet'
