@@ -367,8 +367,9 @@ en:
       title-example: "e.g. which hero are you?"
     settings:
       background: 'Upload Background'
-      header: 'Settings'
+      header: 'Quiz Settings'
       appearance: 'Appearance'
+      hashtags: 'Hashtags'
       tweet-via: 'Tweet via'
       quiz-type:
         header: 'Quiz Type'
@@ -377,8 +378,9 @@ en:
       advanced:
         header: 'Advanced'
         hide-on-networks: 'Hide quiz on Qzzr networks'
-        randomized-answers: "Randomize answer order"
-        randomized-questions: "Randomize question order"
+        randomized-answers: "Randomize answers"
+        randomized-questions: "Randomize questions"
+        share-results: "Share results instead of quiz title"
         show-feedback: 'Show instant answer feedback'
     sharing:
       header: 'Sharing'
@@ -386,5 +388,5 @@ en:
       custom-text: 'Custom share text'
       placeholder: 'e.g. Submit'
       redirect-url-example: 'e.g. http://yoursite.com/quiz'
-      twitter-via-example: 'e.g. @yourHandle'
-      twitter-hashtags-example: 'e.g. #awesomeQuiz'
+      twitter-via-example: '@twitter_handle'
+      twitter-hashtags-example: '#quiz #personality'
