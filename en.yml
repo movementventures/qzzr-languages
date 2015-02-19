@@ -290,6 +290,7 @@ en:
       font-family: 'Font Family'
     offer:
       enabled: "Enabled"
+      explanation: 'Collect emails, present offers and get likes for your Facebook page'
       header: 'Offers'
       is-enabled-button-label: 'Visible to quiz takers'
 
