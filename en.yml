@@ -290,7 +290,7 @@ en:
       font-family: 'Font Family'
     offer:
       enabled: "Enabled"
-      header: 'Campaign'
+      header: 'Offers'
       is-enabled-button-label: 'Visible to quiz takers'
 
       like-form: 'Facebook Like'
