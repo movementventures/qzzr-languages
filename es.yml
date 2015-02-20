@@ -86,6 +86,41 @@ es:
       topics: Temas
       trending: De moda
       upgrade: Actualizar
+     social:
+      back: 'Volver al principio código recomendado'
+      branded-caption: "Hecho con Qzzr - Quizzes para ti, creaste por ti"
+      branded-graded-result-match: "Me ha salido %{score}% en \"%{quiz_title}\" en Qzzr! ¿Y a ti?"
+      branded-graded-result-top: "Me ha salido %{score}% en \"%{quiz_title}\" en Qzzr! ¿Y a ti?"
+      branded-outcome-result: "Me ha salido \"%{outcome_title}\" en \"%{quiz_title}\" en Qzzr! ¿Y a ti?"
+      branded-quiz: "Ver \"%{quiz_title}\" en Qzzr!"
+      can-you-match: "CONSEGUE?"
+      can-you-top: "CONSEGUE?"
+      caption: "Hecho con Qzzr"
+      description: "Hacer sus propias quizzes gratuita en Qzzr, la manera más sencilla del mundo."
+      email: 'Email'
+      embed: 'Código para insirir en la página'
+      facebook: 'Compartir'
+      gplus: 'Compartir'
+      graded-result-match: "Me ha salido %{score}% en \"%{quiz_title}\" ¿Y a ti?"
+      graded-result-top: "Me ha salido %{score}% en \"%{quiz_title}\" ¿Y a ti?"
+      hashtag: "quizzes"
+      image-outcome-result: "RESULTADO: %{title}"
+      image-graded-result: "MARQUÉ %{percent}%"
+      link: 'Link'
+      linkedin: 'Compartir'
+      on-qzzr: 'no Qzzr!'
+      outcome-result: "Me ha salido \"%{outcome_title}\" en \"%{quiz_title}\" ¿Y a ti?"
+      pinterest: 'Pin'
+      quiz: "Ver \"%{quiz_title}\""
+      reddit: 'Compartir'
+      share-quiz: "Compartir este quiz"
+      trouble: 'Problemas de insertar el código? Experimenta este código alternativo'
+      tumblr: 'Compartir'
+      twitter: 'Tweet'
+      what-about-you: '¿Y a ti?'
+      wordpress: 'WordPress'
+      wordpress-link: 'WordPress (para su uso con nuestro %{link})'
+      wordpress-link-label: 'plugin'
     take:
       click-to-advance: "Hacer click para avanzar"
       correct: Correcto
