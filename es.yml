@@ -86,7 +86,7 @@ es:
       topics: Temas
       trending: De moda
       upgrade: Actualizar
-     social:
+    social:
       back: 'Volver al principio código recomendado'
       branded-caption: "Hecho con Qzzr - Quizzes para ti, creaste por ti"
       branded-graded-result-match: "Me ha salido %{score}% en \"%{quiz_title}\" en Qzzr! ¿Y a ti?"
