@@ -130,7 +130,7 @@ pt:
       wordpress-link: 'WordPress (por uso com nosso %{link})'
       wordpress-link-label: 'plugin'
     take:
-      advance: "Clique em qualquer lugar para avançar"
+      click-to-advance: "Clique em qualquer lugar para avançar"
       correct: "Correto"
       correct-feedback: "Correto: %{feedback}"
       done: "Feito"
