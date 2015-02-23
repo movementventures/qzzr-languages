@@ -367,7 +367,7 @@ en:
       title: "Quiz Title"
       title-example: "e.g. which hero are you?"
     settings:
-      background: 'Upload Background'
+      background: 'Upload background'
       header: 'Quiz Settings'
       appearance: 'Appearance'
       hashtags: 'Hashtags'
