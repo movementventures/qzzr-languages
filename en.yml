@@ -344,13 +344,13 @@ en:
       image: "Image"
       select-all: "Select all"
       select-one: "Select one"
-      title: "Question Title"
+      title: "Question title"
       title-example: "e.g. What state is Seattle in?"
       true-false: "True/false"
       type: "Type"
     quiz:
       add-outcome: "Add result"
-      add-question: "New question"
+      add-question: "Add a question"
       background-topics: "Upload background & select topics"
       create:
         choose: 'Choose a quiz type'
@@ -364,7 +364,7 @@ en:
       select-topic: "List in a topic"
       select-another-topic: "List in another topic"
       share-redirect-url: "Share redirect URL"
-      title: "Quiz Title"
+      title: "Quiz title"
       title-example: "e.g. which hero are you?"
     settings:
       background: 'Upload background'
