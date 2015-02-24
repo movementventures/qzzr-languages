@@ -369,7 +369,7 @@ en:
     settings:
       background: 'Upload background'
       header: 'Quiz Settings'
-      appearance: 'Appearance'
+      design: 'Design'
       hashtags: 'Hashtags'
       tweet-via: 'Tweet via'
       quiz-type:
