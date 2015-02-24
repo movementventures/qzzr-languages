@@ -287,7 +287,7 @@ en:
       link-result: 'Link result'
     appearance:
       font-example: 'e.g. Georgia'
-      font-family: 'Font Family'
+      font-family: 'Font family'
     offer:
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
