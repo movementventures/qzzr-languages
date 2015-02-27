@@ -152,10 +152,12 @@ en:
       recommended: "Other great quizzes"
       retake: "Retake"
       scored-percentage: "Scored %{percentage}%"
-      scroll-down: "Scroll down"
+      scroll-down: "Scroll down for your result"
       share-your-result: 'Share your result'
       your-result-graded: "Result: Scored %{percentage}%"
       your-result-outcome: "Result: %{outcome}"
+      a-quick-message: "A quick message"
+      from: "from"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
