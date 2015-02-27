@@ -284,7 +284,7 @@ en:
       add: 'Add answer'
       image: "Image"
       label: "Label"
-      link-result: 'Link result'
+      link-result: 'Link outcome'
     appearance:
       font-example: 'e.g. Georgia'
       font-family: 'Font family'
@@ -316,17 +316,17 @@ en:
       offer-description: 'Description (optional)'
 
     outcome:
-      add-graded-outcome: 'Define results (optional)'
+      add-graded-outcome: 'Define outcomes (optional)'
       default:
         title: "Catch-all"
         description: "Description (optional)"
       description: "Description (optional)"
       description-example: 'e.g. You enjoy being awesome...'
       graded-outcome-example: "e.g. You're a genius (95-100)"
-      header: 'Results'
+      header: 'Outcomes'
       image: "Image"
       range-warning: 'If ranges overlap, vertical order determines priority'
-      title: "Result title"
+      title: "Outcome title"
       title-example: 'e.g. Indiana Jones'
     publish:
       header: 'Publish'
@@ -349,7 +349,7 @@ en:
       true-false: "True/false"
       type: "Type"
     quiz:
-      add-outcome: "Add result"
+      add-outcome: "Add outcome"
       add-question: "Add a question"
       background-topics: "Upload background & select topics"
       create:
