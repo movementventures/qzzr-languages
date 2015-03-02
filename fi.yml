@@ -52,7 +52,7 @@ fi:
       trivia: Trivia
       your-feed: "Uutiset"
     results:
-      brackets: 
+      brackets:
         count: "%{smart_count} ihminen ||||%{smart_count} ihmistä"
         range: '%{lower}-%{upper}%'
         title: Ryhmittely
@@ -123,7 +123,7 @@ fi:
       done: Valmis
       incorrect: Väärin
       made-by: "Luonut %{author}"
-      multiple-select: "Valitse kaikki soveltuvat"
+      multiple-select: "Valitse kaikki soveltuvat: "
       next: Seuraava
       question-count: "%{smart_count} kysymys |||| %{smart_count} kysymystä"
       start: Aloita

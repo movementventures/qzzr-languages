@@ -139,7 +139,7 @@ pt:
       made-by: "Criado por %{author}"
       make-quiz: "Quer fazer seu próprio quiz no Qzzr?"
       make-quiz-label: "Discobre o Qzzr"
-      multiple-select: "Selecione todos os que se aplicam"
+      multiple-select: "Selecione todos os que se aplicam: "
       next: "Próximo"
       question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
       start: "Iniciar"
