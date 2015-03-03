@@ -123,7 +123,8 @@ fi:
       done: Valmis
       incorrect: Väärin
       made-by: "Luonut %{author}"
-      multiple-select: "Valitse kaikki soveltuvat: "
+      multiple-select: "Valitse kaikki soveltuvat"
+      multiple-select-colon: "Valitse kaikki soveltuvat: "
       next: Seuraava
       question-count: "%{smart_count} kysymys |||| %{smart_count} kysymystä"
       start: Aloita

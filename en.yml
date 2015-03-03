@@ -234,7 +234,8 @@ en:
       made-by: "Made by %{author}"
       make-quiz: "Want to make your own quiz for free?"
       make-quiz-label: "Check out qzzr"
-      multiple-select: "Select all that apply: "
+      multiple-select: "Select all that apply"
+      multiple-select-colon: "Select all that apply: "
       next: Next
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
