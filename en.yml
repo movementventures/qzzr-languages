@@ -345,11 +345,13 @@ en:
       feedback-title: "Feedback (optional)"
       feedback-example: "e.g. Bees can smell fear"
       image: "Image"
+      select-all-apply: "Select all that apply"
       select-all: "Select all"
       select-one: "Select one"
       title: "Question title"
       title-example: "e.g. What state is Seattle in?"
       true-false: "True/false"
+      true-false-warning: "This will remove your current labels and images"
       type: "Type"
     quiz:
       add-outcome: "Add outcome"
