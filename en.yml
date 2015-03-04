@@ -351,7 +351,7 @@ en:
       title: "Question title"
       title-example: "e.g. What state is Seattle in?"
       true-false: "True/false"
-      true-false-warning: "This will remove your current labels and images"
+      true-false-warning: "Changing to true/false will delete your current answer options.  Still want to proceed?"
       type: "Type"
     quiz:
       add-outcome: "Add outcome"
