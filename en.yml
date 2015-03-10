@@ -373,7 +373,7 @@ en:
       title-example: "e.g. which hero are you?"
     settings:
       background: 'Upload background'
-      header: 'Quiz Settings'
+      header: 'Quiz settings'
       design: 'Design'
       hashtags: 'Hashtags'
       tweet-via: 'Tweet via'
