@@ -295,8 +295,8 @@ en:
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
       header: 'Offers'
+      gate-results: 'Gate results'
       is-enabled-button-label: 'Visible to quiz takers'
-
       like-form: 'Facebook Like'
       facebook-title-example: 'e.g. Like us on Facebook'
       facebook-description-example: 'e.g. Facebook fans get special offers'
