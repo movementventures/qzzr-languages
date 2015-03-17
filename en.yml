@@ -294,19 +294,17 @@ en:
     offer:
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
-      header: 'Offers'
-      gate-results: 'Gate results'
-      is-enabled-button-label: 'Visible to quiz takers'
-      like-form: 'Facebook Like'
       facebook-title-example: 'e.g. Like us on Facebook'
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
-
+      gate-results: 'Gate results'
+      header: 'Offers'
+      is-enabled-button-label: 'Visible to quiz takers'
       lead-form: 'Form'
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
-
+      like-form: 'Facebook Like'
       link-form: 'Link'
       link-title-example: 'e.g. 10% off your next order!'
       link-description-example: 'Click the button below to activate'
@@ -314,10 +312,8 @@ en:
       link-button-label-example: 'Apply discount'
       link-button-url-title: 'Button URL'
       link-button-url-example: 'http://example.com'
-
       offer-title: 'Title'
       offer-description: 'Description (optional)'
-
     outcome:
       add-graded-outcome: 'Define outcomes (optional)'
       default:
