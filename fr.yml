@@ -1,175 +1,176 @@
----
-offer:
-  email-placeholder: exemple@email.com
-  enter-your-email: "Saisir votre adresse e-mail"
-  skip: Passer
-  submit: Envoyer
-quiz:
-  header: "TEST : %{title}"
-results:
-  bracket:
-    count: "%{smart_count} personnes |||| %{smart_count} personnes"
-    title: Classement
-  range: "%{lower}-%{upper}%"
-  recommended: "D'autres tests sympa"
-  retake: Refaire
-  scored-percentage: "Score %{percentage}%"
-  scroll-down: "Faites défiler vers le bas pour connaître votre résultat"
-  share-your-result: "Partager votre résultat"
-  your-result-graded: "Résultat : Score de %{percentage}%"
-  your-result-outcome: "Résultat : %{outcome}"
-  a-quick-message: "Un message rapide"
-  from: de
-social:
-  back: "Revenir au code intégré recommandé"
-  branded-caption: "Réalisé avec Qzzr – Des test pour vous créés par vous"
-  branded-graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?"
-  branded-outcome-result: "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" sur Qzzr ! Et toi ?"
-  branded-quiz: "Découvre \"%{quiz_title}\" sur Qzzr !"
-  can-you-match: "PEUX-TU FAIRE MIEUX ?"
-  caption: "Créé avec Qzzr"
-  description: "Créez vos propres tests gratuitement sur Qzzr, l'outil de création de tests le plus simple au monde."
-  email: E-mail
-  embed: "Intégrer dans la page"
-  embed-default: "Par défaut"
-  facebook: Partager
-  gplus: Partager
-  graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" Peux-tu faire mieux ?"
-  hashtag: tests
-  image-outcome-result: "RÉSULTAT : %{title}"
-  image-graded-result: "SCORE OBTENU %{percent} %"
-  link: Lien
-  linkedin: Partager
-  on-qzzr: "sur Qzzr !"
-  outcome-result: "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" Et toi ?"
-  pinterest: Épingler
-  quiz: "Viens découvrir \"%{quiz_title}\""
-  reddit: Partager
-  share-quiz: "Partager ce test"
-  trouble: "Des problèmes d'intégration ? Essayez ce code"
-  tumblr: Partager
-  twitter: Tweeter
-  what-about-you: "ET TOI ?"
-  wordpress: WordPress
-  wordpress-link: "WordPress (à utiliser avec notre %{link})"
-  wordpress-link-label: plugin
-take:
-  challenge-a-friend: "Défiez vos amis"
-  click-to-advance: "Cliquez n'importe où pour continuer"
-  correct: Correct
-  correct-feedback: "Correct : %{feedback}"
-  done: Envoyer
-  incorrect: Incorrect
-  incorrect-feedback: "Incorrect : %{feedback}"
-  made-by: "Créé par %{author}"
-  make-quiz: "Envie de créer gratuitement votre propre test ?"
-  make-quiz-label: "Découvrez Qzzr"
-  multiple-select: "Sélectionner toutes les réponses pertinentes"
-  multiple-select-colon: "Sélectionner toutes les réponses pertinentes :"
-  next: Suivant
-  question-count: "%{smart_count} question |||| %{smart_count} questions"
-  start: Commencer
-  tap-to-advance: "Tapez n'importe où pour continuer"
-  times-taken: "Fait %{smart_count} fois |||| Fait %{smart_count} fois"
-maker:
-  answer:
-    add: "Ajouter une réponse"
-    image: Image
-    label: Intitulé
-    link-result: "Schématiser un résultat"
-  offer:
-    explanation: "Recevez des e-mails, proposez des offres et obtenez plus de « J'aime » pour votre page Facebook"
-    header: Offres
-    is-enabled-button-label: "Visible aux personnes qui font le test"
-    like-form: "« J'aime » Facebook"
-    facebook-title-example: "p.ex. Aimez-nous sur Facebook"
-    facebook-description-example: "p.ex. Les fans Facebook reçoivent des offres spéciales"
-    facebook-url-title: "URL de la page Facebook"
-    facebook-url-example: "http://facebook.com/facebook.page"
-    lead-form: Forme
-    lead-title-example: "p.ex. Inscrivez-vous pour recevoir toutes les mises à jour !"
-    lead-description-example: "Restez informés et profitez d'offres spéciales"
-    link-form: Lien
-    link-title-example: "p.ex. 10 % de réduction sur votre prochaine commande"
-    link-description-example: "Cliquez sur le bouton ci-dessous pour activer"
-    link-button-label-title: "Intitulé du bouton"
-    link-button-label-example: "Appliquer une réduction"
-    link-button-url-title: "URL du bouton"
-    link-button-url-example: "http://exemple.com"
-    offer-title: Titre
-    offer-description: "Description (facultatif)"
-  outcome:
-    add-graded-outcome: "Définir les résultats (facultatif)"
-    default:
-      title: Passe-partout
+fr:
+  network:
+    offer:
+      email-placeholder: exemple@email.com
+      enter-your-email: "Saisir votre adresse e-mail"
+      skip: Passer
+      submit: Envoyer
+    quiz:
+      header: "TEST : %{title}"
+    results:
+      bracket:
+        count: "%{smart_count} personnes |||| %{smart_count} personnes"
+        title: Classement
+      range: "%{lower}-%{upper}%"
+      recommended: "D'autres tests sympa"
+      retake: Refaire
+      scored-percentage: "Score %{percentage}%"
+      scroll-down: "Faites défiler vers le bas pour connaître votre résultat"
+      share-your-result: "Partager votre résultat"
+      your-result-graded: "Résultat : Score de %{percentage}%"
+      your-result-outcome: "Résultat : %{outcome}"
+      a-quick-message: "Un message rapide"
+      from: de
+    social:
+      back: "Revenir au code intégré recommandé"
+      branded-caption: "Réalisé avec Qzzr – Des test pour vous créés par vous"
+      branded-graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?"
+      branded-outcome-result: "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" sur Qzzr ! Et toi ?"
+      branded-quiz: "Découvre \"%{quiz_title}\" sur Qzzr !"
+      can-you-match: "PEUX-TU FAIRE MIEUX ?"
+      caption: "Créé avec Qzzr"
+      description: "Créez vos propres tests gratuitement sur Qzzr, l'outil de création de tests le plus simple au monde."
+      email: E-mail
+      embed: "Intégrer dans la page"
+      embed-default: "Par défaut"
+      facebook: Partager
+      gplus: Partager
+      graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" Peux-tu faire mieux ?"
+      hashtag: tests
+      image-outcome-result: "RÉSULTAT : %{title}"
+      image-graded-result: "SCORE OBTENU %{percent} %"
+      link: Lien
+      linkedin: Partager
+      on-qzzr: "sur Qzzr !"
+      outcome-result: "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" Et toi ?"
+      pinterest: Épingler
+      quiz: "Viens découvrir \"%{quiz_title}\""
+      reddit: Partager
+      share-quiz: "Partager ce test"
+      trouble: "Des problèmes d'intégration ? Essayez ce code"
+      tumblr: Partager
+      twitter: Tweeter
+      what-about-you: "ET TOI ?"
+      wordpress: WordPress
+      wordpress-link: "WordPress (à utiliser avec notre %{link})"
+      wordpress-link-label: plugin
+    take:
+      challenge-a-friend: "Défiez vos amis"
+      click-to-advance: "Cliquez n'importe où pour continuer"
+      correct: Correct
+      correct-feedback: "Correct : %{feedback}"
+      done: Envoyer
+      incorrect: Incorrect
+      incorrect-feedback: "Incorrect : %{feedback}"
+      made-by: "Créé par %{author}"
+      make-quiz: "Envie de créer gratuitement votre propre test ?"
+      make-quiz-label: "Découvrez Qzzr"
+      multiple-select: "Sélectionner toutes les réponses pertinentes"
+      multiple-select-colon: "Sélectionner toutes les réponses pertinentes :"
+      next: Suivant
+      question-count: "%{smart_count} question |||| %{smart_count} questions"
+      start: Commencer
+      tap-to-advance: "Tapez n'importe où pour continuer"
+      times-taken: "Fait %{smart_count} fois |||| Fait %{smart_count} fois"
+  maker:
+    answer:
+      add: "Ajouter une réponse"
+      image: Image
+      label: Intitulé
+      link-result: "Schématiser un résultat"
+    offer:
+      explanation: "Recevez des e-mails, proposez des offres et obtenez plus de « J'aime » pour votre page Facebook"
+      header: Offres
+      is-enabled-button-label: "Visible aux personnes qui font le test"
+      like-form: "« J'aime » Facebook"
+      facebook-title-example: "p.ex. Aimez-nous sur Facebook"
+      facebook-description-example: "p.ex. Les fans Facebook reçoivent des offres spéciales"
+      facebook-url-title: "URL de la page Facebook"
+      facebook-url-example: "http://facebook.com/facebook.page"
+      lead-form: Forme
+      lead-title-example: "p.ex. Inscrivez-vous pour recevoir toutes les mises à jour !"
+      lead-description-example: "Restez informés et profitez d'offres spéciales"
+      link-form: Lien
+      link-title-example: "p.ex. 10 % de réduction sur votre prochaine commande"
+      link-description-example: "Cliquez sur le bouton ci-dessous pour activer"
+      link-button-label-title: "Intitulé du bouton"
+      link-button-label-example: "Appliquer une réduction"
+      link-button-url-title: "URL du bouton"
+      link-button-url-example: "http://exemple.com"
+      offer-title: Titre
+      offer-description: "Description (facultatif)"
+    outcome:
+      add-graded-outcome: "Définir les résultats (facultatif)"
+      default:
+        title: Passe-partout
+        description: "Description (facultatif)"
       description: "Description (facultatif)"
-    description: "Description (facultatif)"
-    description-example: "p.ex. Vous aimez être formidable..."
-    graded-outcome-example: "p.ex. Vous êtes un génie (95-100)"
-    header: Résultats
-    image: Image
-    range-warning: "Si les plages se superposent, l'ordre vertical détermine la priorité"
-    title: "Titre du résultat"
-    title-example: "p.ex. Indiana Jones"
-  publish:
-    header: Publier
-    update: "Mettre à jour"
-    preview: "Aperçu de l'intégration"
-    unpublish: "Annuler la publication"
-    delete: "Supprimer le test"
-  question:
-    description: "Description (facultatif)"
-    description-example: "p.ex. Indice : ce n'est pas Hawaï"
-    disable-images: "Désactiver les images"
-    enable-images: "Activer les images"
-    feedback-title: "Commentaires (facultatif)"
-    feedback-example: "p.ex. Les abeilles peuvent sentir la peur"
-    image: Image
-    select-all-apply: "Sélectionner toutes les réponses pertinentes"
-    select-all: "Sélectionner tout"
-    select-one: "Sélectionner une réponse"
-    title: "Titre de la question"
-    title-example: "p.ex. Dans quel état se trouve Seattle ?"
-    true-false: "Vrai ou Faux ?"
-    true-false-warning: "Basculer vers le mode Vrai ou Faux supprimera toutes vos options de réponse actuelles. Souhaitez-vous tout de même poursuivre ?"
-    type: Type
-  quiz:
-    add-outcome: "Ajouter une résultat"
-    add-question: "Ajouter une question"
-    create:
-      choose: "Choisir un type de test"
-      graded-help: "p.ex. De quel film s'agit-il ?"
-      graded-label: Classé
-      outcome-help: "p.ex. De quelle couleur êtes-vous ?"
-      outcome-label: Résultat
-    description: "Description (facultatif)"
-    description-example: "p.ex. Identifiez ces sites célèbres"
-    image: Image
-    share-redirect-url: "Partager l'URL de redirection"
-    title: "Titre du test"
-    title-example: "p.ex. Quel héros êtes-vous"
-  settings:
-    background: "Télécharger l'arrière-plan"
-    header: "Paramètres du test"
-    design: Design
-    hashtags: "Mots dièse"
-    tweet-via: "Tweeter via"
-    quiz-type:
-      header: "Type de test"
-      graded-quiz: "Test classé"
-      outcome-quiz: "Test de résultat"
-    advanced:
-      header: Avancé
-      hide-on-networks: "Masquer le test sur les réseaux de Qzzr"
-      randomized-answers: "Randomiser les réponses"
-      randomized-questions: "Randomiser les questions"
-      share-results: "Partager les résultats plutôt que le titre du test"
-      show-feedback: "Afficher les commentaires instantanés aux questions"
-  sharing:
-    header: Partage...
-    share-image: "Partage personnalisé d'image"
-    custom-text: "Partage personnalisé de texte"
-    placeholder: "p.ex. Envoyer"
-    redirect-url-example: "p.ex. http://yoursite.com/test"
-    twitter-via-example: "@twitter_handle"
-    twitter-hashtags-example: "#test #personnalité"
+      description-example: "p.ex. Vous aimez être formidable..."
+      graded-outcome-example: "p.ex. Vous êtes un génie (95-100)"
+      header: Résultats
+      image: Image
+      range-warning: "Si les plages se superposent, l'ordre vertical détermine la priorité"
+      title: "Titre du résultat"
+      title-example: "p.ex. Indiana Jones"
+    publish:
+      header: Publier
+      update: "Mettre à jour"
+      preview: "Aperçu de l'intégration"
+      unpublish: "Annuler la publication"
+      delete: "Supprimer le test"
+    question:
+      description: "Description (facultatif)"
+      description-example: "p.ex. Indice : ce n'est pas Hawaï"
+      disable-images: "Désactiver les images"
+      enable-images: "Activer les images"
+      feedback-title: "Commentaires (facultatif)"
+      feedback-example: "p.ex. Les abeilles peuvent sentir la peur"
+      image: Image
+      select-all-apply: "Sélectionner toutes les réponses pertinentes"
+      select-all: "Sélectionner tout"
+      select-one: "Sélectionner une réponse"
+      title: "Titre de la question"
+      title-example: "p.ex. Dans quel état se trouve Seattle ?"
+      true-false: "Vrai ou Faux ?"
+      true-false-warning: "Basculer vers le mode Vrai ou Faux supprimera toutes vos options de réponse actuelles. Souhaitez-vous tout de même poursuivre ?"
+      type: Type
+    quiz:
+      add-outcome: "Ajouter une résultat"
+      add-question: "Ajouter une question"
+      create:
+        choose: "Choisir un type de test"
+        graded-help: "p.ex. De quel film s'agit-il ?"
+        graded-label: Classé
+        outcome-help: "p.ex. De quelle couleur êtes-vous ?"
+        outcome-label: Résultat
+      description: "Description (facultatif)"
+      description-example: "p.ex. Identifiez ces sites célèbres"
+      image: Image
+      share-redirect-url: "Partager l'URL de redirection"
+      title: "Titre du test"
+      title-example: "p.ex. Quel héros êtes-vous"
+    settings:
+      background: "Télécharger l'arrière-plan"
+      header: "Paramètres du test"
+      design: Design
+      hashtags: "Mots dièse"
+      tweet-via: "Tweeter via"
+      quiz-type:
+        header: "Type de test"
+        graded-quiz: "Test classé"
+        outcome-quiz: "Test de résultat"
+      advanced:
+        header: Avancé
+        hide-on-networks: "Masquer le test sur les réseaux de Qzzr"
+        randomized-answers: "Randomiser les réponses"
+        randomized-questions: "Randomiser les questions"
+        share-results: "Partager les résultats plutôt que le titre du test"
+        show-feedback: "Afficher les commentaires instantanés aux questions"
+    sharing:
+      header: Partage...
+      share-image: "Partage personnalisé d'image"
+      custom-text: "Partage personnalisé de texte"
+      placeholder: "p.ex. Envoyer"
+      redirect-url-example: "p.ex. http://yoursite.com/test"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#test #personnalité"
