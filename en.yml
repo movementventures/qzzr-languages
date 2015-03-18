@@ -298,7 +298,7 @@ en:
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
-      gate-results-form: 'Taker must submit form before viewing result'
+      lead-gate-results: 'Taker must submit form before viewing result'
       header: 'Offers'
       is-enabled-button-label: 'Visible to quiz takers'
       lead-form: 'Form'
