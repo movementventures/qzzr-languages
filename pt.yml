@@ -1,169 +1,175 @@
 pt:
-  activerecord:
-    errors:
-      models:
-        user:
-          attributes:
-            email:
-              invalid: "Entrar um email válido."
-              taken: "Desculpa, mas este email já foi registrado."
-            nickname:
-              taken: "Desculpa, mas este usuário já foi registrado."
-  network:
-    common:
-      share: "Compartilhar"
-    events:
-      head-to-head: "%{first-user} marcou %{first-score} contra %{second-user} que marcou %{second-score}"
-      quiz-posted: "%{user} postou um quiz"
-      result-graded: "%{user} tirou %{score}"
-      result-graded-outcome: "%{user} marcou %{score} & tirou \"%{outcome}\""
-      result-outcome: "%{user} tirou \"%{outcome}\""
-    header:
-      create: "Fazer um quiz"
-      go-pro: "Upgrade a Pro"
-      subtitle: "Quizzes para você criado por você"
-    landing:
-      pitch:
-        capture-leads: "Capture leads"
-        drive-social: "Drive social traffic"
-        go-pro: "Go pro"
-        header: "Use Qzzr for your business"
-        present-offers: "Present offers"
+  offer:
+    email-placeholder: exemplo@email.com
+    enter-your-email: "Insira seu email"
+    skip: Pular
+    submit: Enviar
+  quiz:
+    header: "TESTE: %{title}"
+  results:
+    bracket:
+      count: "%{smart_count} pessoa |||| %{smart_count} pessoas"
+      title: Faixas
+    range: "%{lower}-%{upper}%"
+    recommended: "Outros excelentes testes"
+    retake: Repetir
+    scored-percentage: "Pontuação de %{percentage}%"
+    scroll-down: "Role para baixo para ver seu resultado"
+    share-your-result: "Compartilhe seu resultado"
+    your-result-graded: "Resultado: Pontuação de %{percentage}%"
+    your-result-outcome: "Resultado: %{outcome}"
+    a-quick-message: "Uma rápida mensagem"
+    from: de
+  social:
+    back: "Retornar ao código de incorporação recomendado"
+    branded-caption: "Criado com o Qzzr - Testes feitos por você para você"
+    branded-graded-result-match: "Obtive uma pontuação de %{score}% em \"%{quiz_title}\" no Qzzr! Você consegue fazer melhor?"
+    branded-outcome-result: "Recebi \"%{outcome_title}\" em \"%{quiz_title}\" no Qzzr! E você?"
+    branded-quiz: "Confira \"%{quiz_title}\" no Qzzr!"
+    can-you-match: "VOCÊ CONSEGUE FAZER MELHOR?"
+    caption: "Criado com o Qzzr"
+    description: "Crie sus próprios testes gratuitamente no Qzzr, a ferramenta de testes mais simples do mundo."
+    email: Email
+    embed: "Incorporar na página"
+    embed-default: Padrão
+    facebook: Compartilhar
+    gplus: Compartilhar
+    graded-result-match: "Obtive uma pontuação de %{score}% em \"%{quiz_title}\" Você consegue fazer melhor?"
+    hashtag: testes
+    image-outcome-result: "RESULTADO: %{title}"
+    image-graded-result: "PONTUAÇÃO DE %{percent}%"
+    link: Link
+    linkedin: Compartilhar
+    on-qzzr: "no Qzzr!"
+    outcome-result: "Recebi \"%{outcome_title}\" em \"%{quiz_title}\" E você?"
+    pinterest: "Pin It"
+    quiz: "Confira \"%{quiz_title}\""
+    reddit: Compartilhar
+    share-quiz: "Compartilhar este teste"
+    trouble: "Não consegue incorporar? Teste este código"
+    tumblr: Compartilhar
+    twitter: Tweet
+    what-about-you: "E VOCÊ?"
+    wordpress: WordPress
+    wordpress-link: "WordPress (para uso com nosso %{link})"
+    wordpress-link-label: plug-in
+  take:
+    challenge-a-friend: "Desafie seus amigos"
+    click-to-advance: "Clique em qualquer lugar para avançar"
+    correct: Correto
+    correct-feedback: "Correto: %{feedback}"
+    done: Enviar
+    incorrect: Incorreto
+    incorrect-feedback: "Incorreto: %{feedback}"
+    made-by: "Criado por %{author}"
+    make-quiz: "Quer criar seu próprio teste gratuitamente?"
+    make-quiz-label: "Confira o Qzzr"
+    multiple-select: "Selecione todas as respostas aplicáveis"
+    multiple-select-colon: "Selecione todas as respostas aplicáveis: "
+    next: Próxima
+    question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
+    start: Iniciar
+    tap-to-advance: "Toque em qualquer lugar para avançar"
+    times-taken: "Respondido %{smart_count} vez |||| Respondido %{smart_count} vezes"
+  maker:
+    answer:
+      add: "Adicionar resposta"
+      image: Imagem
+      label: Rótulo
+      link-result: "Mapear um resultado"
     offer:
-      email-placeholder: "example@email.com.br"
-      enter-your-email: "Entrar seu email"
-      skip: "Pular"
-      submit: "Continuar"
-    profile:
-      follow: "Seguir"
-      followers: "%{smart_count} Seguidor |||| %{smart_count} Seguidores"
-      following: "%{smart_count} Seguindo |||| %{smart_count} Seguindo"
-      interests: "Interesses"
-      quizzes-completed: "Quizzes concluídos"
-      quizzes-created: "Quizzes concluídos"
-      unfollow: "Dexiar de Seguir"
-      zero-state: "Este usuário ainda não fez um quiz, aqui estão alguns quizzes."
+      explanation: "Reúna emails, apresente ofertas e receba curtidas na sua página do Facebook"
+      header: Ofertas
+      is-enabled-button-label: "Visível para os participantes do teste"
+      like-form: "Curtir no Facebook"
+      facebook-title-example: "ex: Curta nossa página no Facebook"
+      facebook-description-example: "ex: Fãs do Facebook recebem ofertas especiais"
+      facebook-url-title: "URL da página do Facebook"
+      facebook-url-example: "http://facebook.com/página.facebook"
+      lead-form: Formulário
+      lead-title-example: "ex: Cadastre-se para receber atualizações!"
+      lead-description-example: "Mantenha-se atualizado e receba ofertas especiais"
+      link-form: Link
+      link-title-example: "ex: 10% de desconto no seu próximo pedido!"
+      link-description-example: "Clique no botão abaixo para ativar"
+      link-button-label-title: "Rótulo do botão"
+      link-button-label-example: "Aplicar desconto"
+      link-button-url-title: "URL do \x7fBotão"
+      link-button-url-example: "http://exemplo.com"
+      offer-title: Título
+      offer-description: "Descrição (opcional)"
+    outcome:
+      add-graded-outcome: "Definir resultados (opcional)"
+      default:
+        title: Genérico
+        description: "Descrição (opcional)"
+      description: "Descrição (opcional)"
+      description-example: "ex: Como é bom ser o máximo..."
+      graded-outcome-example: "ex: Você é um gênio (95-100)"
+      header: Resultados
+      image: Imagem
+      range-warning: "Se as faixas ficarem sobrepostas, a ordem vertical determinará a prioridade"
+      title: "Título do resultado"
+      title-example: "ex: Indiana Jones"
+    publish:
+      header: Publicar
+      update: Atualizar
+      preview: "Incorporar Visualização"
+      unpublish: "Remover Publicação"
+      delete: "Excluir teste"
+    question:
+      description: "Descrição (opcional)"
+      description-example: "ex: Dica: não é o Rio de Janeiro"
+      disable-images: "Desativar imagens"
+      enable-images: "Ativar imagens"
+      feedback-title: "Feedback (opcional)"
+      feedback-example: "ex: Abelhas sentem o cheiro do medo"
+      image: Imagem
+      select-all-apply: "Selecione todas as respostas aplicáveis"
+      select-all: "Selecionar todas"
+      select-one: "Selecionar uma"
+      title: "Título da pergunta"
+      title-example: "ex: Fortaleza fica em qual estado?"
+      true-false: Verdadeiro/falso
+      true-false-warning: "Mudar para verdadeiro/falso excluirá suas opções de resposta atuais. Ainda deseja continuar?"
+      type: Tipo
     quiz:
-      header: "QUIZ: %{title}"
-    quizzes:
-      personality: Personalidade
-      trending: Trending
-      trivia: Trivia
-      your-feed: "Seu quiz feed"
-    results:
-      bracket:
-        count: '%{smart_count} pessoa |||| %{smart_count} pessoas'
-        range: '%{lower}-%{upper}%'
-        title: Brackets
-      grade-count: "%{score}/%{count}"
-      more-about-your-result: "Mais sobre seu resultado"
-      more-details: "Mais detalhes"
-      range: "%{lower}-%{upper}%"
-      recommended: "Outros quizzes ótimos"
-      retake: "Refazer"
-      scored-percentage: "Marcou %{percentage}%"
-      scroll-down: "Rolar para baixo"
-      share-your-result: 'Compartilhar seu resultado'
-      your-result-graded: "Resultado: Marcou %{percentage}%"
-      your-result-outcome: "Resultado: %{outcome}"
-    search:
-      no-results: "Não encontramos nada por sua pesquisa."
-      no-results-suggestion: "Seja menos especifico."
-      search-qzzr: "Pesquisar"
-    sidenav:
-      beat-em: "Beat 'em!"
-      blog: "Blog"
-      featured-topics: 'Featured Topics'
-      follow-these-folks: "Seguir estas pessoas"
-      go-pro: "Para a empresa"
-      guidelines: "Guia de Contento"
-      help: "Ajuda e Suporte"
-      home: "Início"
-      how-to: "Ajuda"
-      leaderboards: Leaderboards
-      popular: Popular
-      privacy: "Privacidade"
-      profile: "Perfil"
-      sign-up: "Cadastrar-se"
-      sign-up-tagline: "Save your results & create free quizzes"
-      search: "Pesquisar"
-      settings: "Editar Configuraçōes"
-      log-in: "Entrar"
-      log-out: "Sair"
-      terms: "Termos"
-      topics: "Tópicos"
-      trending: "Popular"
-      upgrade: "Upgrade a Pro"
-    social:
-      back: 'Voltar para o code recomendado'
-      branded-caption: "Feito com Qzzr - Quizzes para você criado por você"
-      branded-graded-result-match: "Eu tirei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue?"
-      branded-graded-result-top: "Eu tirei %{score}% em \"%{quiz_title}\" no Qzzr! Consegue mais do que isso?"
-      branded-outcome-result: "Eu tirei \"%{outcome_title}\" no \"%{quiz_title}\" no Qzzr! E você?"
-      branded-quiz: "Ver \"%{quiz_title}\" no Qzzr!"
-      can-you-match: "CONSEGUE?"
-      can-you-top: "CONSEGUE?"
-      caption: "Feito com Qzzr"
-      description: "Faça seus próprios quizzes gratuitamente no Qzzr, a maneira mais simples do mundo."
-      email: 'Email'
-      embed: 'Codigo para insirir na pagina'
-      facebook: 'Compartilhar'
-      gplus: 'Compartilhar'
-      graded-result-match: "Eu tirei %{score}% em \"%{quiz_title}\" Consegue?"
-      graded-result-top: "Eu tirei %{score}% em \"%{quiz_title}\" Consegue mais do que isso?"
-      hashtag: "quizzes"
-      image-outcome-result: "RESULTADO: %{title}"
-      image-graded-result: "TIREI %{percent}%"
-      link: 'Link'
-      linkedin: 'Compartilhar'
-      on-qzzr: 'no Qzzr!'
-      outcome-result: "Eu tirei \"%{outcome_title}\" no \"%{quiz_title}\" E você?"
-      pinterest: 'Pin'
-      quiz: "Ver \"%{quiz_title}\""
-      reddit: 'Compartilhar'
-      share-quiz: "Compartilhar este quiz"
-      trouble: 'Dificuladades insirir o quiz? Experimente com este codigo'
-      tumblr: 'Compartilhar'
-      twitter: 'Tweet'
-      what-about-you: 'E você?'
-      wordpress: 'WordPress'
-      wordpress-link: 'WordPress (por uso com nosso %{link})'
-      wordpress-link-label: 'plugin'
-    take:
-      click-to-advance: "Clique em qualquer lugar para avançar"
-      correct: "Correto"
-      correct-feedback: "Correto: %{feedback}"
-      done: "Feito"
-      incorrect: "Incorreto"
-      incorrect-feedback: "Incorreto: %{feedback}"
-      made-by: "Criado por %{author}"
-      make-quiz: "Quer fazer seu próprio quiz no Qzzr?"
-      make-quiz-label: "Discobre o Qzzr"
-      multiple-select: "Selecione todos os que se aplicam"
-      multiple-select-colon: "Selecione todos os que se aplicam: "
-      next: "Próximo"
-      question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
-      start: "Iniciar"
-      tap-to-advance: "Toque para avançar"
-      times-taken: "Feito %{smart_count} vez |||| Feito %{smart_count} vezes"
-    topics:
-      arts: Arte
-      business: Negócios
-      education: Educação
-      food: Comeda
-      games: Jogos
-      geography: Geografia
-      header: Tópicos
-      history: Historíco
-      humor: Humor
-      lifestyle: Estilo de Vida
-      literature: Literatura
-      movies: Filmes
-      music: Músico
-      nature: Natureza
-      science: Ciência
-      sports: Esportes
-      tech: Tecnologia
-      tv: Televisão
-    users:
-      follow: "Seguir"
+      add-outcome: "Adicionar resultado"
+      add-question: "Adicionar uma pergunta"
+      create:
+        choose: "Escolha um tipo de teste"
+        graded-help: "ex: Que filme é este?"
+        graded-label: "Com nota"
+        outcome-help: "ex: Que cor representa você?"
+        outcome-label: Resultado
+      description: "Descrição (opcional)"
+      description-example: "ex: Identifique os locais famosos"
+      image: Imagem
+      share-redirect-url: "Compartilhar URL de redirecionamento"
+      title: "Título do teste"
+      title-example: "ex: Qual herói representa você?"
+    settings:
+      background: "Carregar plano de fundo"
+      header: "Configurações do teste"
+      design: Design
+      hashtags: Hashtags
+      tweet-via: "Tweet via"
+      quiz-type:
+        header: "Tipo de Teste"
+        graded-quiz: "Teste com nota"
+        outcome-quiz: "Teste com resultado"
+      advanced:
+        header: Avançado
+        hide-on-networks: "Ocultar teste nas redes do Qzzr"
+        randomized-answers: "Mostrar respostas aleatoriamente"
+        randomized-questions: "Mostrar perguntas aleatoriamente"
+        share-results: "Compartilhar resultados em vez do título do teste"
+        show-feedback: "Mostrar feedback instantâneo da resposta"
+    sharing:
+      header: Compartilhando
+      share-image: "Imagem compartilhada personalizada"
+      custom-text: "Texto compartilhado personalizado"
+      placeholder: "ex: Enviar"
+      redirect-url-example: "ex: http://seusite.com/teste"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#quiz #personalidade"
