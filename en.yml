@@ -158,6 +158,7 @@ en:
       your-result-outcome: "Result: %{outcome}"
       a-quick-message: "A quick message"
       from: "from"
+      lead-see-result: "Fill out the form below to see your result"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
@@ -298,7 +299,7 @@ en:
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
-      gate-results: 'Gate results'
+      lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
       lead-form: 'Form'
