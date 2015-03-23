@@ -302,6 +302,7 @@ en:
       facebook-url-example: 'http://facebook.com/facebook.page'
       lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
+      list-picker-prompt: 'None selected' 
       is-enabled-button-label: 'Visible to quiz takers'
       lead-form: 'Form'
       lead-title-example: 'e.g. Sign up for updates!'
