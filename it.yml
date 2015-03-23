@@ -1,0 +1,176 @@
+it:
+  network:
+    offer:
+      email-placeholder: example@email.com
+      enter-your-email: "Inserisci la tua e-mail"
+      skip: Salta
+      submit: Invia
+    quiz:
+      header: "QUIZ: %{title}"
+    results:
+      bracket:
+        count: "%{smart_count} persona |||| %{smart_count} persone"
+        title: Fasce
+      range: "%{lower}-%{upper}%"
+      recommended: "Altri fantastici quiz"
+      retake: Riprova
+      scored-percentage: "Hai totalizzato il %{percentage}%"
+      scroll-down: "Scorri verso il basso per vedere il risultato"
+      share-your-result: "Condividi il tuo risultato"
+      your-result-graded: "Risultato: hai totalizzato il %{percentage}%"
+      your-result-outcome: "Risultato: %{outcome}"
+      a-quick-message: "Breve messaggio"
+      from: da
+    social:
+      back: "Torna al codice di incorporamento consigliato"
+      branded-caption: "Creato con Qzzr - Quiz personalizzati per tutti"
+      branded-graded-result-match: "Ho totalizzato il %{score}% nel quiz \"%{quiz_title}\" di Qzzr! Ce la farai a raggiungermi?"
+      branded-outcome-result: "Secondo il quiz \"%{quiz_title}\" il mio profilo è \"%{outcome_title}\". E il tuo?"
+      branded-quiz: "Da un'occhiata al quiz \"%{quiz_title}\" su Qzzr!"
+      can-you-match: "CE LA FARAI A RAGGIUNGERMI?"
+      caption: "Creato con Qzzr"
+      description: "Crea gratuitamente i tuoi quiz su Qzzr, lo strumento più semplice al mondo per realizzare quiz."
+      email: E-mail
+      embed: "Incorpora nella pagina"
+      embed-default: Default
+      facebook: Condividi
+      gplus: Condividi
+      graded-result-match: "Ho totalizzato il %{score}% nel quiz \"%{quiz_title}\" Ce la farai a raggiungermi?"
+      hashtag: quiz
+      image-outcome-result: "RISULTATO: %{title}"
+      image-graded-result: "HO TOTALIZZATO IL %{percent}%"
+      link: Link
+      linkedin: Condividi
+      on-qzzr: "su Qzzr!"
+      outcome-result: "Secondo il quiz \"%{quiz_title}\" il mio profilo è \"%{outcome_title}\". E il tuo?"
+      pinterest: "Pin it"
+      quiz: "Da un'occhiata al quiz \"%{quiz_title}\""
+      reddit: Condividi
+      share-quiz: "Condividi questo quiz"
+      trouble: "Problemi nell'incorporare il quiz? Prova questo codice"
+      tumblr: Condividi
+      twitter: Tweet
+      what-about-you: "E TU?"
+      wordpress: WordPress
+      wordpress-link: "WordPress (da utilizzare con il nostro %{link})"
+      wordpress-link-label: plugin
+    take:
+      challenge-a-friend: "Sfida gli amici"
+      click-to-advance: "Per procedere clicca un punto qualsiasi"
+      correct: Giusto
+      correct-feedback: "Giusto: %{feedback}"
+      done: Invia
+      incorrect: Sbagliato
+      incorrect-feedback: "Sbagliato: %{feedback}"
+      made-by: "Realizzato da %{author}"
+      make-quiz: "Vuoi creare il tuo quiz in modo gratuito?"
+      make-quiz-label: "Dai un'occhiata a qzzr"
+      multiple-select: "Seleziona tutte le risposte adatte"
+      multiple-select-colon: "Seleziona tutte le risposte adatte"
+      next: Avanti
+      question-count: "%{smart_count} domanda |||| %{smart_count} domande"
+      start: Avvio
+      tap-to-advance: "Per procedere clicca un punto qualsiasi"
+      times-taken: "Svolto %{smart_count} volta |||| Svolto %{smart_count} volte"
+  maker:
+    answer:
+      add: "Aggiungi risposta"
+      image: Immagine
+      label: Etichetta
+      link-result: "Definisci un profilo"
+    offer:
+      explanation: "Accumula e-mail, presenta offerte e ottieni \"Mi Piace\" per la tua pagina Facebook"
+      header: Offerte
+      is-enabled-button-label: "Visibile a chi sta svolgendo il quiz"
+      like-form: "\"Mi piace\" su Facebook"
+      facebook-title-example: "es. Aggiungi \"Mi piace\" su Facebook"
+      facebook-description-example: "es. I fan di Facebook ricevono offerte speciali"
+      facebook-url-title: "Url pagina Facebook"
+      facebook-url-example: "http://facebook.com/facebook.page"
+      lead-form: Modulo
+      lead-title-example: "es. Registrati per gli aggiornamenti!"
+      lead-description-example: "Resta aggiornato e ricevi offerte speciali"
+      link-form: Link
+      link-title-example: "es. Sconto del 10% sul tuo prossimo ordine!"
+      link-description-example: "Clicca il pulsante sottostante per l'attivazione"
+      link-button-label-title: "Etichetta pulsante"
+      link-button-label-example: "Applica sconto"
+      link-button-url-title: "URL pulsante"
+      link-button-url-example: "http://example.com"
+      offer-title: Titolo
+      offer-description: "Descrizione (opzionale)"
+    outcome:
+      add-graded-outcome: "Definisci profili (opzionale)"
+      default:
+        title: Pigliatutto
+        description: "Descrizione (opzionale)"
+      description: "Descrizione (opzionale)"
+      description-example: "es. Ti piace essere una persona eccezionale..."
+      graded-outcome-example: "es. Sei un genio (95-100)"
+      header: Profili
+      image: Immagine
+      range-warning: "Se le scelte si sovrappongono, la priorità è data all'ordine verticale"
+      title: "Titolo profilo"
+      title-example: "es. Indiana Jones"
+    publish:
+      header: Pubblica
+      update: Aggiorna
+      preview: "Incorpora anteprima"
+      unpublish: "Annulla pubblicazione"
+      delete: "Elimina quiz"
+    question:
+      description: "Descrizione (opzionale)"
+      description-example: "es. Suggerimento: non si tratta delle Hawaii"
+      disable-images: "Disabilita immagini"
+      enable-images: "Abilita immagini"
+      feedback-title: "Feedback (opzionale)"
+      feedback-example: "es. Le api sono in grado di annusare la paura"
+      image: Immagine
+      select-all-apply: "Seleziona tutte quelle adatte"
+      select-all: "Seleziona tutto"
+      select-one: "Selezionane una"
+      title: "Titolo domanda"
+      title-example: "es. In quale stato si trova Seattle?"
+      true-false: Vero/Falso
+      true-false-warning: "Se passi a Vero/Falso le opzioni di risposta già esistenti verranno eliminate. Vuoi ancora procedere?"
+      type: Scrivi
+    quiz:
+      add-outcome: "Aggiungi profilo"
+      add-question: "Aggiungi una domanda"
+      create:
+        choose: "Scegli una tipologia di quiz"
+        graded-help: "es: Come si intitola questo film?"
+        graded-label: "Con punteggio"
+        outcome-help: "es. Quale colore ti rappresenta?"
+        outcome-label: Profilo
+      description: "Descrizione (opzionale)"
+      description-example: "es. Individua i siti famosi"
+      image: Immagine
+      share-redirect-url: "Condividi URL di redirect"
+      title: "Titolo quiz"
+      title-example: "es: Quale eroe ti rappresenta?"
+    settings:
+      background: "Carica sfondo"
+      header: "Impostazioni quiz"
+      design: Design
+      hashtags: Hashtag
+      tweet-via: "Twitta con"
+      quiz-type:
+        header: "Tipologia quiz"
+        graded-quiz: "Quiz con punteggio"
+        outcome-quiz: "Quiz con profili"
+      advanced:
+        header: Avanzato
+        hide-on-networks: "Nascondi i quiz sui canali Qzzr"
+        randomized-answers: "Randomizza risposte"
+        randomized-questions: "Randomizza domande"
+        share-results: "Condividi i risultati al posto del titolo del quiz"
+        show-feedback: "Mostra subito il feedback della risposta "
+    sharing:
+      header: Condivisione
+      share-image: "Immagine condivisione personalizzata"
+      custom-text: "Testo condivisione personalizzato"
+      placeholder: "es. Invia"
+      redirect-url-example: "es. http://yoursite.com/quiz"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#quiz #personalità"

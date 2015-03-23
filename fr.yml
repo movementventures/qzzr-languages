@@ -77,7 +77,7 @@ fr:
       add: "Ajouter une réponse"
       image: Image
       label: Intitulé
-      link-result: "Schématiser un résultat"
+      link-result: "Attribuer un résultat"
     offer:
       explanation: "Recevez des e-mails, proposez des offres et obtenez plus de « J'aime » pour votre page Facebook"
       header: Offres
@@ -140,7 +140,7 @@ fr:
       create:
         choose: "Choisir un type de test"
         graded-help: "p.ex. De quel film s'agit-il ?"
-        graded-label: Classé
+        graded-label: Quiz
         outcome-help: "p.ex. De quelle couleur êtes-vous ?"
         outcome-label: Résultat
       description: "Description (facultatif)"

@@ -1,0 +1,176 @@
+de:
+  network:
+    offer:
+      email-placeholder: Beispiel@e-mail.com
+      enter-your-email: "Gib deine E-Mail-Adresse ein"
+      skip: Übergehen
+      submit: Absenden
+    quiz:
+      header: "QUIZ: %{title}"
+    results:
+      bracket:
+        count: "%{smart_count} Person |||| %{smart_count} Personen"
+        title: Bereiche
+      range: "%{lower}-%{upper}%"
+      recommended: "Andere tolle Quizze"
+      retake: Wiederholen
+      scored-percentage: "%{percentage}% erreicht"
+      scroll-down: "Runterscrollen für dein Ergebnis"
+      share-your-result: "Teile dein Ergebnis"
+      your-result-graded: "Ergebnis: %{percentage}% erreicht"
+      your-result-outcome: "Resultat: %{outcome}"
+      a-quick-message: "Eine schnelle Nachricht"
+      from: von
+    social:
+      back: "Zurück zum empfohlenen eingebetteten Code"
+      branded-caption: "Mit Qzzr gemacht - Quizze für dich von dir"
+      branded-graded-result-match: "Ich habe %{score}% bei \"%{quiz_title}\" auf Qzzr erreicht! Schaffst du das auch?"
+      branded-outcome-result: "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\" auf Qzzr! Wie steht's mit dir?"
+      branded-quiz: "Sieh dir \"%{quiz_title}\" auf Qzzr an!"
+      can-you-match: "SCHAFFST DU DAS AUCH?"
+      caption: "Mit Qzzr gemacht"
+      description: "Erstelle kostenlos deine eigenen Quizze auf Qzzr, dem einfachsten Quiz-Tool der Welt."
+      email: E-Mail
+      embed: "Auf Seite einbetten"
+      embed-default: Voreingestellt
+      facebook: Teilen
+      gplus: Teilen
+      graded-result-match: "Ich habe %{score}% bei \"%{quiz_title}\" erreicht. Schaffst du das auch?"
+      hashtag: Quizze
+      image-outcome-result: "ERGEBNIS: %{title}"
+      image-graded-result: "%{percent}% ERREICHT"
+      link: Link
+      linkedin: Teilen
+      on-qzzr: "auf Qzzr!"
+      outcome-result: "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\". Wie steht's mit dir?"
+      pinterest: "Pin it"
+      quiz: "Sieh dir \"%{quiz_title}\" an"
+      reddit: Teilen
+      share-quiz: "Teile dieses Quiz"
+      trouble: "Probleme beim Einbetten? Probier diesen Code"
+      tumblr: Teilen
+      twitter: Twittern
+      what-about-you: "WIE STEHT'S MIT DIR?"
+      wordpress: WordPress
+      wordpress-link: "WordPress (zur Nutzung mit unserem %{link})"
+      wordpress-link-label: Plugin
+    take:
+      challenge-a-friend: "Fordere Freunde heraus"
+      click-to-advance: "Klicke irgendwo, um fortzusetzen."
+      correct: Richtig
+      correct-feedback: "Richtig: %{feedback}"
+      done: Absenden
+      incorrect: Falsch
+      incorrect-feedback: "Falsch: %{feedback}"
+      made-by: "Von %{author} gemacht"
+      make-quiz: "Möchtest du kostenlos dein eigenes Quiz erstellen?"
+      make-quiz-label: "Sieh dir Qzzr an"
+      multiple-select: "Wähle alle, die zutreffen"
+      multiple-select-colon: "Wähle alle, die zutreffen: "
+      next: Nächste
+      question-count: "%{smart_count} Frage |||| %{smart_count} Fragen"
+      start: Start
+      tap-to-advance: "Tippe irgendwo, um fortzusetzen"
+      times-taken: "%{smart_count} Mal genommen |||| %{smart_count} Mal genommen"
+  maker:
+    answer:
+      add: "Antwort hinzufügen"
+      image: Bild
+      label: Bezeichnung
+      link-result: "Bezeichne ein Resultat"
+    offer:
+      explanation: "Sammele E-Mails, präsentiere Angebote und erhalte Likes für deine Facebook-Seite."
+      header: Angebote
+      is-enabled-button-label: "Sichtbar für Quiz-Teilnehmer"
+      like-form: Facebook-Like
+      facebook-title-example: "z.B. Like uns auf Facebook"
+      facebook-description-example: "z.B. Facebook-Fans erhalten besondere Angebote"
+      facebook-url-title: "URL der Facebook-Seite"
+      facebook-url-example: "http://facebook.com/facebook.Seite"
+      lead-form: Formular
+      lead-title-example: "z.B. Melde dich für Aktualisierungen an!"
+      lead-description-example: "Bleibe auf dem Laufenden und erhalte besondere Angebote."
+      link-form: Link
+      link-title-example: "z.B. 10 % Rabatt auf deine nächste Bestellung!"
+      link-description-example: "Zum Aktivieren auf den Button unten klicken."
+      link-button-label-title: Button-Bezeichnung
+      link-button-label-example: "Rabatt anwenden"
+      link-button-url-title: Button-URL
+      link-button-url-example: "http://Beispiel.com"
+      offer-title: Titel
+      offer-description: "Beschreibung (optional)"
+    outcome:
+      add-graded-outcome: "Resultate definieren (optional)"
+      default:
+        title: "Für alle"
+        description: "Beschreibung (optional)"
+      description: "Beschreibung (optional)"
+      description-example: "z.B. Die macht es Spaß, toll zu sein ..."
+      graded-outcome-example: "z.B. Du bist ein Genie. (95 - 100)"
+      header: Resultat
+      image: Bild
+      range-warning: "Wenn Bereiche überlappen, bestimmt die vertikale Reihenfolge den Vorrang."
+      title: Resultat-Titel
+      title-example: "z.B. Indiana Jones"
+    publish:
+      header: Veröffentlichen
+      update: Aktualisieren
+      preview: "Vorschau für Einbettung"
+      unpublish: Zurückziehen
+      delete: "Quiz löschen"
+    question:
+      description: "Beschreibung (optional)"
+      description-example: "z.B. Tipp: Hawaii ist es nicht."
+      disable-images: "Bilder deaktivieren"
+      enable-images: "Bilder aktivieren"
+      feedback-title: "Feedback (optional)"
+      feedback-example: "z.B. Bienen können Furcht riechen."
+      image: Bild
+      select-all-apply: "Wähle alle zutreffenden"
+      select-all: "Alle auswählen"
+      select-one: "Eine auswählen"
+      title: "Titel der Frage"
+      title-example: "z.B. In welchem Staat liegt Seattleß"
+      true-false: Wahr/Falsch
+      true-false-warning: "Wechsel zu Wahr/Falsch wird deine aktuelle Antwortmöglichkeiten löschen. Trotzdem fortsetzen?"
+      type: Tippe
+    quiz:
+      add-outcome: "Resultat hinzufügen"
+      add-question: "Eine Frage hinzufügen"
+      create:
+        choose: "Wähle eine Quizart"
+        graded-help: "z.B. Wie heit der Film?"
+        graded-label: Bewertet
+        outcome-help: "z.B. Welche Farbe hast du?"
+        outcome-label: Resultat
+      description: "Beschreibung (optional)"
+      description-example: "z.B. Erkenne die berühmten Orte."
+      image: Bild
+      share-redirect-url: "Umleitungs-URL teilen"
+      title: Quiz-Titel
+      title-example: "z.B. Welcher Held bist du?"
+    settings:
+      background: "Hintergrund hochladen"
+      header: Quiz-Einstellungen
+      design: Design
+      hashtags: Hashtags
+      tweet-via: "Twittern über"
+      quiz-type:
+        header: Quizart
+        graded-quiz: "Bewertetes Quiz"
+        outcome-quiz: Quiz-Resultat
+      advanced:
+        header: Fortgeschritten
+        hide-on-networks: "Verstecke Quiz im Qzzr-Netzwerk"
+        randomized-answers: "Antworten zufällig anordnen"
+        randomized-questions: "Fragen zufällig anordnen"
+        share-results: "Ergebnis statt Quiz-Titel teilen"
+        show-feedback: "Zeige sofortiges Antwort-Feedback"
+    sharing:
+      header: Teile
+      share-image: "Festgelegtes gemeinsames Bild"
+      custom-text: "Festgelegter gemeinsamer Text"
+      placeholder: "z.B. Absenden"
+      redirect-url-example: "z.B. http://DeineSeite.com/quiz"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#Quiz #Persönlichkeit"
