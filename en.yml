@@ -293,7 +293,7 @@ en:
       font-example: 'e.g. Georgia'
       font-family: 'Font family'
     offer:
-      config-integrations: "Configure integrations"
+      config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
       facebook-title-example: 'e.g. Like us on Facebook'
