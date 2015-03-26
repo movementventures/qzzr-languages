@@ -72,105 +72,105 @@ nl:
       start: Beginnen
       tap-to-advance: "Tik ergens om door te gaan"
       times-taken: "%{smart_count} keer nodig gehad |||| %{smart_count} keer nodig gehad"
-      maker:
-        answer:
-          add: "Antwoord toevoegen"
-          image: Afbeelding
-          label: Label
-          link-result: "Een uitkomst toekennen"
-        offer:
-          explanation: "Verzamel e-mails, doe aanbiedingen en krijg vind-ik-leuks voor je Facebookpagina"
-          header: Aanbiedingen
-          is-enabled-button-label: "Zichtbaar voor quizdeelnemers"
-          like-form: "Facebook vind-ik-leuk"
-          facebook-title-example: "bijv: Vind ons leuk op Facebook"
-          facebook-description-example: "bijv: Facebookfans krijgen speciale aanbiedingen"
-          facebook-url-title: "Url Facebookpagina"
-          facebook-url-example: "http://facebook.com/facebook.pagina"
-          lead-form: Van
-          lead-title-example: "bijv: Meld je aan voor updates!"
-          lead-description-example: "Blijf op de hoogte en ontvang speciale aanbiedingen"
-          link-form: Link
-          link-title-example: "bijv: 10% korting op je volgende bestelling!"
-          link-description-example: "Klik op onderstaande knop om te activeren"
-          link-button-label-title: Knoplabel
-          link-button-label-example: "Korting toepassen"
-          link-button-url-title: Knop-url
-          link-button-url-example: "http://voorbeeld.com"
-          offer-title: Titel
-          offer-description: "Beschrijiving (optioneel)"
-        outcome:
-          add-graded-outcome: "Definieer uitkomsten (optioneel)"
-          default:
-            title: Verzamelcategorie
-            description: "Beschrijving (optioneel)"
+    maker:
+      answer:
+        add: "Antwoord toevoegen"
+        image: Afbeelding
+        label: Label
+        link-result: "Een uitkomst toekennen"
+      offer:
+        explanation: "Verzamel e-mails, doe aanbiedingen en krijg vind-ik-leuks voor je Facebookpagina"
+        header: Aanbiedingen
+        is-enabled-button-label: "Zichtbaar voor quizdeelnemers"
+        like-form: "Facebook vind-ik-leuk"
+        facebook-title-example: "bijv: Vind ons leuk op Facebook"
+        facebook-description-example: "bijv: Facebookfans krijgen speciale aanbiedingen"
+        facebook-url-title: "Url Facebookpagina"
+        facebook-url-example: "http://facebook.com/facebook.pagina"
+        lead-form: Van
+        lead-title-example: "bijv: Meld je aan voor updates!"
+        lead-description-example: "Blijf op de hoogte en ontvang speciale aanbiedingen"
+        link-form: Link
+        link-title-example: "bijv: 10% korting op je volgende bestelling!"
+        link-description-example: "Klik op onderstaande knop om te activeren"
+        link-button-label-title: Knoplabel
+        link-button-label-example: "Korting toepassen"
+        link-button-url-title: Knop-url
+        link-button-url-example: "http://voorbeeld.com"
+        offer-title: Titel
+        offer-description: "Beschrijiving (optioneel)"
+      outcome:
+        add-graded-outcome: "Definieer uitkomsten (optioneel)"
+        default:
+          title: Verzamelcategorie
           description: "Beschrijving (optioneel)"
-          description-example: "bijv: Je houd ervan geweldig te zijn..."
-          graded-outcome-example: "bijv: Je bent geniaal (95-100)"
-          header: Uitkomsten
-          image: Afbeelding
-          range-warning: "Als reeksen elkaar overlappen, bepaalt de verticale volgorde de prioriteit"
-          title: "Titel uitkomst"
-          title-example: "bijv: Indiana Jones"
-        publish:
-          header: Publiceren
-          update: Updaten
-          preview: Embed-voorbeeld
-          unpublish: "Publicatie annuleren"
-          delete: "Quiz verwijderen"
-        question:
-          description: "Beschrijving (optioneel)"
-          description-example: "bijv: Hint: het is niet Hawaï"
-          disable-images: "Afbeeldingen uitschakelen"
-          enable-images: "Afbeeldingen inschakelen"
-          feedback-title: "Feedback (optioneel)"
-          feedback-example: "bijv: Bijen kunnen angst ruiken"
-          image: Afbeelding
-          select-all-apply: "Selecteer alles wat van toepassing is"
-          select-all: "Selecteer alle"
-          select-one: "Selecteer één"
-          title: "Titel vraag"
-          title-example: "bijv: In welke staat ligt Seattle?"
-          true-false: "Waar/niet waar"
-          true-false-warning: "Als je omschakelt naar waar/niet waar, worden je huidige antwoordmogelijkheden verwijderd. Wil je nog steeds doorgaan?"
-          type: Type
-        quiz:
-          add-outcome: "Uitkomst toevoegen"
-          add-question: "Een vraag toevoegen"
-          create:
-            choose: "Kies een quiztype"
-            graded-help: "bijv: Welke film is dit?"
-            graded-label: "Met score"
-            outcome-help: "bijv: Welke kleur ben jij?"
-            outcome-label: Uitkomst
-          description: "Beschrijving (optioneel)"
-          description-example: "bijv: Identificeer de beroemde locaties"
-          image: Afbeelding
-          share-redirect-url: "Omleidings-url delen"
-          title: "Titel quiz"
-          title-example: "bijv: welke held ben jij?"
-        settings:
-          background: "Achtergrond uploaden"
-          header: Quizinstellingen
-          design: Design
-          hashtags: Hashtags
-          tweet-via: "Tweeten via"
-          quiz-type:
-            header: Quiztype
-            graded-quiz: "Quiz met score"
-            outcome-quiz: "Quiz met uitkomst"
-          advanced:
-            header: Geavanceerd
-            hide-on-networks: "Verberg quiz op Qzzr-netwerken"
-            randomized-answers: "Antwoorden in willekeurige volgorde"
-            randomized-questions: "Vragen in willekeurige volgorde"
-            share-results: "Resultaten delen in plaats van quiztitel"
-            show-feedback: "Toon direct feedback op antwoord"
-        sharing:
-          header: Delen
-          share-image: "Aangepaste afbeelding voor delen"
-          custom-text: "Aangepaste tekst voor delen"
-          placeholder: "bijv: Versturen"
-          redirect-url-example: "bijv: http://jouwsite.com/quiz"
-          twitter-via-example: "@twitter_handle"
-          twitter-hashtags-example: "#quiz #persoonlijkheid"
+        description: "Beschrijving (optioneel)"
+        description-example: "bijv: Je houd ervan geweldig te zijn..."
+        graded-outcome-example: "bijv: Je bent geniaal (95-100)"
+        header: Uitkomsten
+        image: Afbeelding
+        range-warning: "Als reeksen elkaar overlappen, bepaalt de verticale volgorde de prioriteit"
+        title: "Titel uitkomst"
+        title-example: "bijv: Indiana Jones"
+      publish:
+        header: Publiceren
+        update: Updaten
+        preview: Embed-voorbeeld
+        unpublish: "Publicatie annuleren"
+        delete: "Quiz verwijderen"
+      question:
+        description: "Beschrijving (optioneel)"
+        description-example: "bijv: Hint: het is niet Hawaï"
+        disable-images: "Afbeeldingen uitschakelen"
+        enable-images: "Afbeeldingen inschakelen"
+        feedback-title: "Feedback (optioneel)"
+        feedback-example: "bijv: Bijen kunnen angst ruiken"
+        image: Afbeelding
+        select-all-apply: "Selecteer alles wat van toepassing is"
+        select-all: "Selecteer alle"
+        select-one: "Selecteer één"
+        title: "Titel vraag"
+        title-example: "bijv: In welke staat ligt Seattle?"
+        true-false: "Waar/niet waar"
+        true-false-warning: "Als je omschakelt naar waar/niet waar, worden je huidige antwoordmogelijkheden verwijderd. Wil je nog steeds doorgaan?"
+        type: Type
+      quiz:
+        add-outcome: "Uitkomst toevoegen"
+        add-question: "Een vraag toevoegen"
+        create:
+          choose: "Kies een quiztype"
+          graded-help: "bijv: Welke film is dit?"
+          graded-label: "Met score"
+          outcome-help: "bijv: Welke kleur ben jij?"
+          outcome-label: Uitkomst
+        description: "Beschrijving (optioneel)"
+        description-example: "bijv: Identificeer de beroemde locaties"
+        image: Afbeelding
+        share-redirect-url: "Omleidings-url delen"
+        title: "Titel quiz"
+        title-example: "bijv: welke held ben jij?"
+      settings:
+        background: "Achtergrond uploaden"
+        header: Quizinstellingen
+        design: Design
+        hashtags: Hashtags
+        tweet-via: "Tweeten via"
+        quiz-type:
+          header: Quiztype
+          graded-quiz: "Quiz met score"
+          outcome-quiz: "Quiz met uitkomst"
+        advanced:
+          header: Geavanceerd
+          hide-on-networks: "Verberg quiz op Qzzr-netwerken"
+          randomized-answers: "Antwoorden in willekeurige volgorde"
+          randomized-questions: "Vragen in willekeurige volgorde"
+          share-results: "Resultaten delen in plaats van quiztitel"
+          show-feedback: "Toon direct feedback op antwoord"
+      sharing:
+        header: Delen
+        share-image: "Aangepaste afbeelding voor delen"
+        custom-text: "Aangepaste tekst voor delen"
+        placeholder: "bijv: Versturen"
+        redirect-url-example: "bijv: http://jouwsite.com/quiz"
+        twitter-via-example: "@twitter_handle"
+        twitter-hashtags-example: "#quiz #persoonlijkheid"
