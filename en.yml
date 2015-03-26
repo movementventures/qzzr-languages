@@ -306,6 +306,8 @@ en:
       lead-form: 'Form'
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
+      lead-webhook-example: 'http://my.url.com/callback'
+      lead-webhook-title: 'Webhook URL'
       like-form: 'Facebook Like'
       link-form: 'Link'
       link-title-example: 'e.g. 10% off your next order!'
