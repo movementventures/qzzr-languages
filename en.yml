@@ -293,7 +293,7 @@ en:
       font-example: 'e.g. Georgia'
       font-family: 'Font family'
     integrations:
-      connect-to: "Connect to %{provider}%"
+      connect-to: "Connect to %{provider}"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
