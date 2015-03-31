@@ -324,6 +324,7 @@ en:
       list-picker-prompt: 'None selected'
       offer-title: 'Title'
       offer-description: 'Description (optional)'
+      test-webhook: 'Test webhook'
     outcome:
       add-graded-outcome: 'Define outcomes (optional)'
       default:
