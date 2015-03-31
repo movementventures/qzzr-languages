@@ -294,6 +294,9 @@ en:
       font-family: 'Font family'
     integrations:
       connect-to: "Connect to %{provider}"
+      connected: "Connected"
+      lists: "Lists"
+      groups: "Groups"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
