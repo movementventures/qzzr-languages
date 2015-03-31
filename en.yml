@@ -297,6 +297,7 @@ en:
       connected: "Connected"
       lists: "Lists"
       groups: "Groups"
+      coming-soon: "Coming soon"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
