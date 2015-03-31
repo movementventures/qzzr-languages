@@ -295,8 +295,9 @@ en:
     integrations:
       connect-to: "Connect to %{provider}"
       connected: "Connected"
-      lists: "Lists"
       groups: "Groups"
+      header: 'Integrations'
+      lists: "Lists"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
