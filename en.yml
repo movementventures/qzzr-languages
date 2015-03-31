@@ -293,6 +293,7 @@ en:
       font-example: 'e.g. Georgia'
       font-family: 'Font family'
     integrations:
+      coming-soon: "Coming soon"
       connect-to: "Connect to %{provider}"
       connected: "Connected"
       groups: "Groups"
