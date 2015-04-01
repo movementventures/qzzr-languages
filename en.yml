@@ -299,6 +299,7 @@ en:
       groups: "Groups"
       header: 'Integrations'
       lists: "Lists"
+      test-sent: 'Test sent'
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
