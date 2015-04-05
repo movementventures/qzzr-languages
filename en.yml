@@ -297,9 +297,11 @@ en:
       connect-to: "Connect to %{provider}"
       connected: "Connected"
       groups: "Groups"
-      header: 'Integrations'
+      header: "Integrations"
+      header-caps: "INTEGRATIONS"
       lists: "Lists"
-      test-sent: 'Test sent'
+      none-selected: "None selected"
+      test-sent: "Test sent"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
