@@ -290,7 +290,7 @@ en:
       label: "Label"
       link-result: 'Map an outcome'
     appearance:
-      font-example: 'e.g. Georgia'
+      font-example: 'e.g. Georgia, serif'
       font-family: 'Font family'
     integrations:
       coming-soon: "Coming soon"
