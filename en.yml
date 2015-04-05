@@ -302,6 +302,7 @@ en:
       lists: "Lists"
       none-selected: "None selected"
       test-sent: "Test sent"
+      webhooks-learn-more: "Learn more about webhooks"
     offer:
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
