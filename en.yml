@@ -292,6 +292,7 @@ en:
     appearance:
       font-example: 'e.g. Georgia, serif'
       font-family: 'Font family'
+      accent-color: 'Accent color'
     integrations:
       coming-soon: "Coming soon"
       connect-to: "Connect to %{provider}"
