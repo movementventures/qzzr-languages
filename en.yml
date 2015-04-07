@@ -291,6 +291,7 @@ en:
       link-result: 'Map an outcome'
     appearance:
       accent-color: 'Accent color'
+      accent-color-example: 'e.g. #de514d'
       font-example: 'e.g. Georgia, serif'
       font-family: 'Font family'
     integrations:
