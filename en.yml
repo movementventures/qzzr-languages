@@ -298,6 +298,7 @@ en:
       client-id: "Client ID"
       client-secret: "Client Secret"
       coming-soon: "Coming soon"
+      connect: "CONNECT"
       connect-to: "Connect to %{provider}"
       connected: "Connected"
       groups: "Groups"
