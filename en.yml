@@ -295,6 +295,8 @@ en:
       font-example: 'e.g. Georgia, serif'
       font-family: 'Font family'
     integrations:
+      client-id: "Client ID"
+      client-secret: "Client Secret"
       coming-soon: "Coming soon"
       connect-to: "Connect to %{provider}"
       connected: "Connected"
@@ -303,6 +305,7 @@ en:
       header-caps: "INTEGRATIONS"
       lists: "Lists"
       none-selected: "None selected"
+      service-url: "Service URL"
       test-sent: "Test sent"
       webhooks-learn-more: "Learn more about webhooks"
     offer:
