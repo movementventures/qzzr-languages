@@ -353,7 +353,7 @@ en:
     publish:
       header: 'Publish'
       update: 'Update'
-      preview: 'Embed Preview'
+      preview: 'Embed preview'
       unpublish: 'Unpublish'
       delete: 'Delete quiz'
     question:
