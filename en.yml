@@ -199,7 +199,7 @@ en:
       caption: "Made with Qzzr"
       description: "Make your own quizzes for free on Qzzr, the world's simplest quiz tool."
       email: 'Email'
-      embed: 'Embed in page'
+      embed: 'Embed this quiz'
       embed-default: 'Default'
       facebook: 'Share'
       gplus: 'Share'
@@ -208,7 +208,7 @@ en:
       hashtag: quizzes
       image-outcome-result: "RESULT: %{title}"
       image-graded-result: "SCORED %{percent}%"
-      link: 'Link'
+      link: 'Link to this quiz'
       linkedin: 'Share'
       on-qzzr: 'on Qzzr!'
       outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" What about you?"
