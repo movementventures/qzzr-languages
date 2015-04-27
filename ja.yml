@@ -1,4 +1,4 @@
-zh-CN:
+ja:
   admin:
     actions:
       charts:
@@ -31,13 +31,13 @@ zh-CN:
               too_short: "Password is too short (minimum is %{count} characters)."
   network:
     common:
-      share: 分享
+      share: シェア
     events:
       head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
-      quiz-posted: "%{user} 发布了这个测试"
-      result-graded: "%{user} 的得分是 %{score}"
-      result-graded-outcome: "%{user} 的得分是 %{score} ，测试结果是\"%{outcome}\""
-      result-outcome: "%{user} 的测试结果是 \"%{outcome}\""
+      quiz-posted: "%{user}さんが投稿したクイズ"
+      result-graded: "%{user}さんが%{score}点を記録"
+      result-graded-outcome: "%{user}さんが%{score}点を記録し\"%{outcome}\"を獲得"
+      result-outcome: "%{user}さんが\"%{outcome}\"を獲得"
     header:
       discover: Discover
       hubs: Hubs
@@ -60,7 +60,7 @@ zh-CN:
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
         sign-up-cta: "Sign up now"
-    made-with: "由该程序制作:"
+    made-with: 以下で作成：
     maindish:
       social:
         outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
@@ -93,9 +93,9 @@ zh-CN:
           title: "%{name} | MainDish"
     offer:
       email-placeholder: example@email.com
-      enter-your-email: 请输入你的邮箱地址
-      skip: 跳过
-      submit: 提交
+      enter-your-email: メールアドレスを入力
+      skip: スキップ
+      submit: 提出
     pages:
       index:
         title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
@@ -130,7 +130,7 @@ zh-CN:
       unfollow: Unfollow
       zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
     quiz:
-      header: "测试题：%{title}"
+      header: "クイズ：%{title}"
     quizzes:
       pagination:
         next: Next
@@ -142,23 +142,23 @@ zh-CN:
       your-feed: "Your feed"
     results:
       bracket:
-        count: "%{smart_count} 人 |||| %{smart_count} 人"
+        count: "%{smart_count}人 |||| %{smart_count}人"
         range: "%{lower}-%{upper}%"
-        title: 段位
+        title: 割合区分
       grade-count: "%{score}/%{count}"
       more-about-your-result: "More about your result"
       more-details: "More details"
       range: "%{lower}-%{upper}%"
-      recommended: 其他超棒的测试
-      retake: 重新答题
-      scored-percentage: "得分 %{percentage}%"
-      scroll-down: 下拉查看你的测试结果
-      share-your-result: 分享你的测试结果
-      your-result-graded: "测试结果：得分 %{percentage}%"
-      your-result-outcome: "测试结果：%{outcome}"
-      a-quick-message: 一条信息
-      from: 来自
-      lead-see-result: 请填写以下表格，以查看你的测试结果
+      recommended: その他の楽しいクイズ
+      retake: やり直す
+      scored-percentage: "得点：%{percentage}%"
+      scroll-down: スクロールダウンして結果を見る
+      share-your-result: 結果をシェア
+      your-result-graded: "結果：得点%{percentage}%"
+      your-result-outcome: "結果：%{outcome}"
+      a-quick-message: ショートメッセージ
+      from: 差出人：
+      lead-see-result: 下のフォームに記入して結果を見ましょう
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
@@ -188,60 +188,60 @@ zh-CN:
       trending: Popular
       upgrade: "Go Pro"
     social:
-      back: 回到“推荐嵌入代码”页面
-      branded-caption: "使用 Qzzr 制作 —— 亲手打造专属于你的小测试"
-      branded-graded-result-match: "我在 Qzzr \"%{quiz_title}\" 中的得分是 %{score}%！你能超越我吗？"
+      back: 推奨埋め込みコードに戻る
+      branded-caption: "Qzzrで作成 - ユーザーによるユーザーのためのクイズ"
+      branded-graded-result-match: "Qzzrの「%{quiz_title}」で%{score}%を記録！それよりいいスコアが出せるかな？"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
-      branded-outcome-result: "我在 Qzzr \"%{quiz_title}\" 的得分是 \"%{outcome_title}\"！你会是多少呢？"
-      branded-quiz: "来玩一下 Qzzr 中的 \"%{quiz_title}\" 吧！"
-      can-you-match: 你能超越我吗？
+      branded-outcome-result: "Qzzrの「%{quiz_title}」で%{outcome_title}を獲得！皆さんはどうでしたか？"
+      branded-quiz: "Qzzrで「%{quiz_title}」をチェックしてください！"
+      can-you-match: 私よりいい点が出せますか？
       can-you-top: "CAN YOU TOP THAT?"
-      caption: "使用 Qzzr 制作"
-      description: "用 Qzzr 免费打造自己专属的小测试吧！全世界最简单的测试制作工具！"
-      email: 邮件
-      embed: 嵌入页面
-      embed-default: 默认
-      facebook: 分享
-      gplus: 分享
-      graded-result-match: "我在 \"%{quiz_title}\" 中的得分是 %{score}% 呢，你能超越我吗？"
+      caption: Qzzrで作成
+      description: 世界で一番シンプルなクイズツール「Qzzr」で自分だけのクイズを無料作成しましょう。
+      email: Eメール
+      embed: ページに埋め込む
+      embed-default: デフォルト
+      facebook: シェア
+      gplus: シェア
+      graded-result-match: "「%{quiz_title}」で%{score}%を記録！それよりいいスコアが出せるかな？"
       graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
-      hashtag: 小测试
-      image-outcome-result: "结果：%{title}"
-      image-graded-result: "得分 %{percent}%"
-      link: 链接
-      linkedin: 分享
-      on-qzzr: "在 Qzzr 上！"
-      outcome-result: "我在 \"%{quiz_title}\" 中的测试结果是 \"%{outcome_title}\" 哦， 你会是什么呢？"
-      pinterest: "Pin it"
-      quiz: "来测试一下 \"%{quiz_title}\" 吧"
-      reddit: 分享
-      share-quiz: 分享本测试
-      trouble: 嵌入有问题？试试这个代码
-      tumblr: 分享
-      twitter: 推特
-      what-about-you: 你怎么样？
-      wordpress: 博客系统
-      wordpress-link: "博客系统 （与我们的 %{link} 一同使用）"
-      wordpress-link-label: 插件
+      hashtag: クイズ
+      image-outcome-result: "結果：%{title}"
+      image-graded-result: "%{percent}%を記録"
+      link: リンク
+      linkedin: シェア
+      on-qzzr: Qzzrのクイズ！
+      outcome-result: "「%{quiz_title}」で%{outcome_title}を獲得！皆さんはどうでしたか？"
+      pinterest: ピン
+      quiz: "「%{quiz_title}」をチェック！"
+      reddit: シェア
+      share-quiz: このクイズをシェア
+      trouble: 埋め込みがうまくいかない場合はこのコードを試してください
+      tumblr: シェア
+      twitter: Tweet
+      what-about-you: 皆さんはどうでしたか？
+      wordpress: WordPress
+      wordpress-link: "WordPress (%{link}と利用する場合)"
+      wordpress-link-label: プラグイン
     take:
-      challenge-a-friend: 挑战你的好友
-      click-to-advance: 点击任意地方继续
-      correct: 正确
-      correct-feedback: "正确：%{feedback}"
-      done: 提交
-      incorrect: 不正确
-      incorrect-feedback: "不正确：%{feedback}"
+      challenge-a-friend: 友達に挑戦
+      click-to-advance: どこでもクリックして先に進む
+      correct: 正解
+      correct-feedback: "正解：%{feedback}"
+      done: 提出
+      incorrect: 不正解
+      incorrect-feedback: "不正解：%{feedback}"
       invite-a-friend: "Invite Friends"
-      made-by: "制作者 %{author}"
-      make-quiz: 想要免费制作属于你自己的测试？
-      make-quiz-label: "来 qzzr 看看吧"
-      multiple-select: 请选择所有匹配项
-      multiple-select-colon: "请选择所有匹配项： "
-      next: 下一题
-      question-count: "%{smart_count} 道题 |||| %{smart_count} 道题"
-      start: 开始
-      tap-to-advance: 点击任意地方继续
-      times-taken: "已被完成 %{smart_count} 次 |||| 已被完成 %{smart_count} 次"
+      made-by: "作成者：%{author}"
+      make-quiz: 自分だけのクイズを無料で作成しますか？
+      make-quiz-label: qzzrをチェック
+      multiple-select: 当てはまるものを全て選んでください
+      multiple-select-colon: 当てはまるものを全て選んでください：
+      next: 次
+      question-count: "%{smart_count}問 |||| %{smart_count}問"
+      start: スタート
+      tap-to-advance: どこでもタップして先に進む
+      times-taken: "回答数：%{smart_count}回 |||| 回答数：%{smart_count}回"
     topics:
       arts: Art
       business: Business
@@ -285,133 +285,133 @@ zh-CN:
       follow: Follow
   maker:
     answer:
-      add: 添加答案
-      image: 图像
-      label: 标签
-      link-result: 分配测试结果
+      add: 答えを追加
+      image: 画像
+      label: ラベル
+      link-result: 成績を誘導
     appearance:
-      accent-color: 强调文字颜色
-      accent-color-example: "e.g. #de514d"
+      accent-color: 強調色
+      accent-color-example: "例：#de514d"
       font-example: "e.g. Georgia, serif"
       font-family: "Font family"
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
-      coming-soon: 即将开放
+      coming-soon: 近日登場
       connect: CONNECT
       connect-to: "Connect to %{provider}"
-      connected: 已连接
-      groups: 组别
-      header: 整合
-      header-caps: 整合
-      lists: 列表
+      connected: 接続中
+      groups: グループ
+      header: 統合
+      header-caps: 統合
+      lists: リスト
       none-selected: "None selected"
       service-url: "Service URL"
-      test-sent: 测试已发送
-      webhooks-learn-more: "了解更多关于 webhooks 的信息"
+      test-sent: テスト送信済み
+      webhooks-learn-more: webhookについて詳しく知る
     offer:
-      config-integrations: 配置整合
+      config-integrations: 統合を設定
       enabled: Enabled
-      explanation: "收集邮箱，推广商业信息，或为你的 Facebook 页面赢得赞"
-      facebook-title-example: 例如，在Facebook上关注我们
-      facebook-description-example: "例如，Facebook 的粉丝们可获得特殊优惠"
-      facebook-url-title: "Facebook 页面网址"
+      explanation: メールアドレスを集め、オファーを提供し、Facebookページに「いいね」をもらいましょう
+      facebook-title-example: 例：サイトをFacebookで「いいね」する
+      facebook-description-example: "e.g. Facebookのファンがスペシャルオファーを受ける"
+      facebook-url-title: FacebookのページURL
       facebook-url-example: "http://facebook.com/facebook.page"
-      lead-gate-result: 测试者必须提交表格，才可查看测试结果
-      header: 商业信息
-      is-enabled-button-label: 对被测试者可视
-      lead-form: 表格
-      lead-title-example: 例如，马上注册，获取最新信息！
-      lead-description-example: 获取最新资讯，享受特殊优惠
+      lead-gate-result: 結果を見る前にフォームを送信する必要があります
+      header: スペシャルオファー
+      is-enabled-button-label: クイズ回答者に表示
+      lead-form: フォーム
+      lead-title-example: 例：アップデートに登録する！
+      lead-description-example: 最新アップデートとスペシャルオファーを受ける
       lead-webhook-example: "http://my.url.com/callback"
       lead-webhook-title: Webhook
-      like-form: "Facebook 关注"
-      link-form: 链接
-      link-title-example: "例如，你的下一订单将可享受 10% 的折扣！"
-      link-description-example: 点击以下按钮激活
-      link-button-label-title: 底部标签
-      link-button-label-example: 申请折扣
-      link-button-url-title: 底部网址
+      like-form: "Facebook いいね！"
+      link-form: リンク
+      link-title-example: 例：次の注文が10%オフ！
+      link-description-example: 下のボタンを押して有効化
+      link-button-label-title: ボタンのラベル
+      link-button-label-example: 割引を適用
+      link-button-url-title: ボタンURL
       link-button-url-example: "http://example.com"
-      list-picker-prompt: 未选择
-      offer-title: 标题
-      offer-description: 描述（可选）
-      test-webhook: "测试 webhook"
+      list-picker-prompt: 何も洗濯されていません
+      offer-title: タイトル
+      offer-description: 説明（任意）
+      test-webhook: webhookをテスト
     outcome:
-      add-graded-outcome: 定义测试结果（可选）
+      add-graded-outcome: 成績を定義(任意)
       default:
-        title: 全部
-        description: 描述（可选）
-      description: 描述（可选）
-      description-example: 例如，你喜欢耍酷...
-      graded-outcome-example: 例如，你是一个天才（95-100）
-      header: 测试结果
-      image: 图像
-      range-warning: 如果范围重叠，垂直顺序将决定先后次序。
-      title: 测试结果标题
-      title-example: 例如，夺宝奇兵
+        title: キャッチオール
+        description: 説明（任意）
+      description: 説明（任意）
+      description-example: 例：最高でいるのを楽しんでるね...
+      graded-outcome-example: "e.g. あなたは天才だ！(95-100)"
+      header: 成績
+      image: 画像
+      range-warning: 範囲が重なり合う場合は、上の順番が優先されます
+      title: 成績タイトル
+      title-example: 例：インディ・ジョーンズ
     publish:
-      header: 发布
+      header: 公開
       update: 更新
-      preview: 嵌入预览
-      unpublish: 取消发布
-      delete: 删除测试
+      preview: プレビューを埋め込む
+      unpublish: 非公開
+      delete: クイズを削除
     question:
-      description: 描述（可选）
-      description-example: 例如，提示：它不是夏威夷
-      disable-images: 禁用图像
-      enable-images: 启用图像
-      feedback-title: 答案反馈（可选）
-      feedback-example: 例如，蜜蜂能闻到恐惧
-      image: 图像
-      select-all-apply: 选择所有合适项
-      select-all: 全选
-      select-one: 单选
-      title: 问题标题
-      title-example: 例如，西雅图在哪个州？
-      true-false: 是非题
-      true-false-warning: 变更为是非题，将会删除你当前的答案选项。继续？
-      type: 类型
+      description: 説明（任意）
+      description-example: 例：ヒント：ハワイじゃないよ
+      disable-images: 画像を無効にする
+      enable-images: 画像を有効にする
+      feedback-title: フィードバック(任意)
+      feedback-example: 例：ハチは恐怖を感じ取る
+      image: 画像
+      select-all-apply: 当てはまるものを全て選んでください
+      select-all: 全て選択
+      select-one: 1つ選択
+      title: 質問タイトル
+      title-example: 例：シアトルのある州はどこですか？
+      true-false: 正誤問題
+      true-false-warning: 正しいまたは間違いに変更することは現在の回答オプションを削除してしまいます。続けますか？
+      type: タイプ
     quiz:
-      add-outcome: 添加测试结果
-      add-question: 添加一个问题
+      add-outcome: 成績を追加
+      add-question: 問題を追加
       background-topics: "Upload background & select topics"
       create:
-        choose: 选择测试类型
-        graded-help: 例如，这是什么电影？
-        graded-label: 评分测试
-        outcome-help: 例如，你是什么颜色的？
-        outcome-label: 结果测试
-      description: 描述（可选）
-      description-example: 例如，识别著名网站
-      image: 图像
+        choose: クイズタイプを選ぶ
+        graded-help: 例：この映画は何ですか
+        graded-label: 採点式
+        outcome-help: 例：この色は何ですか？
+        outcome-label: 成績
+      description: 説明(任意)
+      description-example: 例：有名なサイトを特定してください
+      image: 画像
       select-topic: "List in a topic"
       select-another-topic: "List in another topic"
-      share-redirect-url: "分享重定向 URL"
-      title: 测试标题
-      title-example: 例如，你是哪个英雄？
+      share-redirect-url: 転送URLをシェア
+      title: クイズタイトル
+      title-example: 例：このヒーローは誰でしょう？
     settings:
-      background: 上传背景
-      header: 测试设置
-      design: 设计
-      hashtags: 话题标签
-      tweet-via: 推特通过
+      background: 背景をアップロード
+      header: クイズ設定
+      design: デザイン
+      hashtags: ハッシュタグ
+      tweet-via: 使用Tweetアカウント
       quiz-type:
-        header: 测试类型
-        graded-quiz: 评分测试
-        outcome-quiz: 结果测试
+        header: クイズタイプ
+        graded-quiz: 採点式クイズ
+        outcome-quiz: 成績クイズ
       advanced:
-        header: 高级
-        hide-on-networks: "在 Qzzr 网络中隐藏测试"
-        randomized-answers: 随机答案
-        randomized-questions: 随机问题
-        share-results: 分享测试结果，而非测试标题
-        show-feedback: 马上给出答案反馈
+        header: 詳細設定
+        hide-on-networks: Qzzrネットワーク上でクイズを隠す
+        randomized-answers: 答えをランダム化
+        randomized-questions: 質問をランダム化
+        share-results: クイズタイトルの代わりに結果をシェアする
+        show-feedback: 答えのフィードバックを即時に表示する
     sharing:
-      header: 分享
-      share-image: 自定义分享图像
-      custom-text: 自定义分享信息
-      placeholder: 例如，提交
-      redirect-url-example: "例如，http://yoursite.com/quiz"
+      header: シェア中
+      share-image: カスタムのシェア画像
+      custom-text: カスタムのシェアテキスト
+      placeholder: 例：提出
+      redirect-url-example: "例：http://yoursite.com/quiz"
       twitter-via-example: "@twitter_handle"
-      twitter-hashtags-example: "#测试 #性格"
+      twitter-hashtags-example: "#クイズ #性格"
