@@ -1,16 +1,153 @@
 pt:
+  admin:
+    actions:
+      charts:
+        title: Charts
+        menu: Charts
+        breadcrumb: Charts
+      publish_quiz:
+        title: "Publish Quiz %{model_label_plural}"
+        menu: "Publish Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_quiz:
+        title: "View Quiz %{model_label_plural}"
+        menu: "View Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_user:
+        title: "View User %{model_label_plural}"
+        menu: "View User"
+        breadcrumb: "%{model_label_plural}"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              invalid: "Enter a valid email."
+              taken: "Sorry, that email is already taken."
+            nickname:
+              taken: "Sorry, that username is already taken."
+            password:
+              too_short: "Password is too short (minimum is %{count} characters)."
   network:
+    common:
+      share: Compartilhar
+    events:
+      head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
+      quiz-posted: "%{user} postou este teste"
+      result-graded: "%{user} teve uma pontuação de %{score}"
+      result-graded-outcome: "%{user} teve uma pontuação de %{score} e obteve \"%{outcome}\""
+      result-outcome: "%{user} obteve \"%{outcome}\""
+    header:
+      discover: Discover
+      hubs: Hubs
+      account-settings: "Account settings"
+      more: More
+      create: Create
+      create-long: "Create a quiz"
+      free: "It's free"
+      go-pro: "Qzzr for Business"
+      subtitle: "Quizzes for you, by you."
+    landing:
+      pitch:
+        capture-leads: "Embed and share it"
+        drive-social: "Create a quiz for free"
+        pitch-subheadline: "It's free!"
+        go-pro: "Learn more"
+        header: "Qzzr for business"
+        present-offers: "Drive social traffic"
+        subheader: "Make an engaging quiz for your website."
+      signup:
+        sign-up-pitch: "Create quizzes for free &amp; save your results."
+        sign-up-cta: "Sign up now"
+    made-with: "Criado com"
+    maindish:
+      social:
+        outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
+        graded-result: "I scored %{score}% on \"%{quiz_title}\""
+        caption: www.maindish.co
+        description: "Great new quiz. %{quiz_title}"
+      pages:
+        index:
+          title: "Take Fun Quizzes and Personality Tests for Free | MainDish"
+          description: "MainDish lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+          keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+        trending:
+          title: "Take the Most Popular Quizzes on the Internet | MainDish"
+          description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+        topics:
+          title: "Search Online Quizzes by Topic | MainDish"
+          description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+        quiz:
+          by-author: "By this author"
+          comments: Comments
+          create-your-own: "Create your own quiz"
+          default-title: "Get Your Quiz On | MainDish"
+          description: "%{description} | What's your result? Take the quiz now!"
+          default-description: "Take this quiz now!  What's your result?"
+          more-quizzes: "View more quizzes"
+          posted-by: "Posted by %{author}"
+          suggested: Suggested
+          title: "%{title} | MainDish"
+        profile:
+          title: "%{name} | MainDish"
     offer:
       email-placeholder: exemplo@email.com
       enter-your-email: "Insira seu email"
       skip: Pular
       submit: Enviar
+    pages:
+      index:
+        title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
+        description: "Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+        keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+      trending:
+        title: "Take the Most Popular Quizzes on the Internet | Qzzr"
+        description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+      topics:
+        title: "Search Online Quizzes by Topic | Qzzr"
+        description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+      quiz:
+        by-author: "By this author"
+        comments: Comments
+        create-your-own: "Create your own quiz"
+        default-title: "Get Your Quiz On | Qzzr"
+        description: "%{description} | What's your result? Take the quiz now!"
+        default-description: "Take this quiz now!  What's your result?"
+        more-quizzes: "View more quizzes"
+        posted-by: "Posted by %{author}"
+        suggested: Suggested
+        title: "%{title} | Qzzr"
+      profile:
+        title: "%{name} | Qzzr"
+    profile:
+      follow: Follow
+      followers: "%{smart_count} Follower |||| %{smart_count} Followers"
+      following: "%{smart_count} Following |||| %{smart_count} Following"
+      interests: Interests
+      quizzes-completed: "Quizzes completed"
+      quizzes-created: "Quizzes created"
+      unfollow: Unfollow
+      zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
     quiz:
       header: "TESTE: %{title}"
+    quizzes:
+      pagination:
+        next: Next
+        previous: Previous
+      personality: "Personality quizzes"
+      trending: "Popular quizzes"
+      trivia: "Trivia quizzes"
+      view-all: "View all"
+      your-feed: "Your feed"
     results:
       bracket:
         count: "%{smart_count} pessoa |||| %{smart_count} pessoas"
+        range: "%{lower}-%{upper}%"
         title: Faixas
+      grade-count: "%{score}/%{count}"
+      more-about-your-result: "More about your result"
+      more-details: "More details"
       range: "%{lower}-%{upper}%"
       recommended: "Outros excelentes testes"
       retake: Repetir
@@ -21,13 +158,44 @@ pt:
       your-result-outcome: "Resultado: %{outcome}"
       a-quick-message: "Uma rápida mensagem"
       from: de
+      lead-see-result: "Preencha o formulário abaixo para ver o resultado"
+    search:
+      no-results: "We couldn't find anything for that search."
+      no-results-suggestion: "Try being less specific."
+      search-qzzr: Search
+    sidenav:
+      beat-em: "Beat 'em!"
+      blog: Blog
+      featured-topics: "Featured Topics"
+      follow-these-folks: "Follow these folks"
+      go-pro: "For business"
+      guidelines: "Content Guidelines"
+      help: "Help & support"
+      home: Home
+      how-to: How-to
+      leaderboards: Leaderboards
+      popular: Popular
+      privacy: Privacy
+      profile: "Edit profile"
+      sign-up: "Sign up"
+      sign-up-tagline: "Save your results & create free quizzes"
+      search: Search
+      settings: "Edit settings"
+      log-in: "Log in"
+      log-out: "Log out"
+      terms: Terms
+      topics: Topics
+      trending: Popular
+      upgrade: "Go Pro"
     social:
       back: "Retornar ao código de incorporação recomendado"
       branded-caption: "Criado com o Qzzr - Testes feitos por você para você"
       branded-graded-result-match: "Obtive uma pontuação de %{score}% em \"%{quiz_title}\" no Qzzr! Você consegue fazer melhor?"
+      branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
       branded-outcome-result: "Recebi \"%{outcome_title}\" em \"%{quiz_title}\" no Qzzr! E você?"
       branded-quiz: "Confira \"%{quiz_title}\" no Qzzr!"
       can-you-match: "VOCÊ CONSEGUE FAZER MELHOR?"
+      can-you-top: "CAN YOU TOP THAT?"
       caption: "Criado com o Qzzr"
       description: "Crie sus próprios testes gratuitamente no Qzzr, a ferramenta de testes mais simples do mundo."
       email: Email
@@ -36,6 +204,7 @@ pt:
       facebook: Compartilhar
       gplus: Compartilhar
       graded-result-match: "Obtive uma pontuação de %{score}% em \"%{quiz_title}\" Você consegue fazer melhor?"
+      graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
       hashtag: testes
       image-outcome-result: "RESULTADO: %{title}"
       image-graded-result: "PONTUAÇÃO DE %{percent}%"
@@ -62,6 +231,7 @@ pt:
       done: Enviar
       incorrect: Incorreto
       incorrect-feedback: "Incorreto: %{feedback}"
+      invite-a-friend: "Invite Friends"
       made-by: "Criado por %{author}"
       make-quiz: "Quer criar seu próprio teste gratuitamente?"
       make-quiz-label: "Confira o Qzzr"
@@ -72,24 +242,90 @@ pt:
       start: Iniciar
       tap-to-advance: "Toque em qualquer lugar para avançar"
       times-taken: "Respondido %{smart_count} vez |||| Respondido %{smart_count} vezes"
+    topics:
+      arts: Art
+      business: Business
+      education: Education
+      food: Food
+      games: Games
+      geography: Geography
+      header: Topics
+      history: History
+      humor: Humor
+      lifestyle: Lifestyle
+      literature: Literature
+      movies: Movies
+      music: Music
+      nature: Nature
+      science: Science
+      sports: Sports
+      tech: Technology
+      tv: TV
+      world-travel: "World & Travel"
+      love: Love
+      tv-movies: "TV & Movies"
+      politics: Politics
+      celebrities: Celebrities
+      religion: Religion
+      video-games: "Video Games"
+      automotive: Automotive
+      animals: Animals
+      health-fitness: "Health & Fitness"
+      beauty: Beauty
+      art-style: "Art & Style"
+      food-drink: "Food & Drink"
+      science-technology: "Science & Tech"
+      trivia: Trivia
+      personality: Personality
+      girls-women: "Girls & Women"
+      current-events: "Current Events"
+      kids: Kids
+      espanol: Español
+    users:
+      follow: Follow
   maker:
     answer:
       add: "Adicionar resposta"
       image: Imagem
       label: Rótulo
       link-result: "Mapear um resultado"
+    appearance:
+      accent-color: "Cor da ênfase"
+      accent-color-example: "ex: #de514d"
+      font-example: "e.g. Georgia, serif"
+      font-family: "Font family"
+    integrations:
+      client-id: "Client ID"
+      client-secret: "Client Secret"
+      coming-soon: "Em breve"
+      connect: CONNECT
+      connect-to: "Connect to %{provider}"
+      connected: Conectado
+      groups: Grupos
+      header: Integrações
+      header-caps: INTEGRAÇÕES
+      lists: Listas
+      none-selected: "None selected"
+      service-url: "Service URL"
+      test-sent: "Teste enviado"
+      webhooks-learn-more: "Saiba mais sobre Webhooks"
     offer:
+      config-integrations: "CONFIGURAR INTEGRAÇÕES"
+      enabled: Enabled
       explanation: "Reúna emails, apresente ofertas e receba curtidas na sua página do Facebook"
-      header: Ofertas
-      is-enabled-button-label: "Visível para os participantes do teste"
-      like-form: "Curtir no Facebook"
       facebook-title-example: "ex: Curta nossa página no Facebook"
       facebook-description-example: "ex: Fãs do Facebook recebem ofertas especiais"
       facebook-url-title: "URL da página do Facebook"
       facebook-url-example: "http://facebook.com/página.facebook"
+      lead-gate-result: "O participante deve enviar o formulário antes de ver o resultado"
+      header: Oferta
+      is-enabled-button-label: "Visível para os participantes do teste"
       lead-form: Formulário
       lead-title-example: "ex: Cadastre-se para receber atualizações!"
       lead-description-example: "Mantenha-se atualizado e receba ofertas especiais"
+      lead-webhook-example: "http://my.url.com/callback"
+      lead-webhook-title: Webhook
+      like-form: "Curtir no Facebook"
       link-form: Link
       link-title-example: "ex: 10% de desconto no seu próximo pedido!"
       link-description-example: "Clique no botão abaixo para ativar"
@@ -97,8 +333,10 @@ pt:
       link-button-label-example: "Aplicar desconto"
       link-button-url-title: "URL do \x7fBotão"
       link-button-url-example: "http://exemplo.com"
+      list-picker-prompt: "Nenhum selecionado"
       offer-title: Título
       offer-description: "Descrição (opcional)"
+      test-webhook: "Testar Webhook"
     outcome:
       add-graded-outcome: "Definir resultados (opcional)"
       default:
@@ -137,6 +375,7 @@ pt:
     quiz:
       add-outcome: "Adicionar resultado"
       add-question: "Adicionar uma pergunta"
+      background-topics: "Upload background & select topics"
       create:
         choose: "Escolha um tipo de teste"
         graded-help: "ex: Que filme é este?"
@@ -146,6 +385,8 @@ pt:
       description: "Descrição (opcional)"
       description-example: "ex: Identifique os locais famosos"
       image: Imagem
+      select-topic: "List in a topic"
+      select-another-topic: "List in another topic"
       share-redirect-url: "Compartilhar URL de redirecionamento"
       title: "Título do teste"
       title-example: "ex: Qual herói representa você?"
