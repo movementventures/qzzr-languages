@@ -1,16 +1,153 @@
 nl:
+  admin:
+    actions:
+      charts:
+        title: Charts
+        menu: Charts
+        breadcrumb: Charts
+      publish_quiz:
+        title: "Publish Quiz %{model_label_plural}"
+        menu: "Publish Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_quiz:
+        title: "View Quiz %{model_label_plural}"
+        menu: "View Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_user:
+        title: "View User %{model_label_plural}"
+        menu: "View User"
+        breadcrumb: "%{model_label_plural}"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              invalid: "Enter a valid email."
+              taken: "Sorry, that email is already taken."
+            nickname:
+              taken: "Sorry, that username is already taken."
+            password:
+              too_short: "Password is too short (minimum is %{count} characters)."
   network:
+    common:
+      share: Delen
+    events:
+      head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
+      quiz-posted: "%{user} heeft deze quiz geplaatst"
+      result-graded: "%{user} heeft %{score} gescoord"
+      result-graded-outcome: "%{user} heeft %{score} gescoord & \"%{outcome}\" gehaald"
+      result-outcome: "%{user} heeft \"%{outcome}\" gehaald"
+    header:
+      discover: Discover
+      hubs: Hubs
+      account-settings: "Account settings"
+      more: More
+      create: Create
+      create-long: "Create a quiz"
+      free: "It's free"
+      go-pro: "Qzzr for Business"
+      subtitle: "Quizzes for you, by you."
+    landing:
+      pitch:
+        capture-leads: "Embed and share it"
+        drive-social: "Create a quiz for free"
+        pitch-subheadline: "It's free!"
+        go-pro: "Learn more"
+        header: "Qzzr for business"
+        present-offers: "Drive social traffic"
+        subheader: "Make an engaging quiz for your website."
+      signup:
+        sign-up-pitch: "Create quizzes for free &amp; save your results."
+        sign-up-cta: "Sign up now"
+    made-with: "Gemaakt met"
+    maindish:
+      social:
+        outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
+        graded-result: "I scored %{score}% on \"%{quiz_title}\""
+        caption: www.maindish.co
+        description: "Great new quiz. %{quiz_title}"
+      pages:
+        index:
+          title: "Take Fun Quizzes and Personality Tests for Free | MainDish"
+          description: "MainDish lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+          keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+        trending:
+          title: "Take the Most Popular Quizzes on the Internet | MainDish"
+          description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+        topics:
+          title: "Search Online Quizzes by Topic | MainDish"
+          description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+        quiz:
+          by-author: "By this author"
+          comments: Comments
+          create-your-own: "Create your own quiz"
+          default-title: "Get Your Quiz On | MainDish"
+          description: "%{description} | What's your result? Take the quiz now!"
+          default-description: "Take this quiz now!  What's your result?"
+          more-quizzes: "View more quizzes"
+          posted-by: "Posted by %{author}"
+          suggested: Suggested
+          title: "%{title} | MainDish"
+        profile:
+          title: "%{name} | MainDish"
     offer:
       email-placeholder: voorbeeld@email.com
       enter-your-email: "Voer je e-mailadres in"
       skip: Overslaan
       submit: Versturen
+    pages:
+      index:
+        title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
+        description: "Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+        keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+      trending:
+        title: "Take the Most Popular Quizzes on the Internet | Qzzr"
+        description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+      topics:
+        title: "Search Online Quizzes by Topic | Qzzr"
+        description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+      quiz:
+        by-author: "By this author"
+        comments: Comments
+        create-your-own: "Create your own quiz"
+        default-title: "Get Your Quiz On | Qzzr"
+        description: "%{description} | What's your result? Take the quiz now!"
+        default-description: "Take this quiz now!  What's your result?"
+        more-quizzes: "View more quizzes"
+        posted-by: "Posted by %{author}"
+        suggested: Suggested
+        title: "%{title} | Qzzr"
+      profile:
+        title: "%{name} | Qzzr"
+    profile:
+      follow: Follow
+      followers: "%{smart_count} Follower |||| %{smart_count} Followers"
+      following: "%{smart_count} Following |||| %{smart_count} Following"
+      interests: Interests
+      quizzes-completed: "Quizzes completed"
+      quizzes-created: "Quizzes created"
+      unfollow: Unfollow
+      zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
     quiz:
       header: "QUIZ: %{title}"
+    quizzes:
+      pagination:
+        next: Next
+        previous: Previous
+      personality: "Personality quizzes"
+      trending: "Popular quizzes"
+      trivia: "Trivia quizzes"
+      view-all: "View all"
+      your-feed: "Your feed"
     results:
       bracket:
         count: "%{smart_count} persoon |||| %{smart_count} mensen"
+        range: "%{lower}-%{upper}%"
         title: Niveaus
+      grade-count: "%{score}/%{count}"
+      more-about-your-result: "More about your result"
+      more-details: "More details"
       range: "%{lower}-%{upper}%"
       recommended: "Andere geweldige quizzen"
       retake: Overdoen
@@ -21,13 +158,44 @@ nl:
       your-result-outcome: "Resultaat: %{outcome}"
       a-quick-message: "Een kort bericht"
       from: van
+      lead-see-result: "Vul onderstaand formulier in om je resultaten te zien"
+    search:
+      no-results: "We couldn't find anything for that search."
+      no-results-suggestion: "Try being less specific."
+      search-qzzr: Search
+    sidenav:
+      beat-em: "Beat 'em!"
+      blog: Blog
+      featured-topics: "Featured Topics"
+      follow-these-folks: "Follow these folks"
+      go-pro: "For business"
+      guidelines: "Content Guidelines"
+      help: "Help & support"
+      home: Home
+      how-to: How-to
+      leaderboards: Leaderboards
+      popular: Popular
+      privacy: Privacy
+      profile: "Edit profile"
+      sign-up: "Sign up"
+      sign-up-tagline: "Save your results & create free quizzes"
+      search: Search
+      settings: "Edit settings"
+      log-in: "Log in"
+      log-out: "Log out"
+      terms: Terms
+      topics: Topics
+      trending: Popular
+      upgrade: "Go Pro"
     social:
       back: "Ga terug naar aanbevolen embedcode"
       branded-caption: "Gemaakt met Qzzr - Quizzen voor jou door jou"
       branded-graded-result-match: "Ik heb %{score}% gescoord in \"%{quiz_title}\" op Qzzr! Kun jij het beter?"
+      branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
       branded-outcome-result: "Ik heb \"%{outcome_title}\" gehaald in \"%{quiz_title}\" op Qzzr! En jij?"
       branded-quiz: "Check \"%{quiz_title}\" op Qzzr!"
       can-you-match: "KUN JIJ HET BETER?"
+      can-you-top: "CAN YOU TOP THAT?"
       caption: "Gemaakt met Qzzr"
       description: "Maak gratis je eigen quizzen op Qzzr, de gemakkelijkste quiztool ter wereld."
       email: E-mail
@@ -36,6 +204,7 @@ nl:
       facebook: Delen
       gplus: Delen
       graded-result-match: "Ik heb %{score}% gescoord in \"%{quiz_title}\" Kun jij het beter?"
+      graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
       hashtag: quizzen
       image-outcome-result: "RESULTAAT: %{title}"
       image-graded-result: "GESCOORD %{percent}%"
@@ -62,6 +231,7 @@ nl:
       done: Versturen
       incorrect: Fout
       incorrect-feedback: "Fout: %{feedback}"
+      invite-a-friend: "Invite Friends"
       made-by: "Gemaakt door %{author}"
       make-quiz: "Wil je gratis je eigen quiz maken?"
       make-quiz-label: "Check qzzr"
@@ -72,24 +242,90 @@ nl:
       start: Beginnen
       tap-to-advance: "Tik ergens om door te gaan"
       times-taken: "%{smart_count} keer nodig gehad |||| %{smart_count} keer nodig gehad"
+    topics:
+      arts: Art
+      business: Business
+      education: Education
+      food: Food
+      games: Games
+      geography: Geography
+      header: Topics
+      history: History
+      humor: Humor
+      lifestyle: Lifestyle
+      literature: Literature
+      movies: Movies
+      music: Music
+      nature: Nature
+      science: Science
+      sports: Sports
+      tech: Technology
+      tv: TV
+      world-travel: "World & Travel"
+      love: Love
+      tv-movies: "TV & Movies"
+      politics: Politics
+      celebrities: Celebrities
+      religion: Religion
+      video-games: "Video Games"
+      automotive: Automotive
+      animals: Animals
+      health-fitness: "Health & Fitness"
+      beauty: Beauty
+      art-style: "Art & Style"
+      food-drink: "Food & Drink"
+      science-technology: "Science & Tech"
+      trivia: Trivia
+      personality: Personality
+      girls-women: "Girls & Women"
+      current-events: "Current Events"
+      kids: Kids
+      espanol: Español
+    users:
+      follow: Follow
   maker:
     answer:
       add: "Antwoord toevoegen"
       image: Afbeelding
       label: Label
       link-result: "Een uitkomst toekennen"
+    appearance:
+      accent-color: Accentkleur
+      accent-color-example: "bijv. #de514d"
+      font-example: "e.g. Georgia, serif"
+      font-family: "Font family"
+    integrations:
+      client-id: "Client ID"
+      client-secret: "Client Secret"
+      coming-soon: "Binnenkort beschikbaar"
+      connect: CONNECT
+      connect-to: "Connect to %{provider}"
+      connected: Verbonden
+      groups: Groepen
+      header: Integraties
+      header-caps: INTEGRATIES
+      lists: Lijsten
+      none-selected: "None selected"
+      service-url: "Service URL"
+      test-sent: "Test verstuurd"
+      webhooks-learn-more: "Meer info over webhooks"
     offer:
+      config-integrations: "INTEGRATIES CONFIGUREREN"
+      enabled: Enabled
       explanation: "Verzamel e-mails, doe aanbiedingen en krijg vind-ik-leuks voor je Facebookpagina"
-      header: Aanbiedingen
-      is-enabled-button-label: "Zichtbaar voor quizdeelnemers"
-      like-form: "Facebook vind-ik-leuk"
       facebook-title-example: "bijv: Vind ons leuk op Facebook"
       facebook-description-example: "bijv: Facebookfans krijgen speciale aanbiedingen"
       facebook-url-title: "Url Facebookpagina"
       facebook-url-example: "http://facebook.com/facebook.pagina"
+      lead-gate-result: "Invuller moet formulier versturen voordat resultaten getoond worden"
+      header: Aanbieding
+      is-enabled-button-label: "Zichtbaar voor quizdeelnemers"
       lead-form: Van
       lead-title-example: "bijv: Meld je aan voor updates!"
       lead-description-example: "Blijf op de hoogte en ontvang speciale aanbiedingen"
+      lead-webhook-example: "http://my.url.com/callback"
+      lead-webhook-title: Webhook
+      like-form: "Facebook vind-ik-leuk"
       link-form: Link
       link-title-example: "bijv: 10% korting op je volgende bestelling!"
       link-description-example: "Klik op onderstaande knop om te activeren"
@@ -97,8 +333,10 @@ nl:
       link-button-label-example: "Korting toepassen"
       link-button-url-title: Knop-url
       link-button-url-example: "http://voorbeeld.com"
+      list-picker-prompt: "Geen geselecteerd"
       offer-title: Titel
       offer-description: "Beschrijiving (optioneel)"
+      test-webhook: "Webhook testen"
     outcome:
       add-graded-outcome: "Definieer uitkomsten (optioneel)"
       default:
@@ -137,6 +375,7 @@ nl:
     quiz:
       add-outcome: "Uitkomst toevoegen"
       add-question: "Een vraag toevoegen"
+      background-topics: "Upload background & select topics"
       create:
         choose: "Kies een quiztype"
         graded-help: "bijv: Welke film is dit?"
@@ -146,6 +385,8 @@ nl:
       description: "Beschrijving (optioneel)"
       description-example: "bijv: Identificeer de beroemde locaties"
       image: Afbeelding
+      select-topic: "List in a topic"
+      select-another-topic: "List in another topic"
       share-redirect-url: "Omleidings-url delen"
       title: "Titel quiz"
       title-example: "bijv: welke held ben jij?"

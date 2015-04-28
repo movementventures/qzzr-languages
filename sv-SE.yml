@@ -1,4 +1,4 @@
-de:
+sv-SE:
   admin:
     actions:
       charts:
@@ -31,13 +31,13 @@ de:
               too_short: "Password is too short (minimum is %{count} characters)."
   network:
     common:
-      share: Teilen
+      share: Dela
     events:
       head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
-      quiz-posted: "%{user} erstellte dieses Quiz"
-      result-graded: "%{user} erzielte %{score}"
-      result-graded-outcome: "%{user} erzielte %{score} und wurde \"%{outcome}\""
-      result-outcome: "%{user} wurde \"%{outcome}\""
+      quiz-posted: "%{user} skapade denna frågesport"
+      result-graded: "%{user} fick %{score} rätt"
+      result-graded-outcome: "%{user} fick %{score} rätt med resultatet \"%{outcome}\""
+      result-outcome: "%{user} fick resultatet \"%{outcome}\""
     header:
       discover: Discover
       hubs: Hubs
@@ -60,7 +60,7 @@ de:
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
         sign-up-cta: "Sign up now"
-    made-with: "Gemacht mit"
+    made-with: "Skapa med"
     maindish:
       social:
         outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
@@ -92,10 +92,10 @@ de:
         profile:
           title: "%{name} | MainDish"
     offer:
-      email-placeholder: Beispiel@e-mail.com
-      enter-your-email: "Gib deine E-Mail-Adresse ein"
-      skip: Übergehen
-      submit: Absenden
+      email-placeholder: exempel@email.com
+      enter-your-email: "Ange din e-postadress"
+      skip: "Hoppa över"
+      submit: "Skicka in"
     pages:
       index:
         title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
@@ -130,7 +130,7 @@ de:
       unfollow: Unfollow
       zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
     quiz:
-      header: "QUIZ: %{title}"
+      header: "FRÅGESPORT: %{title}"
     quizzes:
       pagination:
         next: Next
@@ -142,23 +142,23 @@ de:
       your-feed: "Your feed"
     results:
       bracket:
-        count: "%{smart_count} Person |||| %{smart_count} Personen"
+        count: "%{smart_count} person |||| %{smart_count} personer"
         range: "%{lower}-%{upper}%"
-        title: Bereiche
+        title: Intervall
       grade-count: "%{score}/%{count}"
       more-about-your-result: "More about your result"
       more-details: "More details"
       range: "%{lower}-%{upper}%"
-      recommended: "Andere tolle Quizze"
-      retake: Wiederholen
-      scored-percentage: "%{percentage}% erreicht"
-      scroll-down: "Runterscrollen für dein Ergebnis"
-      share-your-result: "Teile dein Ergebnis"
-      your-result-graded: "Ergebnis: %{percentage}% erreicht"
+      recommended: "Andra suveräna frågesporter"
+      retake: "Gör om"
+      scored-percentage: "%{percentage} % rätt"
+      scroll-down: "Bläddra neråt för att se ditt resultat"
+      share-your-result: "Dela ditt resultat"
+      your-result-graded: "Resultat: %{percentage} % rätt"
       your-result-outcome: "Resultat: %{outcome}"
-      a-quick-message: "Eine schnelle Nachricht"
-      from: von
-      lead-see-result: "Füll das Formular unten aus, um dein Ergebnis zu sehen."
+      a-quick-message: "Ett kort meddelande"
+      from: från
+      lead-see-result: "Fyll i formuläret nedan för att se ditt resultat"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
@@ -188,60 +188,60 @@ de:
       trending: Popular
       upgrade: "Go Pro"
     social:
-      back: "Zurück zum empfohlenen eingebetteten Code"
-      branded-caption: "Mit Qzzr gemacht - Quizze für dich von dir"
-      branded-graded-result-match: "Ich habe %{score}% bei \"%{quiz_title}\" auf Qzzr erreicht! Schaffst du das auch?"
+      back: "Gå tillbaka för att rekommendera inbäddad kod"
+      branded-caption: "Skapad med Qzzr - Frågesport till dig, av dig"
+      branded-graded-result-match: "Jag fick %{score} % rätt på \"%{quiz_title}\" på Qzzr! Kan du matcha det?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
-      branded-outcome-result: "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\" auf Qzzr! Wie steht's mit dir?"
-      branded-quiz: "Sieh dir \"%{quiz_title}\" auf Qzzr an!"
-      can-you-match: "SCHAFFST DU DAS AUCH?"
+      branded-outcome-result: "Jag fick \"%{outcome_title}\" på \"%{quiz_title}\" på Qzzr! Vad fick du?"
+      branded-quiz: "Kolla in \"%{quiz_title}\" på Qzzr!"
+      can-you-match: "KAN DU MATCHA DET?"
       can-you-top: "CAN YOU TOP THAT?"
-      caption: "Mit Qzzr gemacht"
-      description: "Erstelle kostenlos deine eigenen Quizze auf Qzzr, dem einfachsten Quiz-Tool der Welt."
-      email: E-Mail
-      embed: "Auf Seite einbetten"
-      embed-default: Voreingestellt
-      facebook: Teilen
-      gplus: Teilen
-      graded-result-match: "Ich habe %{score}% bei \"%{quiz_title}\" erreicht. Schaffst du das auch?"
+      caption: "Skapad med Qzzr"
+      description: "Skapa dina egen frågesport gratis på Qzzr, världens enklaste frågesportverktyg."
+      email: E-post
+      embed: "Bädda in på sida"
+      embed-default: Standardval
+      facebook: Dela
+      gplus: Dela
+      graded-result-match: "Jag fick %{score} % rätt på \"%{quiz_title}\". Kan du matcha det?"
       graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
-      hashtag: Quizze
-      image-outcome-result: "ERGEBNIS: %{title}"
-      image-graded-result: "%{percent}% ERREICHT"
-      link: Link
-      linkedin: Teilen
-      on-qzzr: "auf Qzzr!"
-      outcome-result: "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\". Wie steht's mit dir?"
-      pinterest: "Pin it"
-      quiz: "Sieh dir \"%{quiz_title}\" an"
-      reddit: Teilen
-      share-quiz: "Teile dieses Quiz"
-      trouble: "Probleme beim Einbetten? Probier diesen Code"
-      tumblr: Teilen
-      twitter: Twittern
-      what-about-you: "WIE STEHT'S MIT DIR?"
+      hashtag: frågesport
+      image-outcome-result: "RESULTAT: %{title}"
+      image-graded-result: "%{percent} % RÄTT"
+      link: Länk
+      linkedin: Dela
+      on-qzzr: "på Qzzr!"
+      outcome-result: "Jag fick \"%{outcome_title}\" på \"%{quiz_title}\". Vad fick du?"
+      pinterest: "Fäst den"
+      quiz: "Kolla in \"%{quiz_title}\""
+      reddit: Dela
+      share-quiz: "Dela denna frågesport"
+      trouble: "Har du problem att bädda in? Prova denna kod"
+      tumblr: Dela
+      twitter: Tweeta
+      what-about-you: "VAD FICK DU?"
       wordpress: WordPress
-      wordpress-link: "WordPress (zur Nutzung mit unserem %{link})"
-      wordpress-link-label: Plugin
+      wordpress-link: "WordPress (används med vår %{link})"
+      wordpress-link-label: insticksprogram
     take:
-      challenge-a-friend: "Fordere Freunde heraus"
-      click-to-advance: "Klicke irgendwo, um fortzusetzen."
-      correct: Richtig
-      correct-feedback: "Richtig: %{feedback}"
-      done: Absenden
-      incorrect: Falsch
-      incorrect-feedback: "Falsch: %{feedback}"
+      challenge-a-friend: "Utmana vänner"
+      click-to-advance: "Klicka var som helst för att fortsätta"
+      correct: Rätt
+      correct-feedback: "Rätt: %{feedback}"
+      done: "Skicka in"
+      incorrect: Fel
+      incorrect-feedback: "Fel: %{feedback}"
       invite-a-friend: "Invite Friends"
-      made-by: "Von %{author} gemacht"
-      make-quiz: "Möchtest du kostenlos dein eigenes Quiz erstellen?"
-      make-quiz-label: "Sieh dir Qzzr an"
-      multiple-select: "Wähle alle, die zutreffen"
-      multiple-select-colon: "Wähle alle, die zutreffen: "
-      next: Nächste
-      question-count: "%{smart_count} Frage |||| %{smart_count} Fragen"
-      start: Start
-      tap-to-advance: "Tippe irgendwo, um fortzusetzen"
-      times-taken: "%{smart_count} Mal genommen |||| %{smart_count} Mal genommen"
+      made-by: "Skapat av %{author}"
+      make-quiz: "Vill du göra din egen frågesport gratis?"
+      make-quiz-label: "Kolla in qzzr"
+      multiple-select: "Välj alla rätta svar"
+      multiple-select-colon: "Välj alla rätta svar: "
+      next: Nästa
+      question-count: "%{smart_count} fråga |||| %{smart_count} frågor"
+      start: Börja
+      tap-to-advance: "Klicka var som helst för att fortsätta"
+      times-taken: "Gjort %{smart_count} gång |||| Taken %{smart_count} gånger"
     topics:
       arts: Art
       business: Business
@@ -285,133 +285,133 @@ de:
       follow: Follow
   maker:
     answer:
-      add: "Antwort hinzufügen"
+      add: "Lägg till svar"
       image: Bild
-      label: Bezeichnung
-      link-result: "Bezeichne ein Resultat"
+      label: Etikett
+      link-result: "Knyt ett resultat"
     appearance:
-      accent-color: Akzentfarbe
-      accent-color-example: "z. B. #de514d"
+      accent-color: Accentfärg
+      accent-color-example: "t ex \"#de514d\""
       font-example: "e.g. Georgia, serif"
       font-family: "Font family"
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
-      coming-soon: Demnächst
+      coming-soon: "Kommer snart"
       connect: CONNECT
       connect-to: "Connect to %{provider}"
-      connected: Verbunden
-      groups: Gruppen
-      header: Integrationen
-      header-caps: INTEGRATIONEN
-      lists: Listen
+      connected: Ansluten
+      groups: Grupper
+      header: Integrationer
+      header-caps: INTEGRATIONER
+      lists: Listor
       none-selected: "None selected"
       service-url: "Service URL"
-      test-sent: "Test gesendet"
-      webhooks-learn-more: "Erfahre mehr über Webhooks"
+      test-sent: "Test skickat"
+      webhooks-learn-more: "Lär dig mer om webbhakar"
     offer:
-      config-integrations: "INTEGRATIONEN KONFIGURIEREN"
+      config-integrations: "KONFIGURERA INTEGRATIONER"
       enabled: Enabled
-      explanation: "Sammele E-Mails, präsentiere Angebote und erhalte Likes für deine Facebook-Seite."
-      facebook-title-example: "z.B. Like uns auf Facebook"
-      facebook-description-example: "z.B. Facebook-Fans erhalten besondere Angebote"
-      facebook-url-title: "URL der Facebook-Seite"
-      facebook-url-example: "http://facebook.com/facebook.Seite"
-      lead-gate-result: "Teilnehmer muss vor Anzeige des Ergebnis das Formular absenden"
-      header: Angebot
-      is-enabled-button-label: "Sichtbar für Quiz-Teilnehmer"
-      lead-form: Formular
-      lead-title-example: "z.B. Melde dich für Aktualisierungen an!"
-      lead-description-example: "Bleibe auf dem Laufenden und erhalte besondere Angebote."
+      explanation: "Samla ihop e-postmeddelanden, presentera erbjudanden och få gillningar på din Facebook-sida"
+      facebook-title-example: "t ex \"Gilla oss på Facebook\""
+      facebook-description-example: "t ex \"Facebook-fans får specialerbjudanden\""
+      facebook-url-title: "Webbadress till Facebook-sida"
+      facebook-url-example: "http://facebook.com/facebook.sida"
+      lead-gate-result: "Den som gör frågesporten måste skicka in formuläret innan han/hon kan se resultatet"
+      header: Erbjudande
+      is-enabled-button-label: "Visas för de som gör frågesporterna"
+      lead-form: Formulär
+      lead-title-example: "t ex \"Logga in för att ta del av uppdateringar!\""
+      lead-description-example: "Håll dig uppdaterad och få specialerbjudanden"
       lead-webhook-example: "http://my.url.com/callback"
-      lead-webhook-title: Webhook
-      like-form: Facebook-Like
-      link-form: Link
-      link-title-example: "z.B. 10 % Rabatt auf deine nächste Bestellung!"
-      link-description-example: "Zum Aktivieren auf den Button unten klicken."
-      link-button-label-title: Button-Bezeichnung
-      link-button-label-example: "Rabatt anwenden"
-      link-button-url-title: Button-URL
-      link-button-url-example: "http://Beispiel.com"
-      list-picker-prompt: "Keine gewählt"
+      lead-webhook-title: Webbhake
+      like-form: Facebook-gillning
+      link-form: Länk
+      link-title-example: "t ex \"10 % rabatt på nästa beställning!\""
+      link-description-example: "Klicka på knappen nedan för att aktivera"
+      link-button-label-title: Knapptext
+      link-button-label-example: "Använd rabatt"
+      link-button-url-title: Knappwebbadress
+      link-button-url-example: "http://exempel.com"
+      list-picker-prompt: "Ingen vald"
       offer-title: Titel
-      offer-description: "Beschreibung (optional)"
-      test-webhook: "Webhook testen"
+      offer-description: "Beskrivning (valfritt)"
+      test-webhook: "Testa webbhake"
     outcome:
-      add-graded-outcome: "Resultate definieren (optional)"
+      add-graded-outcome: "Definiera resultat (valfritt)"
       default:
-        title: "Für alle"
-        description: "Beschreibung (optional)"
-      description: "Beschreibung (optional)"
-      description-example: "z.B. Die macht es Spaß, toll zu sein ..."
-      graded-outcome-example: "z.B. Du bist ein Genie. (95 - 100)"
+        title: "Fånga alla"
+        description: "Beskrivning (valfritt)"
+      description: "Beskrivning (valfritt)"
+      description-example: "t ex \"Du tycker det är kul att vara bäst...\""
+      graded-outcome-example: "t ex \"Du är ett geni (95-100)"
       header: Resultat
       image: Bild
-      range-warning: "Wenn Bereiche überlappen, bestimmt die vertikale Reihenfolge den Vorrang."
-      title: Resultat-Titel
-      title-example: "z.B. Indiana Jones"
+      range-warning: "Om intervallen överlappar bestämmer den vertikala ordningen prioriteringen"
+      title: Resultattitel
+      title-example: "t ex \"Indiana Jones\""
     publish:
-      header: Veröffentlichen
-      update: Aktualisieren
-      preview: "Vorschau für Einbettung"
-      unpublish: Zurückziehen
-      delete: "Quiz löschen"
+      header: Publicera
+      update: Uppdatera
+      preview: "Bädda in förhandsvisning"
+      unpublish: Avpublicera
+      delete: "Ta bort frågesport"
     question:
-      description: "Beschreibung (optional)"
-      description-example: "z.B. Tipp: Hawaii ist es nicht."
-      disable-images: "Bilder deaktivieren"
-      enable-images: "Bilder aktivieren"
-      feedback-title: "Feedback (optional)"
-      feedback-example: "z.B. Bienen können Furcht riechen."
+      description: "Beskrivning (valfritt)"
+      description-example: "t ex \"Ledtråd: det är inte Hawaii\""
+      disable-images: "Inaktivera bilder"
+      enable-images: "Aktivera bilder"
+      feedback-title: "Feedback (valfritt)"
+      feedback-example: "t ex \"Bin kan känna lukten av rädsla\""
       image: Bild
-      select-all-apply: "Wähle alle zutreffenden"
-      select-all: "Alle auswählen"
-      select-one: "Eine auswählen"
-      title: "Titel der Frage"
-      title-example: "z.B. In welchem Staat liegt Seattleß"
-      true-false: Wahr/Falsch
-      true-false-warning: "Wechsel zu Wahr/Falsch wird deine aktuelle Antwortmöglichkeiten löschen. Trotzdem fortsetzen?"
-      type: Tippe
+      select-all-apply: "Välj alla som är relevanta"
+      select-all: "Välj alla"
+      select-one: "Välj en"
+      title: Frågesporttitel
+      title-example: "t ex \"Vilken stat ligger Seattle i?\""
+      true-false: Sant/falskt
+      true-false-warning: "Om du ändrar till sant/falskt kommer dina nuvarande svarsalternativ att tas bort. Vill du fortsätta ändå?"
+      type: Typ
     quiz:
-      add-outcome: "Resultat hinzufügen"
-      add-question: "Eine Frage hinzufügen"
+      add-outcome: "Lägg till resultat"
+      add-question: "Lägg till en fråga"
       background-topics: "Upload background & select topics"
       create:
-        choose: "Wähle eine Quizart"
-        graded-help: "z.B. Wie heit der Film?"
-        graded-label: Bewertet
-        outcome-help: "z.B. Welche Farbe hast du?"
+        choose: "Välj en frågesporttyp"
+        graded-help: "t ex \"Vilken film är detta?\""
+        graded-label: Betygsatt
+        outcome-help: "t ex \"Vilken färg är du?\""
         outcome-label: Resultat
-      description: "Beschreibung (optional)"
-      description-example: "z.B. Erkenne die berühmten Orte."
+      description: "Beskrivning (valfritt)"
+      description-example: "t ex \"Hitta de berömda webbplatserna\""
       image: Bild
       select-topic: "List in a topic"
       select-another-topic: "List in another topic"
-      share-redirect-url: "Umleitungs-URL teilen"
-      title: Quiz-Titel
-      title-example: "z.B. Welcher Held bist du?"
+      share-redirect-url: "Dela direktwebbadress"
+      title: "Namn på frågesport"
+      title-example: "t ex \"Vilken hjälte är du?\""
     settings:
-      background: "Hintergrund hochladen"
-      header: Quiz-Einstellungen
+      background: Uppladdningsbakgrund
+      header: Frågesportinställningar
       design: Design
-      hashtags: Hashtags
-      tweet-via: "Twittern über"
+      hashtags: Hashtaggar
+      tweet-via: "Tweeta via"
       quiz-type:
-        header: Quizart
-        graded-quiz: "Bewertetes Quiz"
-        outcome-quiz: Quiz-Resultat
+        header: Frågesporttyp
+        graded-quiz: "Betygsatt frågesport"
+        outcome-quiz: Frågesportresultat
       advanced:
-        header: Fortgeschritten
-        hide-on-networks: "Verstecke Quiz im Qzzr-Netzwerk"
-        randomized-answers: "Antworten zufällig anordnen"
-        randomized-questions: "Fragen zufällig anordnen"
-        share-results: "Ergebnis statt Quiz-Titel teilen"
-        show-feedback: "Zeige sofortiges Antwort-Feedback"
+        header: Avancerat
+        hide-on-networks: "Göm frågesporten på Qzzrs nätverk"
+        randomized-answers: "Visa svar slumpmässigt"
+        randomized-questions: "Visa frågor slumpmässigt"
+        share-results: "Dela resultaten istället för frågesporttiteln"
+        show-feedback: "Visa svarsfeedback direkt"
     sharing:
-      header: Teile
-      share-image: "Festgelegtes gemeinsames Bild"
-      custom-text: "Festgelegter gemeinsamer Text"
-      placeholder: "z.B. Absenden"
-      redirect-url-example: "z.B. http://DeineSeite.com/quiz"
-      twitter-via-example: "@twitter_handle"
-      twitter-hashtags-example: "#Quiz #Persönlichkeit"
+      header: Delning
+      share-image: "Anpassad delningsbild"
+      custom-text: "Anpassad delningstext"
+      placeholder: "t ex \"Skicka in\""
+      redirect-url-example: "t ex \"http://dinwebbplats.com/quiz\""
+      twitter-via-example: "@twitter_namn"
+      twitter-hashtags-example: "#quiz #personlighet"
