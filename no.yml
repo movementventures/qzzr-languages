@@ -1,0 +1,417 @@
+"no":
+  admin:
+    actions:
+      charts:
+        title: Charts
+        menu: Charts
+        breadcrumb: Charts
+      publish_quiz:
+        title: "Publish Quiz %{model_label_plural}"
+        menu: "Publish Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_quiz:
+        title: "View Quiz %{model_label_plural}"
+        menu: "View Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_user:
+        title: "View User %{model_label_plural}"
+        menu: "View User"
+        breadcrumb: "%{model_label_plural}"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              invalid: "Enter a valid email."
+              taken: "Sorry, that email is already taken."
+            nickname:
+              taken: "Sorry, that username is already taken."
+            password:
+              too_short: "Password is too short (minimum is %{count} characters)."
+  network:
+    common:
+      share: Del
+    events:
+      head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
+      quiz-posted: "%{user} la ut denne quizzen"
+      result-graded: "%{user} fikk %{score} poeng"
+      result-graded-outcome: "%{user} fikk %{score} poeng og \"%{outcome}\""
+      result-outcome: "%{user} fikk \"%{outcome}\""
+    header:
+      discover: Discover
+      hubs: Hubs
+      account-settings: "Account settings"
+      more: More
+      create: Create
+      create-long: "Create a quiz"
+      free: "It's free"
+      go-pro: "Qzzr for Business"
+      subtitle: "Quizzes for you, by you."
+    landing:
+      pitch:
+        capture-leads: "Embed and share it"
+        drive-social: "Create a quiz for free"
+        pitch-subheadline: "It's free!"
+        go-pro: "Learn more"
+        header: "Qzzr for business"
+        present-offers: "Drive social traffic"
+        subheader: "Make an engaging quiz for your website."
+      signup:
+        sign-up-pitch: "Create quizzes for free &amp; save your results."
+        sign-up-cta: "Sign up now"
+    made-with: "Laget med"
+    maindish:
+      social:
+        outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
+        graded-result: "I scored %{score}% on \"%{quiz_title}\""
+        caption: www.maindish.co
+        description: "Great new quiz. %{quiz_title}"
+      pages:
+        index:
+          title: "Take Fun Quizzes and Personality Tests for Free | MainDish"
+          description: "MainDish lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+          keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+        trending:
+          title: "Take the Most Popular Quizzes on the Internet | MainDish"
+          description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+        topics:
+          title: "Search Online Quizzes by Topic | MainDish"
+          description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+        quiz:
+          by-author: "By this author"
+          comments: Comments
+          create-your-own: "Create your own quiz"
+          default-title: "Get Your Quiz On | MainDish"
+          description: "%{description} | What's your result? Take the quiz now!"
+          default-description: "Take this quiz now!  What's your result?"
+          more-quizzes: "View more quizzes"
+          posted-by: "Posted by %{author}"
+          suggested: Suggested
+          title: "%{title} | MainDish"
+        profile:
+          title: "%{name} | MainDish"
+    offer:
+      email-placeholder: eksempel@epost.no
+      enter-your-email: "Oppgi e-posten din"
+      skip: "Hopp over"
+      submit: "Send inn"
+    pages:
+      index:
+        title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
+        description: "Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+        keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+      trending:
+        title: "Take the Most Popular Quizzes on the Internet | Qzzr"
+        description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+      topics:
+        title: "Search Online Quizzes by Topic | Qzzr"
+        description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+      quiz:
+        by-author: "By this author"
+        comments: Comments
+        create-your-own: "Create your own quiz"
+        default-title: "Get Your Quiz On | Qzzr"
+        description: "%{description} | What's your result? Take the quiz now!"
+        default-description: "Take this quiz now!  What's your result?"
+        more-quizzes: "View more quizzes"
+        posted-by: "Posted by %{author}"
+        suggested: Suggested
+        title: "%{title} | Qzzr"
+      profile:
+        title: "%{name} | Qzzr"
+    profile:
+      follow: Follow
+      followers: "%{smart_count} Follower |||| %{smart_count} Followers"
+      following: "%{smart_count} Following |||| %{smart_count} Following"
+      interests: Interests
+      quizzes-completed: "Quizzes completed"
+      quizzes-created: "Quizzes created"
+      unfollow: Unfollow
+      zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
+    quiz:
+      header: "QUIZ: %{title}"
+    quizzes:
+      pagination:
+        next: Next
+        previous: Previous
+      personality: "Personality quizzes"
+      trending: "Popular quizzes"
+      trivia: "Trivia quizzes"
+      view-all: "View all"
+      your-feed: "Your feed"
+    results:
+      bracket:
+        count: "%{smart_count} person |||| %{smart_count} folk"
+        range: "%{lower}-%{upper}%"
+        title: Grupper
+      grade-count: "%{score}/%{count}"
+      more-about-your-result: "More about your result"
+      more-details: "More details"
+      range: "%{lower}–%{upper}%"
+      recommended: "Andre gode quizer"
+      retake: "Ta på nytt"
+      scored-percentage: "Fikk %{percentage}%"
+      scroll-down: "Bla ned for resultatet ditt"
+      share-your-result: "Del resultatet ditt"
+      your-result-graded: "Resultat: Fikk %{percentage}%"
+      your-result-outcome: "Resultat: %{outcome}"
+      a-quick-message: "En liten melding"
+      from: fra
+      lead-see-result: "Fyll ut skjemaet nedenfor for å se resultatet ditt"
+    search:
+      no-results: "We couldn't find anything for that search."
+      no-results-suggestion: "Try being less specific."
+      search-qzzr: Search
+    sidenav:
+      beat-em: "Beat 'em!"
+      blog: Blog
+      featured-topics: "Featured Topics"
+      follow-these-folks: "Follow these folks"
+      go-pro: "For business"
+      guidelines: "Content Guidelines"
+      help: "Help & support"
+      home: Home
+      how-to: How-to
+      leaderboards: Leaderboards
+      popular: Popular
+      privacy: Privacy
+      profile: "Edit profile"
+      sign-up: "Sign up"
+      sign-up-tagline: "Save your results & create free quizzes"
+      search: Search
+      settings: "Edit settings"
+      log-in: "Log in"
+      log-out: "Log out"
+      terms: Terms
+      topics: Topics
+      trending: Popular
+      upgrade: "Go Pro"
+    social:
+      back: "Gå tilbake til den anbefalte integrerte koden"
+      branded-caption: "Laget med Qzzr – quizer for deg, av deg"
+      branded-graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» på Qzzr! Klarer du å slå det?"
+      branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
+      branded-outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» på Qzzr! Hva med deg?"
+      branded-quiz: "Sjekk «%{quiz_title}» på Qzzr!"
+      can-you-match: "KLARER DU Å SLÅ DET?"
+      can-you-top: "CAN YOU TOP THAT?"
+      caption: "Laget med Qzzr"
+      description: "Lag dine egne quizer gratis på Qzzr – verdens enkleste quizverktøy."
+      email: E-post
+      embed: "Integrer på siden"
+      embed-default: Standard
+      facebook: Del
+      gplus: Del
+      graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» – klarer du å slå det?"
+      graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
+      hashtag: quizer
+      image-outcome-result: "RESULTAT: %{title}"
+      image-graded-result: "FIKK %{percent}%"
+      link: Lenke
+      linkedin: Del
+      on-qzzr: "på Qzzr!"
+      outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» – klarer du bedre?"
+      pinterest: "Pin it"
+      quiz: "Sjekk «%{quiz_title}»"
+      reddit: Del
+      share-quiz: "Del quizen"
+      trouble: "Problemer med integrering? Prøv denne koden"
+      tumblr: Del
+      twitter: Tvitre
+      what-about-you: "HVA MED DEG?"
+      wordpress: WordPress
+      wordpress-link: "WordPress (for bruk med vår %{link})"
+      wordpress-link-label: programtillegg
+    take:
+      challenge-a-friend: "Utfordre venner"
+      click-to-advance: "Klikk hvor som helst for å gå videre"
+      correct: Riktig
+      correct-feedback: "Riktig: %{feedback}"
+      done: "Send inn"
+      incorrect: Feil
+      incorrect-feedback: "Feil: %{feedback}"
+      invite-a-friend: "Invite Friends"
+      made-by: "Laget av %{author}"
+      make-quiz: "Har du lyst til å lage quizer gratis?"
+      make-quiz-label: "Prøv Qzzr"
+      multiple-select: "Velg alle som gjelder"
+      multiple-select-colon: "Velg alle som gjelder: "
+      next: Neste
+      question-count: "%{smart_count} spørsmål |||| %{smart_count} spørsmål"
+      start: Start
+      tap-to-advance: "Trykk hvor som helst for å gå videre"
+      times-taken: "Tatt %{smart_count} gang |||| Tatt %{smart_count} ganger"
+    topics:
+      arts: Art
+      business: Business
+      education: Education
+      food: Food
+      games: Games
+      geography: Geography
+      header: Topics
+      history: History
+      humor: Humor
+      lifestyle: Lifestyle
+      literature: Literature
+      movies: Movies
+      music: Music
+      nature: Nature
+      science: Science
+      sports: Sports
+      tech: Technology
+      tv: TV
+      world-travel: "World & Travel"
+      love: Love
+      tv-movies: "TV & Movies"
+      politics: Politics
+      celebrities: Celebrities
+      religion: Religion
+      video-games: "Video Games"
+      automotive: Automotive
+      animals: Animals
+      health-fitness: "Health & Fitness"
+      beauty: Beauty
+      art-style: "Art & Style"
+      food-drink: "Food & Drink"
+      science-technology: "Science & Tech"
+      trivia: Trivia
+      personality: Personality
+      girls-women: "Girls & Women"
+      current-events: "Current Events"
+      kids: Kids
+      espanol: Español
+    users:
+      follow: Follow
+  maker:
+    answer:
+      add: "Legg til svar"
+      image: Bilder
+      label: Etikett
+      link-result: "Angi et utfall"
+    appearance:
+      accent-color: Farge
+      accent-color-example: "f.eks. #de514d"
+      font-example: "e.g. Georgia, serif"
+      font-family: "Font family"
+    integrations:
+      client-id: "Client ID"
+      client-secret: "Client Secret"
+      coming-soon: "Kommer snart"
+      connect: CONNECT
+      connect-to: "Connect to %{provider}"
+      connected: Tilkoblet
+      groups: Grupper
+      header: Integrasjoner
+      header-caps: INTEGRASJONER
+      lists: Lister
+      none-selected: "None selected"
+      service-url: "Service URL"
+      test-sent: "Test sendt"
+      webhooks-learn-more: "Les mer om webhooks"
+    offer:
+      config-integrations: "KONFIGURER INTEGRASJONER"
+      enabled: Enabled
+      explanation: "Samle e-poster, kom med tilbud og få likes på Facebook-siden din"
+      facebook-title-example: "f.eks. Lik oss på Facebook"
+      facebook-description-example: "f.eks. Facebook-tilhengere får spesialtilbud"
+      facebook-url-title: "Nettadresse til Facebook-siden"
+      facebook-url-example: "http://facebook.com/facebook.page"
+      lead-gate-result: "Spilleren må sende inn skjemaet før man kan se resultatet"
+      header: Tilbud
+      is-enabled-button-label: "Synlige for quizdeltakere"
+      lead-form: Skjema
+      lead-title-example: "f.eks. Få med deg oppdateringene!"
+      lead-description-example: "Hold deg oppdatert og få spesialtilbud"
+      lead-webhook-example: "http://my.url.com/callback"
+      lead-webhook-title: Webhook
+      like-form: Facebook-like
+      link-form: Lenke
+      link-title-example: "f.eks. 10 % avslag på den neste bestillingen din!"
+      link-description-example: "Klikk på knappen nedenfor for å aktivere"
+      link-button-label-title: Knappeetikett
+      link-button-label-example: "Bruk rabatt"
+      link-button-url-title: Knappe-nettadresse
+      link-button-url-example: "http://example.com"
+      list-picker-prompt: "Ingen valgt"
+      offer-title: Tittel
+      offer-description: "Beskrivelse (valgfri)"
+      test-webhook: "Test webhook"
+    outcome:
+      add-graded-outcome: "Definer utfall (valgfri)"
+      default:
+        title: Catch-all
+        description: "Beskrivelse (valgfri)"
+      description: "Beskrivelse (valgfri)"
+      description-example: "f.eks. Du digger å være fantastisk …"
+      graded-outcome-example: "f.eks. Du er et geni (95-100)"
+      header: Utfall
+      image: Bilde
+      range-warning: "Hvis områder overlappes, avgjør vannrett rekkefølge prioriteten."
+      title: Utfallsnavn
+      title-example: "f.eks. Indiana Jones"
+    publish:
+      header: Offentliggjør
+      update: Oppdater
+      preview: "Forhåndsvis integrering"
+      unpublish: "Trekk tilbake"
+      delete: "Slett quizen"
+    question:
+      description: "Beskrivelse (valgfri)"
+      description-example: "f.eks. Hint: det er ikke Hawaii"
+      disable-images: "Deaktiver bilder"
+      enable-images: "Aktiver bilder"
+      feedback-title: "Tilbakemelding (valgfri)"
+      feedback-example: "f.eks. Bier kan lukte frykt"
+      image: Bilde
+      select-all-apply: "Velg alle som gjelder"
+      select-all: "Velg alle"
+      select-one: "Velg én"
+      title: "Navn på spørsmål"
+      title-example: "f.eks. Hvilket fylke ligger Hamar i?"
+      true-false: Sant/usant
+      true-false-warning: "Endre til sant/usant sletter det nåværende svaralternativet ditt.  Vil du fortsette?"
+      type: Type
+    quiz:
+      add-outcome: "Legg til utfall"
+      add-question: "Legg til et spørsmål"
+      background-topics: "Upload background & select topics"
+      create:
+        choose: "Velg quiztype"
+        graded-help: "f.eks. Hvilken film er dette?"
+        graded-label: Gradert
+        outcome-help: "f.eks. Hvilken farge er du?"
+        outcome-label: Utfall
+      description: "Beskrivelse (valgfri)"
+      description-example: "f.eks. Identifiser kjente steder"
+      image: Bilde
+      select-topic: "List in a topic"
+      select-another-topic: "List in another topic"
+      share-redirect-url: "Del nettadresse for videresending"
+      title: Quiznavn
+      title-example: "f.eks. Hvilken helt er du?"
+    settings:
+      background: "Last opp bakgrunn"
+      header: Quizinnstillinger
+      design: Design
+      hashtags: Hashtags
+      tweet-via: "Tvitre via"
+      quiz-type:
+        header: Quiztype
+        graded-quiz: "Gradert quiz"
+        outcome-quiz: Utfallsquiz
+      advanced:
+        header: Avansert
+        hide-on-networks: "Skjul quizen på Qzz-nettverkene"
+        randomized-answers: "Tilfeldige svar"
+        randomized-questions: "Tilfeldige spørsmål"
+        share-results: "Del resultatene istedet for quiznavnet"
+        show-feedback: "Vis øyeblikkelig tilbakemelding på svar"
+    sharing:
+      header: Deling
+      share-image: "Egendefinert bildedeling"
+      custom-text: "Egendefinert tekstdeling"
+      placeholder: "f.eks. Send inn"
+      redirect-url-example: "f.eks http://dittnettsted.com/quiz"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#quiz #personlighet"
