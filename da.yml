@@ -1,4 +1,4 @@
-"no":
+da:
   admin:
     actions:
       charts:
@@ -34,10 +34,10 @@
       share: Del
     events:
       head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
-      quiz-posted: "%{user} la ut denne quizzen"
-      result-graded: "%{user} fikk %{score} poeng"
-      result-graded-outcome: "%{user} fikk %{score} poeng og \"%{outcome}\""
-      result-outcome: "%{user} fikk \"%{outcome}\""
+      quiz-posted: "%{user} har slået denne quiz op"
+      result-graded: "%{user} har scoret %{score}"
+      result-graded-outcome: "%{user} har scoret %{score} og opnået \"%{outcome}\""
+      result-outcome: "%{user} har opnået \"%{outcome}\""
     header:
       discover: Discover
       hubs: Hubs
@@ -60,7 +60,7 @@
       signup:
         sign-up-pitch: "Create quizzes for free &amp; save your results."
         sign-up-cta: "Sign up now"
-    made-with: "Laget med"
+    made-with: "Lavet med"
     maindish:
       social:
         outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
@@ -92,10 +92,10 @@
         profile:
           title: "%{name} | MainDish"
     offer:
-      email-placeholder: eksempel@epost.no
-      enter-your-email: "Oppgi e-posten din"
-      skip: "Hopp over"
-      submit: "Send inn"
+      email-placeholder: eksempel@e-mail.dk
+      enter-your-email: "Indtast din e-mailadresse"
+      skip: "Spring over"
+      submit: Indsend
     pages:
       index:
         title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
@@ -142,23 +142,23 @@
       your-feed: "Your feed"
     results:
       bracket:
-        count: "%{smart_count} person |||| %{smart_count} folk"
+        count: "%{smart_count} person |||| %{smart_count} personer"
         range: "%{lower}-%{upper}%"
-        title: Grupper
+        title: Trin
       grade-count: "%{score}/%{count}"
       more-about-your-result: "More about your result"
       more-details: "More details"
-      range: "%{lower}–%{upper}%"
-      recommended: "Andre gode quizer"
-      retake: "Ta på nytt"
-      scored-percentage: "Fikk %{percentage}%"
-      scroll-down: "Bla ned for resultatet ditt"
-      share-your-result: "Del resultatet ditt"
-      your-result-graded: "Resultat: Fikk %{percentage}%"
+      range: "%{lower}-%{upper}%"
+      recommended: "Andre fantastiske quizer"
+      retake: "Tag igen"
+      scored-percentage: "Har scoret %{percentage}%"
+      scroll-down: "Rul ned for at se dit resultat"
+      share-your-result: "Del dit resultat"
+      your-result-graded: "Resultat: Har scoret %{percentage}%"
       your-result-outcome: "Resultat: %{outcome}"
-      a-quick-message: "En liten melding"
+      a-quick-message: "En hurtig besked"
       from: fra
-      lead-see-result: "Fyll ut skjemaet nedenfor for å se resultatet ditt"
+      lead-see-result: "Udfyld formen herunder for at se dit resultat"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
@@ -188,60 +188,60 @@
       trending: Popular
       upgrade: "Go Pro"
     social:
-      back: "Gå tilbake til den anbefalte integrerte koden"
-      branded-caption: "Laget med Qzzr – quizer for deg, av deg"
-      branded-graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» på Qzzr! Klarer du å slå det?"
+      back: "Gå tilbage til den anbefalede indlejringskode"
+      branded-caption: "Lavet med Qzzr - Quizer for dig, af dig"
+      branded-graded-result-match: "Jeg har scoret %{score}% på \"%{quiz_title}\" på Qzzr! Kan du slå den?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
-      branded-outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» på Qzzr! Hva med deg?"
-      branded-quiz: "Sjekk «%{quiz_title}» på Qzzr!"
-      can-you-match: "KLARER DU Å SLÅ DET?"
+      branded-outcome-result: "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" på Qzzr! Hvad med dig?"
+      branded-quiz: "Tjek \"%{quiz_title}\" på Qzzr!"
+      can-you-match: "KAN DU SLÅ DEN?"
       can-you-top: "CAN YOU TOP THAT?"
-      caption: "Laget med Qzzr"
-      description: "Lag dine egne quizer gratis på Qzzr – verdens enkleste quizverktøy."
-      email: E-post
-      embed: "Integrer på siden"
-      embed-default: Standard
+      caption: "Lavet med Qzzr"
+      description: "Lav dine egne quizer gratis på Qzzr, verdens enkleste quizredskab."
+      email: E-mail
+      embed: "Indlejr på side"
+      embed-default: Default
       facebook: Del
       gplus: Del
-      graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» – klarer du å slå det?"
+      graded-result-match: "Jeg har scoret %{score}% på \"%{quiz_title}\" Kan du slå den?"
       graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
       hashtag: quizer
       image-outcome-result: "RESULTAT: %{title}"
-      image-graded-result: "FIKK %{percent}%"
-      link: Lenke
+      image-graded-result: "SCORET %{percent}%"
+      link: Link
       linkedin: Del
       on-qzzr: "på Qzzr!"
-      outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» – klarer du bedre?"
+      outcome-result: "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" Hvad med dig?"
       pinterest: "Pin it"
-      quiz: "Sjekk «%{quiz_title}»"
+      quiz: "Tjek \"%{quiz_title}\""
       reddit: Del
-      share-quiz: "Del quizen"
-      trouble: "Problemer med integrering? Prøv denne koden"
+      share-quiz: "Del denne quiz"
+      trouble: "Har du problemer med at indlejre? Prøv denne kode"
       tumblr: Del
-      twitter: Tvitre
-      what-about-you: "HVA MED DEG?"
+      twitter: Tweet
+      what-about-you: "HVAD MED DIG?"
       wordpress: WordPress
-      wordpress-link: "WordPress (for bruk med vår %{link})"
-      wordpress-link-label: programtillegg
+      wordpress-link: "WordPress (til at bruge sammen med vores %{link})"
+      wordpress-link-label: plugin
     take:
-      challenge-a-friend: "Utfordre venner"
-      click-to-advance: "Klikk hvor som helst for å gå videre"
-      correct: Riktig
-      correct-feedback: "Riktig: %{feedback}"
-      done: "Send inn"
-      incorrect: Feil
-      incorrect-feedback: "Feil: %{feedback}"
+      challenge-a-friend: "Udfordr venner"
+      click-to-advance: "Klik hvorsomhelst for at fortsætte"
+      correct: Korrekt
+      correct-feedback: "Korrekt: %{feedback}"
+      done: Indsend
+      incorrect: Forkert
+      incorrect-feedback: "Forkert: %{feedback}"
       invite-a-friend: "Invite Friends"
-      made-by: "Laget av %{author}"
-      make-quiz: "Har du lyst til å lage quizer gratis?"
-      make-quiz-label: "Prøv Qzzr"
-      multiple-select: "Velg alle som gjelder"
-      multiple-select-colon: "Velg alle som gjelder: "
-      next: Neste
-      question-count: "%{smart_count} spørsmål |||| %{smart_count} spørsmål"
+      made-by: "Lavet af %{author}"
+      make-quiz: "Vil du lave din egen quiz gratis?"
+      make-quiz-label: "Prøv qzzr"
+      multiple-select: "Vælg alle, der gælder"
+      multiple-select-colon: "Vælg alle, der gælder: "
+      next: Næste
+      question-count: "%{smart_count} spørgsmål |||| %{smart_count} spørgsmål"
       start: Start
-      tap-to-advance: "Trykk hvor som helst for å gå videre"
-      times-taken: "Tatt %{smart_count} gang |||| Tatt %{smart_count} ganger"
+      tap-to-advance: "Tryk hvorsomhelst for at fortsætte"
+      times-taken: "Taget %{smart_count} gang |||| Taget %{smart_count} gange"
     topics:
       arts: Art
       business: Business
@@ -285,14 +285,14 @@
       follow: Follow
   maker:
     answer:
-      add: "Legg til svar"
-      image: Bilder
-      label: Etikett
-      link-result: "Angi et utfall"
+      add: "Tilføj svar"
+      image: Billede
+      label: Etiket
+      link-result: "Kortlæg resultat"
     appearance:
-      accent-color: Farge
-      accent-color-example: "f.eks. #de514d"
-      font-example: "f.eks. Georgia, serif"
+      accent-color: Accentfarve
+      accent-color-example: "fx #de514d"
+      font-example: "fx Georgia, serif"
       font-family: Skrifttypefamilie
     integrations:
       client-id: "Client ID"
@@ -300,118 +300,118 @@
       coming-soon: "Kommer snart"
       connect: CONNECT
       connect-to: "Connect to %{provider}"
-      connected: Tilkoblet
+      connected: Forbundet
       groups: Grupper
-      header: Integrasjoner
-      header-caps: INTEGRASJONER
+      header: Integrationer
+      header-caps: INTEGRATIONER
       lists: Lister
       none-selected: "Ingen valgt"
       service-url: "Service URL"
       test-sent: "Test sendt"
-      webhooks-learn-more: "Les mer om webhooks"
+      webhooks-learn-more: "Lær mere om webhooks"
     offer:
-      config-integrations: "KONFIGURER INTEGRASJONER"
-      enabled: Aktivert
-      explanation: "Samle e-poster, kom med tilbud og få likes på Facebook-siden din"
-      facebook-title-example: "f.eks. Lik oss på Facebook"
-      facebook-description-example: "f.eks. Facebook-tilhengere får spesialtilbud"
-      facebook-url-title: "Nettadresse til Facebook-siden"
+      config-integrations: "KONFIGURER INTEGRATIONER"
+      enabled: aktiveret
+      explanation: "Saml e-mailadresser, præsenter tilbud og få likes til din Facebookside"
+      facebook-title-example: "fx like os på Facebook"
+      facebook-description-example: "fx Facebook fans får specielle tilbud"
+      facebook-url-title: Facebooksideadresse
       facebook-url-example: "http://facebook.com/facebook.page"
-      lead-gate-result: "Spilleren må sende inn skjemaet før man kan se resultatet"
+      lead-gate-result: "Quiztageren skal indsende formularen, før de kan se resultatet"
       header: Tilbud
-      is-enabled-button-label: "Synlige for quizdeltakere"
-      lead-form: Skjema
-      lead-title-example: "f.eks. Få med deg oppdateringene!"
-      lead-description-example: "Hold deg oppdatert og få spesialtilbud"
+      is-enabled-button-label: "Synlig for quiztagere"
+      lead-form: Formular
+      lead-title-example: "fx Tilmeld dig opdateringer!"
+      lead-description-example: "Hold dig ajour og få særlige tilbud"
       lead-webhook-example: "http://my.url.com/callback"
       lead-webhook-title: Webhook
-      like-form: Facebook-like
-      link-form: Lenke
-      link-title-example: "f.eks. 10 % avslag på den neste bestillingen din!"
-      link-description-example: "Klikk på knappen nedenfor for å aktivere"
-      link-button-label-title: Knappeetikett
-      link-button-label-example: "Bruk rabatt"
-      link-button-url-title: Knappe-nettadresse
+      like-form: "Facebook Like"
+      link-form: Link
+      link-title-example: "fx 10% rabat på din næste bestilling!"
+      link-description-example: "Klik på knappen nedenfor for at aktivere"
+      link-button-label-title: Knappeetiket
+      link-button-label-example: "Anvend rabat"
+      link-button-url-title: KnappeURL
       link-button-url-example: "http://example.com"
       list-picker-prompt: "Ingen valgt"
-      offer-title: Tittel
-      offer-description: "Beskrivelse (valgfri)"
+      offer-title: Titel
+      offer-description: "Beskrivelse (frivillig)"
       test-webhook: "Test webhook"
     outcome:
-      add-graded-outcome: "Definer utfall (valgfri)"
+      add-graded-outcome: "Definer resultater (frivillig)"
       default:
-        title: Catch-all
-        description: "Beskrivelse (valgfri)"
-      description: "Beskrivelse (valgfri)"
-      description-example: "f.eks. Du digger å være fantastisk …"
-      graded-outcome-example: "f.eks. Du er et geni (95-100)"
-      header: Utfall
-      image: Bilde
-      range-warning: "Hvis områder overlappes, avgjør vannrett rekkefølge prioriteten."
-      title: Utfallsnavn
-      title-example: "f.eks. Indiana Jones"
+        title: Rodekasse
+        description: "Beskrivelse (frivillig)"
+      description: "Beskrivelse (frivillig)"
+      description-example: "fx Du elsker at være sej..."
+      graded-outcome-example: "fx Du er et geni (95-100)"
+      header: Resultater
+      image: Billede
+      range-warning: "Hvis intervaller overlapper, er det lodret rækkefølge, der bestemmer prioriteten"
+      title: Resultattitel
+      title-example: "fx Indiana Jones"
     publish:
-      header: Offentliggjør
-      update: Oppdater
-      preview: "Forhåndsvis integrering"
-      unpublish: "Trekk tilbake"
-      delete: "Slett quizen"
+      header: "Slå op"
+      update: Opdater
+      preview: "Indlejr forhåndsvisning"
+      unpublish: "Slet opslag"
+      delete: "Slet quiz"
     question:
-      description: "Beskrivelse (valgfri)"
-      description-example: "f.eks. Hint: det er ikke Hawaii"
-      disable-images: "Deaktiver bilder"
-      enable-images: "Aktiver bilder"
-      feedback-title: "Tilbakemelding (valgfri)"
-      feedback-example: "f.eks. Bier kan lukte frykt"
-      image: Bilde
-      select-all-apply: "Velg alle som gjelder"
-      select-all: "Velg alle"
-      select-one: "Velg én"
-      title: "Navn på spørsmål"
-      title-example: "f.eks. Hvilket fylke ligger Hamar i?"
-      true-false: Sant/usant
-      true-false-warning: "Endre til sant/usant sletter det nåværende svaralternativet ditt.  Vil du fortsette?"
+      description: "Beskrivelse (frivillig)"
+      description-example: "fx Ledetråd: Det er ikke Hawaii"
+      disable-images: "Desaktiver billeder"
+      enable-images: "Aktiver billeder"
+      feedback-title: "Feedback (frivillig)"
+      feedback-example: "fx Bier kan lugte frygt"
+      image: Billede
+      select-all-apply: "Vælg alle, der gælder"
+      select-all: "Vælg alle"
+      select-one: "Vælg én"
+      title: Spørgsmålstitel
+      title-example: "fx I hvilken stat ligger Seattle?"
+      true-false: Sandt/falsk
+      true-false-warning: "Hvis du ændrer til sandt/falsk, vil dine nuværende spørgsmålsmuligheder blive slettet. Vil du stadig fortsætte?"
       type: Type
     quiz:
-      add-outcome: "Legg til utfall"
-      add-question: "Legg til et spørsmål"
+      add-outcome: "Tilføj resultat"
+      add-question: "Tilføj et spørgsmål"
       background-topics: "Upload background & select topics"
       create:
-        choose: "Velg quiztype"
-        graded-help: "f.eks. Hvilken film er dette?"
-        graded-label: Gradert
-        outcome-help: "f.eks. Hvilken farge er du?"
-        outcome-label: Utfall
-      description: "Beskrivelse (valgfri)"
-      description-example: "f.eks. Identifiser kjente steder"
-      image: Bilde
+        choose: "Vælg en quiztype"
+        graded-help: "fx Hvilken film er dette?"
+        graded-label: Bedømt
+        outcome-help: "fx Hvilken farve er du?"
+        outcome-label: Resultat
+      description: "Beskrivelse (frivillig)"
+      description-example: "fx Identificer de berømte steder"
+      image: Billede
       select-topic: "List in a topic"
       select-another-topic: "List in another topic"
-      share-redirect-url: "Del nettadresse for videresending"
-      title: Quiznavn
-      title-example: "f.eks. Hvilken helt er du?"
+      share-redirect-url: "Del omdirigeringsadressen"
+      title: Quiztitel
+      title-example: "fx Hvilken helt er du?"
     settings:
-      background: "Last opp bakgrunn"
-      header: Quizinnstillinger
+      background: "Upload baggrund"
+      header: Quizindstillinger
       design: Design
       hashtags: Hashtags
-      tweet-via: "Tvitre via"
+      tweet-via: "Tweet via"
       quiz-type:
         header: Quiztype
-        graded-quiz: "Gradert quiz"
-        outcome-quiz: Utfallsquiz
+        graded-quiz: "Bedømt quiz"
+        outcome-quiz: Resultatquiz
       advanced:
-        header: Avansert
-        hide-on-networks: "Skjul quizen på Qzz-nettverkene"
-        randomized-answers: "Tilfeldige svar"
-        randomized-questions: "Tilfeldige spørsmål"
-        share-results: "Del resultatene istedet for quiznavnet"
-        show-feedback: "Vis øyeblikkelig tilbakemelding på svar"
+        header: Avanceret
+        hide-on-networks: "Gem quiz på Qzzr netværker"
+        randomized-answers: "Sæt svarene i tilfældig rækkefølge"
+        randomized-questions: "Sæt spørgsmål i tilfældig rækkefølge"
+        share-results: "Del resultater i stedet for quiztitel"
+        show-feedback: "Vis øjeblikkelig svarfeedback"
     sharing:
-      header: Deling
-      share-image: "Egendefinert bildedeling"
-      custom-text: "Egendefinert tekstdeling"
-      placeholder: "f.eks. Send inn"
-      redirect-url-example: "f.eks http://dittnettsted.com/quiz"
+      header: Del
+      share-image: "Brugerdefineret delebillede"
+      custom-text: "Brugerdefineret deletekst"
+      placeholder: "fx Indsend"
+      redirect-url-example: "fx http://yoursite.com/quiz"
       twitter-via-example: "@twitter_handle"
-      twitter-hashtags-example: "#quiz #personlighet"
+      twitter-hashtags-example: "#quiz #personlighed"

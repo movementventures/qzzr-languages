@@ -292,8 +292,8 @@ es:
     appearance:
       accent-color: "Color de acento"
       accent-color-example: "p. ej. #de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "p. ej. Georgia, serif"
+      font-family: Fuente
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ es:
       header: Integraciones
       header-caps: INTEGRACIONES
       lists: Listas
-      none-selected: "None selected"
+      none-selected: "Ninguna seleccionada"
       service-url: "Service URL"
       test-sent: "Prueba enviada"
       webhooks-learn-more: "Obtén más información sobre los webhooks"
     offer:
       config-integrations: "CONFIGURA LAS INTEGRACIONES"
-      enabled: Enabled
+      enabled: Activado
       explanation: "Reúne emails, presenta ofertas y obtén 'Me gusta' en tu página de Facebook"
       facebook-title-example: "p. ej. Haz 'Me gusta' en Facebook"
       facebook-description-example: "p. ej. Nuestros seguidores de Facebook tienen ofertas especiales"

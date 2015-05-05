@@ -292,8 +292,8 @@ pt:
     appearance:
       accent-color: "Cor da ênfase"
       accent-color-example: "ex: #de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "ex: Georgia, serif"
+      font-family: "Família de fontes"
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ pt:
       header: Integrações
       header-caps: INTEGRAÇÕES
       lists: Listas
-      none-selected: "None selected"
+      none-selected: "Nenhum selecionado"
       service-url: "Service URL"
       test-sent: "Teste enviado"
       webhooks-learn-more: "Saiba mais sobre Webhooks"
     offer:
       config-integrations: "CONFIGURAR INTEGRAÇÕES"
-      enabled: Enabled
+      enabled: Habilitado
       explanation: "Reúna emails, apresente ofertas e receba curtidas na sua página do Facebook"
       facebook-title-example: "ex: Curta nossa página no Facebook"
       facebook-description-example: "ex: Fãs do Facebook recebem ofertas especiais"

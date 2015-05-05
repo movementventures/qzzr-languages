@@ -1,0 +1,417 @@
+sr-RS:
+  admin:
+    actions:
+      charts:
+        title: Charts
+        menu: Charts
+        breadcrumb: Charts
+      publish_quiz:
+        title: "Publish Quiz %{model_label_plural}"
+        menu: "Publish Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_quiz:
+        title: "View Quiz %{model_label_plural}"
+        menu: "View Quiz"
+        breadcrumb: "%{model_label_plural}"
+      view_user:
+        title: "View User %{model_label_plural}"
+        menu: "View User"
+        breadcrumb: "%{model_label_plural}"
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              invalid: "Enter a valid email."
+              taken: "Sorry, that email is already taken."
+            nickname:
+              taken: "Sorry, that username is already taken."
+            password:
+              too_short: "Password is too short (minimum is %{count} characters)."
+  network:
+    common:
+      share: Дели
+    events:
+      head-to-head: "%{first-user} scored %{first-score} vs. %{second-user} scored %{second-score}"
+      quiz-posted: "%{user} је објавио овај квиз"
+      result-graded: "%{user} је освојио %{score}"
+      result-graded-outcome: "%{user} је освојио %{score} и добио \"%{outcome}\""
+      result-outcome: "%{user} добио \"%{outcome}\""
+    header:
+      discover: Discover
+      hubs: Hubs
+      account-settings: "Account settings"
+      more: More
+      create: Create
+      create-long: "Create a quiz"
+      free: "It's free"
+      go-pro: "Qzzr for Business"
+      subtitle: "Quizzes for you, by you."
+    landing:
+      pitch:
+        capture-leads: "Embed and share it"
+        drive-social: "Create a quiz for free"
+        pitch-subheadline: "It's free!"
+        go-pro: "Learn more"
+        header: "Qzzr for business"
+        present-offers: "Drive social traffic"
+        subheader: "Make an engaging quiz for your website."
+      signup:
+        sign-up-pitch: "Create quizzes for free &amp; save your results."
+        sign-up-cta: "Sign up now"
+    made-with: "Направљен са"
+    maindish:
+      social:
+        outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
+        graded-result: "I scored %{score}% on \"%{quiz_title}\""
+        caption: www.maindish.co
+        description: "Great new quiz. %{quiz_title}"
+      pages:
+        index:
+          title: "Take Fun Quizzes and Personality Tests for Free | MainDish"
+          description: "MainDish lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+          keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+        trending:
+          title: "Take the Most Popular Quizzes on the Internet | MainDish"
+          description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+        topics:
+          title: "Search Online Quizzes by Topic | MainDish"
+          description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+        quiz:
+          by-author: "By this author"
+          comments: Comments
+          create-your-own: "Create your own quiz"
+          default-title: "Get Your Quiz On | MainDish"
+          description: "%{description} | What's your result? Take the quiz now!"
+          default-description: "Take this quiz now!  What's your result?"
+          more-quizzes: "View more quizzes"
+          posted-by: "Posted by %{author}"
+          suggested: Suggested
+          title: "%{title} | MainDish"
+        profile:
+          title: "%{name} | MainDish"
+    offer:
+      email-placeholder: example@email.com
+      enter-your-email: "Унесите своју адресу е-поште"
+      skip: Прескочи
+      submit: Проследи
+    pages:
+      index:
+        title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
+        description: "Qzzr lets you to play and create with the hottest quizzes on the web. Make your own beautiful quizzes and embed them anywhere."
+        keywords: "quizzes,fun quizzes,personality quizzes,personality tests"
+      trending:
+        title: "Take the Most Popular Quizzes on the Internet | Qzzr"
+        description: "What are the quizzes that are showing up on everybody's social media feeds? Check out the web's most popular quizzes."
+      topics:
+        title: "Search Online Quizzes by Topic | Qzzr"
+        description: "Are you looking for quizzes that fall under a specific category, such as art, sports, or science? Search for the quiz you're looking for."
+      quiz:
+        by-author: "By this author"
+        comments: Comments
+        create-your-own: "Create your own quiz"
+        default-title: "Get Your Quiz On | Qzzr"
+        description: "%{description} | What's your result? Take the quiz now!"
+        default-description: "Take this quiz now!  What's your result?"
+        more-quizzes: "View more quizzes"
+        posted-by: "Posted by %{author}"
+        suggested: Suggested
+        title: "%{title} | Qzzr"
+      profile:
+        title: "%{name} | Qzzr"
+    profile:
+      follow: Follow
+      followers: "%{smart_count} Follower |||| %{smart_count} Followers"
+      following: "%{smart_count} Following |||| %{smart_count} Following"
+      interests: Interests
+      quizzes-completed: "Quizzes completed"
+      quizzes-created: "Quizzes created"
+      unfollow: Unfollow
+      zero-state: "this user hasn't made any quizzes yet, here are some quizzes to take"
+    quiz:
+      header: "КВИЗ: %{title}"
+    quizzes:
+      pagination:
+        next: Next
+        previous: Previous
+      personality: "Personality quizzes"
+      trending: "Popular quizzes"
+      trivia: "Trivia quizzes"
+      view-all: "View all"
+      your-feed: "Your feed"
+    results:
+      bracket:
+        count: "%{smart_count} особа |||| %{smart_count} људи"
+        range: "%{lower}-%{upper}%"
+        title: Заграде
+      grade-count: "%{score}/%{count}"
+      more-about-your-result: "More about your result"
+      more-details: "More details"
+      range: "%{lower}-%{upper}%"
+      recommended: "Други фантастични квизови"
+      retake: "Поново играј"
+      scored-percentage: "Освојено %{percentage}%"
+      scroll-down: "Померајте надоле за ваш резултат"
+      share-your-result: "Делите свој резултат"
+      your-result-graded: "Резултат: Освојено %{percentage}%"
+      your-result-outcome: "Резултат: %{outcome}"
+      a-quick-message: "Брза порука"
+      from: од
+      lead-see-result: "Попуните формулар испод да видите свој резултат"
+    search:
+      no-results: "We couldn't find anything for that search."
+      no-results-suggestion: "Try being less specific."
+      search-qzzr: Search
+    sidenav:
+      beat-em: "Beat 'em!"
+      blog: Blog
+      featured-topics: "Featured Topics"
+      follow-these-folks: "Follow these folks"
+      go-pro: "For business"
+      guidelines: "Content Guidelines"
+      help: "Help & support"
+      home: Home
+      how-to: How-to
+      leaderboards: Leaderboards
+      popular: Popular
+      privacy: Privacy
+      profile: "Edit profile"
+      sign-up: "Sign up"
+      sign-up-tagline: "Save your results & create free quizzes"
+      search: Search
+      settings: "Edit settings"
+      log-in: "Log in"
+      log-out: "Log out"
+      terms: Terms
+      topics: Topics
+      trending: Popular
+      upgrade: "Go Pro"
+    social:
+      back: "Вратите се на препоручени кôd за уградњу"
+      branded-caption: "Направљено са Qzzr - Квизови за вас које сте сами правили"
+      branded-graded-result-match: "Освојио/ла сам %{score}% на \"%{quiz_title}\" на Qzzr! Да ли мислиш да ти можеш боље?"
+      branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
+      branded-outcome-result: "Освојио/ла сам „%{outcome_title}” на \"%{quiz_title}\" на Qzzr! А ти?"
+      branded-quiz: "Погледајте „%{quiz_title}” на Qzzr!"
+      can-you-match: "ДА ЛИ МИСЛИШ ДА ТИ МОЖЕШ БОЉЕ?"
+      can-you-top: "CAN YOU TOP THAT?"
+      caption: "Направљен са Qzzr"
+      description: "Направите бесплатно своје квизове на Qzzr, најједноставнијој алатки за прављење квизова на свету.."
+      email: Е-пошта
+      embed: "Угради у страницу"
+      embed-default: Подразумевано
+      facebook: Дели
+      gplus: Дели
+      graded-result-match: "Освојио/ла сам %{score}% на „%{quiz_title}” Да ли мислиш да ти можеш боље?"
+      graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
+      hashtag: квизови
+      image-outcome-result: "РЕЗУЛТАТ: %{title}"
+      image-graded-result: "ОСВОЈЕНО %{percent}%"
+      link: Веза
+      linkedin: Дели
+      on-qzzr: "на Qzzr!"
+      outcome-result: "Освојио/ла сам \"%{outcome_title}\" на \"%{quiz_title}\" А ти?"
+      pinterest: "Pin it"
+      quiz: "Погледај \"%{quiz_title}\""
+      reddit: Дели
+      share-quiz: "Дели овај квиз"
+      trouble: "Проблем при уградњи? Пробај овај kôd"
+      tumblr: Дели
+      twitter: Твит
+      what-about-you: "А ТИ?"
+      wordpress: WordPress
+      wordpress-link: "WordPress (за употребу са нашим %{link})"
+      wordpress-link-label: "додатна комп."
+    take:
+      challenge-a-friend: "Изазови пријатеље"
+      click-to-advance: "Притисните било где да напредујете"
+      correct: Тачно
+      correct-feedback: "Тачно: %{feedback}"
+      done: Проследи
+      incorrect: Нетачно
+      incorrect-feedback: "Нетачно: %{feedback}"
+      invite-a-friend: "Invite Friends"
+      made-by: "Направљено од стране %{author}"
+      make-quiz: "Да ли желите да сами бесплатно направите свој квиз?"
+      make-quiz-label: "Погледајте qzzr"
+      multiple-select: "Изаберите све што одговара"
+      multiple-select-colon: "Изаберите све што одговара: "
+      next: Следеће
+      question-count: "%{smart_count} питање |||| %{smart_count} питања"
+      start: Почетак
+      tap-to-advance: "Додирните било где за наставак"
+      times-taken: "Рађен %{smart_count} пута |||| Рађен %{smart_count} пута"
+    topics:
+      arts: Art
+      business: Business
+      education: Education
+      food: Food
+      games: Games
+      geography: Geography
+      header: Topics
+      history: History
+      humor: Humor
+      lifestyle: Lifestyle
+      literature: Literature
+      movies: Movies
+      music: Music
+      nature: Nature
+      science: Science
+      sports: Sports
+      tech: Technology
+      tv: TV
+      world-travel: "World & Travel"
+      love: Love
+      tv-movies: "TV & Movies"
+      politics: Politics
+      celebrities: Celebrities
+      religion: Religion
+      video-games: "Video Games"
+      automotive: Automotive
+      animals: Animals
+      health-fitness: "Health & Fitness"
+      beauty: Beauty
+      art-style: "Art & Style"
+      food-drink: "Food & Drink"
+      science-technology: "Science & Tech"
+      trivia: Trivia
+      personality: Personality
+      girls-women: "Girls & Women"
+      current-events: "Current Events"
+      kids: Kids
+      espanol: Español
+    users:
+      follow: Follow
+  maker:
+    answer:
+      add: "Додај одговор"
+      image: Слика
+      label: Налепница
+      link-result: "Мапирај резултат"
+    appearance:
+      accent-color: "Боја наглашавања"
+      accent-color-example: "нпр. #de514d"
+      font-example: "нпр. Georgia, serif"
+      font-family: "Породица фонтова"
+    integrations:
+      client-id: "Client ID"
+      client-secret: "Client Secret"
+      coming-soon: "Стиже ускоро"
+      connect: CONNECT
+      connect-to: "Connect to %{provider}"
+      connected: Повезан
+      groups: Групе
+      header: Интеграције
+      header-caps: ИНТЕГРАЦИЈЕ
+      lists: Листе
+      none-selected: "Ништа није изабрано"
+      service-url: "Service URL"
+      test-sent: "Тест је послат"
+      webhooks-learn-more: "Сазнајте више о методи webhooks"
+    offer:
+      config-integrations: "КОНФИГУРИШИ ИНТЕГРАЦИЈЕ"
+      enabled: Омогућено
+      explanation: "Сакупљајте е-пошту, презентујте понуде и освојите свиђања за своју Facebook страницу"
+      facebook-title-example: "нпр. Кликните на Свиђа ми се  на Facebook-у"
+      facebook-description-example: "нпр. Facebook фанови добијају специјалне понуде"
+      facebook-url-title: "URL адреса Facebook странице"
+      facebook-url-example: "http://facebook.com/facebook.page"
+      lead-gate-result: "Учесник мора да проследи формулар пре него што погледа резултате"
+      header: Понуда
+      is-enabled-button-label: "Видљиво за учеснике квиза"
+      lead-form: Формулар
+      lead-title-example: "нпр. Пријавите се за исправке!"
+      lead-description-example: "Останите у току и добијте специјалне понуде"
+      lead-webhook-example: "http://my.url.com/callback"
+      lead-webhook-title: Webhook
+      like-form: "Facebook свиђање"
+      link-form: Веза
+      link-title-example: "нпр. 10% попуста од ваше следеће поруџбине!"
+      link-description-example: "Кликните на дугме испод за активацију"
+      link-button-label-title: "Ознака дугмета"
+      link-button-label-example: "Примени попуст"
+      link-button-url-title: "Дугме за URL адресу"
+      link-button-url-example: "http://example.com"
+      list-picker-prompt: "Ништа није изабрано"
+      offer-title: Наслов
+      offer-description: "Опис (опционо)"
+      test-webhook: "Тестирај webhook"
+    outcome:
+      add-graded-outcome: "Дефиниши резултат (опционо)"
+      default:
+        title: "Обухвати све"
+        description: "Опис (опционо)"
+      description: "Опис (опционо)"
+      description-example: "e.g. Уживаш бити сјајан ..."
+      graded-outcome-example: "нпр. Ти си геније (95-100)"
+      header: Резултати
+      image: Слика
+      range-warning: "Ако се опсези преклапају, вертикални распоред одређује приоритет"
+      title: "Наслов резултата"
+      title-example: "нпр. Индиана Џонс"
+    publish:
+      header: Објави
+      update: Исправка
+      preview: "Угради преглед"
+      unpublish: "Опозови објављивање"
+      delete: "Обриши квиз"
+    question:
+      description: "Опис (опционо)"
+      description-example: "нпр. Предлог: нису Хаваји"
+      disable-images: "Онемогући слике"
+      enable-images: "Омогући слике"
+      feedback-title: "Повратне информације (опционо)"
+      feedback-example: "нпр. Пчеле могу да осете страх"
+      image: Слика
+      select-all-apply: "Изаберите све што је применљиво"
+      select-all: "Изабери све"
+      select-one: "Изабери једну опцију"
+      title: "Наслов питања"
+      title-example: "нпр. У којој држави се налази Сијетл?"
+      true-false: Тачно/Нетачно
+      true-false-warning: "Промена на тачно/нетачно ће избрисати ваше тренутне могућности за одговор. Још увек желите да наставите?"
+      type: Тип
+    quiz:
+      add-outcome: "Додај резултат"
+      add-question: "Додај питање"
+      background-topics: "Upload background & select topics"
+      create:
+        choose: "Изаберите тип квиза"
+        graded-help: "нпр. Који је ово филм?"
+        graded-label: Оцењено
+        outcome-help: "нпр. Која сте ви боја?"
+        outcome-label: Резултат
+      description: "Опис (опционо)"
+      description-example: "e.g. Препознајте познате локације"
+      image: Слика
+      select-topic: "List in a topic"
+      select-another-topic: "List in another topic"
+      share-redirect-url: "Подели URL адресу за преусмеравање"
+      title: "Наслов квиза"
+      title-example: "нпр. који си ти херој?"
+    settings:
+      background: "Отпреми позадину"
+      header: "Подешавања квиза"
+      design: Дизајн
+      hashtags: "Hash ознаке"
+      tweet-via: "Твит путем"
+      quiz-type:
+        header: "Тип квиза"
+        graded-quiz: "Оцењен квиз"
+        outcome-quiz: "Резултат квиза"
+      advanced:
+        header: Напредно
+        hide-on-networks: "Сакриј квиз на Qzzr мрежама"
+        randomized-answers: "Насумично поређај одговоре"
+        randomized-questions: "Насумично поређај питања"
+        share-results: "Дели резултате уместо наслова квиза"
+        show-feedback: "Прикажи повратне информације на тренутни одговор"
+    sharing:
+      header: Дељење
+      share-image: "Прилагођено дељење слике"
+      custom-text: "Прилагођено дељење текста"
+      placeholder: "нпр. Проследи"
+      redirect-url-example: "нпр. http://yoursite.com/quiz"
+      twitter-via-example: "@twitter_handle"
+      twitter-hashtags-example: "#квиз #личност"

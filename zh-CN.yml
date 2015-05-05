@@ -292,8 +292,8 @@ zh-CN:
     appearance:
       accent-color: 强调文字颜色
       accent-color-example: "e.g. #de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "例如：Georgia, serif"
+      font-family: 字体系列
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ zh-CN:
       header: 整合
       header-caps: 整合
       lists: 列表
-      none-selected: "None selected"
+      none-selected: 未选择
       service-url: "Service URL"
       test-sent: 测试已发送
       webhooks-learn-more: "了解更多关于 webhooks 的信息"
     offer:
       config-integrations: 配置整合
-      enabled: Enabled
+      enabled: 已启用
       explanation: "收集邮箱，推广商业信息，或为你的 Facebook 页面赢得赞"
       facebook-title-example: 例如，在Facebook上关注我们
       facebook-description-example: "例如，Facebook 的粉丝们可获得特殊优惠"
