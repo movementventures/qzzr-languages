@@ -292,8 +292,8 @@ de:
     appearance:
       accent-color: Akzentfarbe
       accent-color-example: "z. B. #de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "z. B. Georgia, serif"
+      font-family: Font-Familie
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ de:
       header: Integrationen
       header-caps: INTEGRATIONEN
       lists: Listen
-      none-selected: "None selected"
+      none-selected: "Keine gewählt"
       service-url: "Service URL"
       test-sent: "Test gesendet"
       webhooks-learn-more: "Erfahre mehr über Webhooks"
     offer:
       config-integrations: "INTEGRATIONEN KONFIGURIEREN"
-      enabled: Enabled
+      enabled: Aktiviert
       explanation: "Sammele E-Mails, präsentiere Angebote und erhalte Likes für deine Facebook-Seite."
       facebook-title-example: "z.B. Like uns auf Facebook"
       facebook-description-example: "z.B. Facebook-Fans erhalten besondere Angebote"

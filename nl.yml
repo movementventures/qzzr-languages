@@ -292,8 +292,8 @@ nl:
     appearance:
       accent-color: Accentkleur
       accent-color-example: "bijv. #de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "bijv. Georgia, serif"
+      font-family: Lettertypefamilie
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ nl:
       header: Integraties
       header-caps: INTEGRATIES
       lists: Lijsten
-      none-selected: "None selected"
+      none-selected: "Geen geselecteerd"
       service-url: "Service URL"
       test-sent: "Test verstuurd"
       webhooks-learn-more: "Meer info over webhooks"
     offer:
       config-integrations: "INTEGRATIES CONFIGUREREN"
-      enabled: Enabled
+      enabled: Ingeschakeld
       explanation: "Verzamel e-mails, doe aanbiedingen en krijg vind-ik-leuks voor je Facebookpagina"
       facebook-title-example: "bijv: Vind ons leuk op Facebook"
       facebook-description-example: "bijv: Facebookfans krijgen speciale aanbiedingen"

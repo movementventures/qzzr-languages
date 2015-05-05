@@ -292,8 +292,8 @@ sv-SE:
     appearance:
       accent-color: Accentfärg
       accent-color-example: "t ex \"#de514d\""
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: "t ex Georgia, serif"
+      font-family: Fontfamilj
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ sv-SE:
       header: Integrationer
       header-caps: INTEGRATIONER
       lists: Listor
-      none-selected: "None selected"
+      none-selected: "Ingen vald"
       service-url: "Service URL"
       test-sent: "Test skickat"
       webhooks-learn-more: "Lär dig mer om webbhakar"
     offer:
       config-integrations: "KONFIGURERA INTEGRATIONER"
-      enabled: Enabled
+      enabled: Aktiverad
       explanation: "Samla ihop e-postmeddelanden, presentera erbjudanden och få gillningar på din Facebook-sida"
       facebook-title-example: "t ex \"Gilla oss på Facebook\""
       facebook-description-example: "t ex \"Facebook-fans får specialerbjudanden\""

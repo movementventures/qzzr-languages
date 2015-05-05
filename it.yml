@@ -292,7 +292,7 @@ it:
     appearance:
       accent-color: "Accent color"
       accent-color-example: "es: #de514d"
-      font-example: "e.g. Georgia, serif"
+      font-example: "Es. Georgia, serif"
       font-family: "Font family"
     integrations:
       client-id: "Client ID"
@@ -305,13 +305,13 @@ it:
       header: Integrazioni
       header-caps: INTEGRAZIONI
       lists: Liste
-      none-selected: "None selected"
+      none-selected: "Nessuna selezionata"
       service-url: "Service URL"
       test-sent: "Test inviato"
       webhooks-learn-more: "Maggiori informazioni sui webhook"
     offer:
       config-integrations: "CONFIGURA INTEGRAZIONI"
-      enabled: Enabled
+      enabled: Attivata
       explanation: "Accumula e-mail, presenta offerte e ottieni \"Mi Piace\" per la tua pagina Facebook"
       facebook-title-example: "es. Aggiungi \"Mi piace\" su Facebook"
       facebook-description-example: "es. I fan di Facebook ricevono offerte speciali"

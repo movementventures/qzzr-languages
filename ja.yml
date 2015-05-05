@@ -292,8 +292,8 @@ ja:
     appearance:
       accent-color: 強調色
       accent-color-example: "例：#de514d"
-      font-example: "e.g. Georgia, serif"
-      font-family: "Font family"
+      font-example: 例：Georgia、セリフなど
+      font-family: フォント系
     integrations:
       client-id: "Client ID"
       client-secret: "Client Secret"
@@ -305,13 +305,13 @@ ja:
       header: 統合
       header-caps: 統合
       lists: リスト
-      none-selected: "None selected"
+      none-selected: 何も選択されていません
       service-url: "Service URL"
       test-sent: テスト送信済み
       webhooks-learn-more: webhookについて詳しく知る
     offer:
       config-integrations: 統合を設定
-      enabled: Enabled
+      enabled: オン
       explanation: メールアドレスを集め、オファーを提供し、Facebookページに「いいね」をもらいましょう
       facebook-title-example: 例：サイトをFacebookで「いいね」する
       facebook-description-example: "e.g. Facebookのファンがスペシャルオファーを受ける"
