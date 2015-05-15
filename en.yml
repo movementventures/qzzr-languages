@@ -364,6 +364,7 @@ en:
       feedback-title: "Feedback (optional)"
       feedback-example: "e.g. Bees can smell fear"
       image: "Image"
+      partial-credit: "Partial credit"
       select-all-apply: "Select all that apply"
       select-all: "Select all"
       select-one: "Select one"
