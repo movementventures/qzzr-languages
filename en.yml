@@ -408,6 +408,7 @@ en:
         randomized-questions: "Randomize questions"
         share-results: "Share results instead of quiz title"
         show-feedback: 'Show instant answer feedback'
+        share-meta: 'Use your sites sharing meta-tags'
     sharing:
       header: 'Sharing'
       share-image: 'Custom share image'
