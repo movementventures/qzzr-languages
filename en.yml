@@ -229,6 +229,7 @@ en:
       correct: "Correct"
       correct-feedback: "Correct: %{feedback}"
       done: Submit
+      filter: "%{filter}"
       incorrect: "Incorrect"
       incorrect-feedback: "Incorrect: %{feedback}"
       invite-a-friend: "Invite Friends"
