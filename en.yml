@@ -305,6 +305,7 @@ en:
       groups: "Groups"
       header: "Integrations"
       header-caps: "INTEGRATIONS"
+      include-outcome: "Include result with lead"
       lists: "Lists"
       none-selected: "None selected"
       service-url: "Service URL"
