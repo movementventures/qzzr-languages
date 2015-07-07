@@ -190,10 +190,10 @@
     social:
       back: "Gå tilbake til den anbefalte integrerte koden"
       branded-caption: "Laget med Qzzr – quizer for deg, av deg"
-      branded-graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» på Qzzr! Klarer du å slå det?"
+      branded-graded-result-match: "Jeg fikk %{score}% på %{quiz_title} på Qzzr! Klarer du å slå det?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
-      branded-outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» på Qzzr! Hva med deg?"
-      branded-quiz: "Sjekk «%{quiz_title}» på Qzzr!"
+      branded-outcome-result: "Jeg fikk %{outcome_title} på %{quiz_title} på Qzzr! Hva med deg?"
+      branded-quiz: "Sjekk %{quiz_title} på Qzzr!"
       can-you-match: "KLARER DU Å SLÅ DET?"
       can-you-top: "CAN YOU TOP THAT?"
       caption: "Laget med Qzzr"
@@ -203,7 +203,7 @@
       embed-default: Standard
       facebook: Del
       gplus: Del
-      graded-result-match: "Jeg fikk %{score}% på «%{quiz_title}» – klarer du å slå det?"
+      graded-result-match: "Jeg fikk %{score}% på %{quiz_title} – klarer du å slå det?"
       graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
       hashtag: quizer
       image-outcome-result: "RESULTAT: %{title}"
@@ -211,9 +211,9 @@
       link: Lenke
       linkedin: Del
       on-qzzr: "på Qzzr!"
-      outcome-result: "Jeg fikk %{outcome_title}% på «%{quiz_title}» – klarer du bedre?"
+      outcome-result: "Jeg fikk %{outcome_title} på %{quiz_title} – klarer du bedre?"
       pinterest: "Pin it"
-      quiz: "Sjekk «%{quiz_title}»"
+      quiz: "Sjekk %{quiz_title}"
       reddit: Del
       share-quiz: "Del quizen"
       trouble: "Problemer med integrering? Prøv denne koden"
