@@ -232,7 +232,7 @@ de:
       incorrect: Falsch
       incorrect-feedback: "Falsch: %{feedback}"
       invite-a-friend: "Invite Friends"
-      made-by: "Von %{author} gemacht"
+      made-by: "Von %{author} präsentiert"
       make-quiz: "Möchtest du kostenlos dein eigenes Quiz erstellen?"
       make-quiz-label: "Sieh dir Qzzr an"
       multiple-select: "Wähle alle, die zutreffen"
@@ -241,7 +241,7 @@ de:
       question-count: "%{smart_count} Frage |||| %{smart_count} Fragen"
       start: Start
       tap-to-advance: "Tippe irgendwo, um fortzusetzen"
-      times-taken: "%{smart_count} Mal genommen |||| %{smart_count} Mal genommen"
+      times-taken: "%{smart_count} Mal beantwortet |||| %{smart_count} Mal beantwortet"
     topics:
       arts: Art
       business: Business
