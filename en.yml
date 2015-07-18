@@ -314,7 +314,7 @@ en:
     offer:
       add-field: "Add field"
       config-integrations: "CONFIGURE INTEGRATIONS"
-      default-value-name: 'Default value'
+      default-value-title: 'Default value'
       default-value-example: 'campaign123'
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
