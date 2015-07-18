@@ -312,6 +312,7 @@ en:
       test-sent: "Test sent"
       webhooks-learn-more: "Learn more about webhooks"
     offer:
+      add-custom-field: "Add field"
       config-integrations: "CONFIGURE INTEGRATIONS"
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
