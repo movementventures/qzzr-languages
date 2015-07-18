@@ -320,6 +320,8 @@ en:
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
+      field-name: 'Field name'
+      field-example: 'First name'
       lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
