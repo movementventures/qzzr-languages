@@ -314,6 +314,8 @@ en:
     offer:
       add-field: "Add field"
       config-integrations: "CONFIGURE INTEGRATIONS"
+      default-value-name: 'Default value'
+      default-value-example: 'campaign123'
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
       facebook-title-example: 'e.g. Like us on Facebook'
@@ -325,6 +327,7 @@ en:
       lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
+      is-hidden: 'Hidden'
       lead-form: 'Form'
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
