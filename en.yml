@@ -407,6 +407,7 @@ en:
       design: 'Design'
       hashtags: 'Hashtags'
       tweet-via: 'Tweet via'
+      show-start: "Show start page"
       quiz-type:
         header: 'Quiz Type'
         graded-quiz: 'Graded quiz'
