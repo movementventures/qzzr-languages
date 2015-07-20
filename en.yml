@@ -162,7 +162,8 @@ en:
       title:
         your-result: "Your result"
         for-quiz: "for %{title}"
-        percentage-and-fraction: "%{percentage}% (%{score}/%{count})"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
