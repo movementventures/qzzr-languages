@@ -291,7 +291,7 @@ en:
       follow: Follow
   maker:
     answer:
-      add: 'Add answer'
+      add: 'Add option'
       image: "Image"
       label: "Label"
       link-result: 'Map an outcome'
