@@ -420,7 +420,6 @@ en:
         share-results: "Share results instead of quiz title"
         show-feedback: 'Show instant answer feedback'
         share-meta: "Use your site's sharing meta tags"
-        skip-start: "Skip start page"
     sharing:
       header: 'Sharing'
       share-image: 'Custom share image'
