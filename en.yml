@@ -316,16 +316,22 @@ en:
       test-sent: "Test sent"
       webhooks-learn-more: "Learn more about webhooks"
     offer:
+      add-field: "Add field"
       config-integrations: "CONFIGURE INTEGRATIONS"
+      default-value-title: 'Default value'
+      default-value-example: 'campaign123'
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
       facebook-title-example: 'e.g. Like us on Facebook'
       facebook-description-example: 'e.g. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
+      field-name: 'Field name'
+      field-example: 'First name'
       lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
+      is-hidden: 'Hidden'
       lead-form: 'Form'
       lead-title-example: 'e.g. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
@@ -405,6 +411,7 @@ en:
       design: 'Design'
       hashtags: 'Hashtags'
       tweet-via: 'Tweet via'
+      show-start: "Show start page"
       quiz-type:
         header: 'Quiz Type'
         graded-quiz: 'Graded quiz'
