@@ -161,7 +161,7 @@ en:
       lead-see-result: "Fill out the form below to see your result"
       title:
         your-result: "Your result"
-        for-quiz: "for %{quiz_title}"
+        for-quiz: "for %{title}"
         percentage-and-fraction: "%{percentage} (%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
