@@ -154,11 +154,15 @@ en:
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down for your result"
       share-your-result: 'Share your result'
-      your-result-graded: "Result: Scored %{percentage}%"
+      your-result-graded: "Result: %{percentage}%"
       your-result-outcome: "Result: %{outcome}"
       a-quick-message: "A quick message"
       from: "from"
       lead-see-result: "Fill out the form below to see your result"
+      title:
+        your-result: "Your result"
+        for-quiz: "for %{quiz_title}"
+        percentage-and-fraction: "%{percentage} (%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
