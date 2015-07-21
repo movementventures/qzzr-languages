@@ -159,6 +159,11 @@ ru:
       a-quick-message: Сообщение
       from: от
       lead-see-result: "Заполните форму ниже, чтобы увидеть свой результат"
+      title:
+        your-result: "ваш результат"
+        for-quiz: "для %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

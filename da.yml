@@ -159,6 +159,11 @@ da:
       a-quick-message: "En hurtig besked"
       from: fra
       lead-see-result: "Udfyld formen herunder for at se dit resultat"
+      title:
+        your-result: "Dit resultat"
+        for-quiz: "for %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

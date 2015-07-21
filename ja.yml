@@ -159,6 +159,11 @@ ja:
       a-quick-message: ショートメッセージ
       from: 差出人：
       lead-see-result: 下のフォームに記入して結果を見ましょう
+      title:
+        your-result: "あなたの結果"
+        for-quiz: "にとって %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
