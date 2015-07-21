@@ -240,8 +240,8 @@ da:
       made-by: "Lavet af %{author}"
       make-quiz: "Vil du lave din egen quiz gratis?"
       make-quiz-label: "Prøv qzzr"
-      multiple-select: "Vælg alle, der gælder"
-      multiple-select-colon: "Vælg alle, der gælder: "
+      multiple-select: "Marker det rigtige svar"
+      multiple-select-colon: "Marker det rigtige svar:"
       next: Næste
       question-count: "%{smart_count} spørgsmål |||| %{smart_count} spørgsmål"
       start: Start
