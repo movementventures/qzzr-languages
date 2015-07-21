@@ -159,6 +159,11 @@ zh-CN:
       a-quick-message: 一条信息
       from: 来自
       lead-see-result: 请填写以下表格，以查看你的测试结果
+      title:
+        your-result: "你的结果"
+        for-quiz: "%{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

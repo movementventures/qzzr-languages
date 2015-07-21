@@ -159,6 +159,11 @@ nl:
       a-quick-message: "Een kort bericht"
       from: van
       lead-see-result: "Vul onderstaand formulier in om je resultaten te zien"
+      title:
+        your-result: "Uw resultaat"
+        for-quiz: "voor %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

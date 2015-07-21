@@ -159,6 +159,11 @@ es:
       a-quick-message: "Un mensaje rápido"
       from: de
       lead-see-result: "Rellena el siguiente formulario para ver tu resultado "
+      title:
+        your-result: "Tu resultado"
+        for-quiz: "para %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

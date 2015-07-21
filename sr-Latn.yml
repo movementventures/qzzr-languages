@@ -159,6 +159,11 @@ sr-Latn:
       a-quick-message: "Brza poruka"
       from: od
       lead-see-result: "Popunite formular ispod da vidite svoj rezultat"
+      title:
+        your-result: "Ваш резултат"
+        for-quiz: "за %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

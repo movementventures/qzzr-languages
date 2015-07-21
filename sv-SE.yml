@@ -159,6 +159,11 @@ sv-SE:
       a-quick-message: "Ett kort meddelande"
       from: från
       lead-see-result: "Fyll i formuläret nedan för att se ditt resultat"
+      title:
+        your-result: "Ваш резултат"
+        for-quiz: "за %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."

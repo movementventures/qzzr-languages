@@ -159,6 +159,11 @@ pl:
       a-quick-message: Wiadomość
       from: od
       lead-see-result: "Wypełnij formularz by zobaczyć swój wynik"
+      title:
+        your-result: "Twój wynik"
+        for-quiz: "dla %{title}"
+        percentage: "%{percentage}%"
+        fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
       no-results-suggestion: "Try being less specific."
