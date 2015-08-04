@@ -298,7 +298,7 @@ en:
     appearance:
       accent-color: 'Accent color'
       accent-color-example: 'e.g. #de514d'
-      custom-bg: 'Custom color'
+      custom-bg: 'Background color'
       custom-bg-example: 'e.g. #de514d'
       font-example: 'e.g. Georgia, serif'
       font-family: 'Font family'
