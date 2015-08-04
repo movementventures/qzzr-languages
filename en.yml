@@ -330,7 +330,7 @@ en:
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
       field-name: 'Field name'
-      field-example: 'First name'
+      field-example: 'e.g. First name'
       lead-gate-result: 'Taker must submit form before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
