@@ -154,6 +154,7 @@ en:
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down for your result"
       share-your-result: 'Share your result'
+      suggestions: "What's next"
       your-result-graded: "Result: %{percentage}%"
       your-result-outcome: "Result: %{outcome}"
       a-quick-message: "A quick message"
