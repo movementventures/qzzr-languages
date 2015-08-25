@@ -149,7 +149,7 @@ en:
       more-about-your-result: "More about your result"
       more-details: "More details"
       range: "%{lower}-%{upper}%"
-      recommended: "Other great quizzes"
+      recommended: "Recommended for you"
       retake: "Retake"
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down for your result"
