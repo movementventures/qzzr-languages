@@ -411,11 +411,14 @@ en:
       title-example: "e.g. which hero are you?"
     settings:
       background: 'Background'
+      boost-quiz: "Boost this quiz in others' mixes"
+      display-mix: 'Include your content mix at the end of the quiz'
       header: 'Quiz settings'
       design: 'Design'
       hashtags: 'Hashtags'
-      tweet-via: 'Tweet via'
+      include-quiz-in-mix: 'Include this quiz in your mix'
       show-start: "Show cover page"
+      tweet-via: 'Tweet via'
       quiz-type:
         header: 'Quiz Type'
         graded-quiz: 'Graded quiz'
