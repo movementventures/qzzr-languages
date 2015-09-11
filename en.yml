@@ -301,8 +301,8 @@ en:
       accent-color-example: 'e.g. #de514d'
       custom-bg: 'Background color'
       custom-bg-example: 'e.g. #de514d'
+      face-example: '@font-face { ... }'
       font-example: 'e.g. Georgia, serif'
-      font-face-example: '@font-face { ... }'
       font-face: 'Font face'
       font-family: 'Font family'
     integrations:
