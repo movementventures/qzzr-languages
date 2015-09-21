@@ -229,6 +229,13 @@ en:
       wordpress: 'WordPress'
       wordpress-link: 'WordPress (for use with our %{link})'
       wordpress-link-label: 'plugin'
+    embed_text:
+      having_trouble: "Having trouble?"
+      try_alternate: "Try this code instead"
+      try_preferred: "Go back to recommended code"
+    select_text:
+      keyboard: "Press %{key} to copy"
+      default: "Copy text"
     take:
       challenge-a-friend: "Challenge Friends"
       click-to-advance: "Click anywhere to advance"
