@@ -149,7 +149,7 @@ en:
       more-about-your-result: "More about your result"
       more-details: "More details"
       range: "%{lower}-%{upper}%"
-      recommended: "Other great quizzes"
+      recommended: "Recommended for you"
       retake: "Retake"
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down for your result"
@@ -229,6 +229,13 @@ en:
       wordpress: 'WordPress'
       wordpress-link: 'WordPress (for use with our %{link})'
       wordpress-link-label: 'plugin'
+    embed_text:
+      having_trouble: "Having trouble?"
+      try_alternate: "Try this code instead"
+      try_preferred: "Go back to recommended code"
+    select_text:
+      keyboard: "Press %{key} to copy"
+      default: "Copy text"
     take:
       challenge-a-friend: "Challenge Friends"
       click-to-advance: "Click anywhere to advance"
@@ -302,7 +309,9 @@ en:
       accent-color-example: 'e.g. #de514d'
       custom-bg: 'Background color'
       custom-bg-example: 'e.g. #de514d'
+      face-example: '@font-face { ... }'
       font-example: 'e.g. Georgia, serif'
+      font-face: 'Font face'
       font-family: 'Font family'
     integrations:
       client-id: "Client ID"
@@ -333,7 +342,7 @@ en:
       facebook-url-example: 'http://facebook.com/facebook.page'
       field-name: 'Field name'
       field-example: 'e.g. First name'
-      lead-gate-result: 'Taker must submit form before viewing result'
+      lead-gate-result: 'Form must be submitted before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
       is-hidden: 'Hidden'
@@ -412,11 +421,14 @@ en:
       title-example: "e.g. which hero are you?"
     settings:
       background: 'Background'
+      boost-quiz: "Boost this quiz in others' mixes"
+      display-mix: 'Include your content mix at the end of the quiz'
       header: 'Quiz settings'
       design: 'Design'
       hashtags: 'Hashtags'
-      tweet-via: 'Tweet via'
+      include-quiz-in-mix: 'Include this quiz in your mix'
       show-start: "Show cover page"
+      tweet-via: 'Tweet via'
       quiz-type:
         header: 'Quiz Type'
         graded-quiz: 'Graded quiz'
