@@ -245,6 +245,7 @@ en:
       multiple-select: "Select all that apply"
       multiple-select-colon: "Select all that apply: "
       next: Next
+      next-question: "Next question"
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
       tap-to-advance: "Tap anywhere to advance"
