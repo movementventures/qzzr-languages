@@ -144,7 +144,7 @@ en:
       bracket:
         count: '%{smart_count} person |||| %{smart_count} people'
         range: '%{lower}-%{upper}%'
-        title: Brackets
+        title: How you compare to others
       grade-count: "%{score}/%{count}"
       more-about-your-result: "More about your result"
       more-details: "More details"
