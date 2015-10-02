@@ -243,6 +243,7 @@ es:
       multiple-select: "Selecciona todas las que correspondan"
       multiple-select-colon: "Selecciona todas las que correspondan: "
       next: Siguiente
+      next-question: "Siguiente pregunta"
       question-count: "%{smart_count} pregunta |||| %{smart_count} preguntas"
       start: Inicio
       tap-to-advance: "Toca en cualquier sitio para avanzar"

@@ -243,6 +243,7 @@ it:
       multiple-select: "Seleziona tutte le risposte adatte"
       multiple-select-colon: "Seleziona tutte le risposte adatte"
       next: Avanti
+      next-question: "Prossima domanda"
       question-count: "%{smart_count} domanda |||| %{smart_count} domande"
       start: Avvio
       tap-to-advance: "Per procedere clicca un punto qualsiasi"

@@ -243,6 +243,7 @@ sv-SE:
       multiple-select: "Välj alla rätta svar"
       multiple-select-colon: "Välj alla rätta svar: "
       next: Nästa
+      next-question: "Nästa fråga"
       question-count: "%{smart_count} fråga |||| %{smart_count} frågor"
       start: Börja
       tap-to-advance: "Klicka var som helst för att fortsätta"

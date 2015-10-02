@@ -243,6 +243,7 @@ pt:
       multiple-select: "Selecione todas as respostas aplicáveis"
       multiple-select-colon: "Selecione todas as respostas aplicáveis: "
       next: Próxima
+      next-question: "Próxima pergunta"
       question-count: "%{smart_count} pergunta |||| %{smart_count} perguntas"
       start: Iniciar
       tap-to-advance: "Toque em qualquer lugar para avançar"

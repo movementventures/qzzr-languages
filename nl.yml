@@ -243,6 +243,7 @@ nl:
       multiple-select: "Selecteer alles wat van toepassing is"
       multiple-select-colon: "Selecteer alles wat van toepassing is: "
       next: Volgende
+      next-question: "Volgende vraag"
       question-count: "%{smart_count} vraag |||| %{smart_count} vragen"
       start: Beginnen
       tap-to-advance: "Tik ergens om door te gaan"

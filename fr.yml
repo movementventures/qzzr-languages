@@ -243,6 +243,7 @@ fr:
       multiple-select: "Sélectionner toutes les réponses pertinentes"
       multiple-select-colon: "Sélectionner toutes les réponses pertinentes :"
       next: Suivant
+      next-question: "Question suivante"
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Commencer
       tap-to-advance: "Tapez n'importe où pour continuer"

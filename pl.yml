@@ -243,6 +243,7 @@ pl:
       multiple-select: "Zaznacz wszystkie pasujące odpowiedzi"
       multiple-select-colon: "Wybierz wszystkie pasujące odpowiedzi: "
       next: Dalej
+      next-question: "Następne pytanie"
       question-count: "%{smart_count} pytanie |||| %{smart_count} pytań"
       start: Start
       tap-to-advance: "Dotknij gdziekolwiek by przejść dalej"

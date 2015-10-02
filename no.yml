@@ -243,6 +243,7 @@
       multiple-select: "Velg alle som gjelder"
       multiple-select-colon: "Velg alle som gjelder: "
       next: Neste
+      next-question: "Neste spørsmål"
       question-count: "%{smart_count} spørsmål |||| %{smart_count} spørsmål"
       start: Start
       tap-to-advance: "Trykk hvor som helst for å gå videre"
