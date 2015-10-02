@@ -126,6 +126,7 @@ fi:
       multiple-select: "Valitse kaikki soveltuvat"
       multiple-select-colon: "Valitse kaikki soveltuvat: "
       next: Seuraava
+      next-question: "Seuraava kysymys"
       question-count: "%{smart_count} kysymys |||| %{smart_count} kysymystä"
       start: Aloita
       tap-to-advance: "Klikkaa missä tahansa jatkaaksesi"

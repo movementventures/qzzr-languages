@@ -243,6 +243,7 @@ sr-Latn:
       multiple-select: "Izaberite sve što odgovara"
       multiple-select-colon: "Izaberite sve što odgovara: "
       next: Sledeće
+      next-question: "Sledece pitanje"
       question-count: "%{smart_count} pitanje |||| %{smart_count} pitanja"
       start: Početak
       tap-to-advance: "Dodirnite bilo gde za nastavak"

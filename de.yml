@@ -243,6 +243,7 @@ de:
       multiple-select: "Wähle alle, die zutreffen"
       multiple-select-colon: "Wähle alle, die zutreffen: "
       next: Nächste
+      next-question: "Nächste Frage"
       question-count: "%{smart_count} Frage |||| %{smart_count} Fragen"
       start: Start
       tap-to-advance: "Tippe irgendwo, um fortzusetzen"

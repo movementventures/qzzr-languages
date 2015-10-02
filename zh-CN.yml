@@ -243,6 +243,7 @@ zh-CN:
       multiple-select: 请选择所有匹配项
       multiple-select-colon: "请选择所有匹配项： "
       next: 下一题
+      next-question: "接下来的问题"
       question-count: "%{smart_count} 道题 |||| %{smart_count} 道题"
       start: 开始
       tap-to-advance: 点击任意地方继续

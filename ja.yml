@@ -243,6 +243,7 @@ ja:
       multiple-select: 当てはまるものを全て選んでください
       multiple-select-colon: 当てはまるものを全て選んでください：
       next: 次
+      next-question: "次の質問"
       question-count: "%{smart_count}問 |||| %{smart_count}問"
       start: スタート
       tap-to-advance: どこでもタップして先に進む
