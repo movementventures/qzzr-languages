@@ -253,6 +253,7 @@ en:
       multiple-select-colon: "Select all that apply: "
       next: Next
       next-question: "Next question"
+      view-results: "View results"
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
       tap-to-advance: "Tap anywhere to advance"
