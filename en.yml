@@ -204,6 +204,7 @@ en:
       branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr. What about you?"
       boombox-branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Boombox. What about you?"
       branded-quiz: "Check out \"%{quiz_title}\" on Qzzr"
+      boombox-branded-quiz: "Check out \"%{quiz_title}\" on Boombox"
       can-you-match: "CAN YOU MATCH THAT?"
       can-you-top: "CAN YOU TOP THAT?"
       caption: "Made with Qzzr"
