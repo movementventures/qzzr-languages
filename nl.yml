@@ -240,6 +240,7 @@ nl:
       made-by: "Gemaakt door %{author}"
       make-quiz: "Wil je gratis je eigen quiz maken?"
       make-quiz-label: "Check qzzr"
+      make-quiz-label-boombox: "Check Boombox"
       multiple-select: "Selecteer alles wat van toepassing is"
       multiple-select-colon: "Selecteer alles wat van toepassing is: "
       next: Volgende

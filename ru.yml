@@ -240,6 +240,7 @@ ru:
       made-by: "Создатель — %{author}"
       make-quiz: "Хотите создать свой тест бесплатно?"
       make-quiz-label: "Воспользуйтесь Qzzr"
+      make-quiz-label-boombox: "Воспользуйтесь Boombox"
       multiple-select: "Выберите все подходящие варианты"
       multiple-select-colon: "Выберите все подходящие варианты:"
       next: Далее

@@ -240,6 +240,7 @@ ja:
       made-by: "作成者：%{author}"
       make-quiz: 自分だけのクイズを無料で作成しますか？
       make-quiz-label: qzzrをチェック
+      make-quiz-label-boombox: Boomboxをチェック
       multiple-select: 当てはまるものを全て選んでください
       multiple-select-colon: 当てはまるものを全て選んでください：
       next: 次

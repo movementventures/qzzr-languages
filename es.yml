@@ -240,6 +240,7 @@ es:
       made-by: "Hecho por %{author}"
       make-quiz: "¿Quieres hacer tu propio juego de preguntas de forma gratuita?"
       make-quiz-label: "Echa un vistazo a Qzzr"
+      make-quiz-label-boombox: "Echa un vistazo a Boombox"
       multiple-select: "Selecciona todas las que correspondan"
       multiple-select-colon: "Selecciona todas las que correspondan: "
       next: Siguiente

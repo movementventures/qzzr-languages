@@ -240,6 +240,7 @@ sv-SE:
       made-by: "Skapat av %{author}"
       make-quiz: "Vill du göra din egen frågesport gratis?"
       make-quiz-label: "Kolla in qzzr"
+      make-quiz-label-boombox: "Kolla in Boombox"
       multiple-select: "Välj alla rätta svar"
       multiple-select-colon: "Välj alla rätta svar: "
       next: Nästa

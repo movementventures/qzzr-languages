@@ -240,6 +240,7 @@ da:
       made-by: "Lavet af %{author}"
       make-quiz: "Vil du lave din egen quiz gratis?"
       make-quiz-label: "Prøv qzzr"
+      make-quiz-label-boombox: "Prøv Boombox"
       multiple-select: "Vælg alle, der gælder"
       multiple-select-colon: "Vælg alle, der gælder: "
       next: Næste

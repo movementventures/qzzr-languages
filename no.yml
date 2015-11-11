@@ -240,6 +240,7 @@
       made-by: "Laget av %{author}"
       make-quiz: "Har du lyst til å lage quizer gratis?"
       make-quiz-label: "Prøv Qzzr"
+      make-quiz-label-boombox: "Prøv Boombox"
       multiple-select: "Velg alle som gjelder"
       multiple-select-colon: "Velg alle som gjelder: "
       next: Neste

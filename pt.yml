@@ -240,6 +240,7 @@ pt:
       made-by: "Criado por %{author}"
       make-quiz: "Quer criar seu próprio teste gratuitamente?"
       make-quiz-label: "Confira o Qzzr"
+      make-quiz-label-boombox: "Confira o Boombox"
       multiple-select: "Selecione todas as respostas aplicáveis"
       multiple-select-colon: "Selecione todas as respostas aplicáveis: "
       next: Próxima

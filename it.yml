@@ -240,6 +240,7 @@ it:
       made-by: "Realizzato da %{author}"
       make-quiz: "Vuoi creare il tuo quiz in modo gratuito?"
       make-quiz-label: "Dai un'occhiata a qzzr"
+      make-quiz-label-boombox: "Dai un'occhiata a Boombox"
       multiple-select: "Seleziona tutte le risposte adatte"
       multiple-select-colon: "Seleziona tutte le risposte adatte"
       next: Avanti
