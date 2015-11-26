@@ -458,3 +458,10 @@ en:
       redirect-url-example: 'e.g. http://yoursite.com/quiz'
       twitter-via-example: '@twitter_handle'
       twitter-hashtags-example: '#quiz #personality'
+    crop_image: Crop image
+    processing_image: processing
+    remove_image: Remove image
+    tap_upload_image: Tap here to upload an image
+    upload_image: Drag image here or
+    browse: browse
+    uploading_image: "Uploading: %{progress}%"
