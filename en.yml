@@ -377,11 +377,14 @@ en:
       default:
         title: "Catch-all"
         description: "Description (optional)"
+      delete-confirm: "Are you sure you want to delete this result?"
+      delete-tooltip: "Delete"
       description: "Description (optional)"
       description-example: 'e.g. You enjoy being awesome...'
       graded-outcome-example: "e.g. You're a genius (95-100)"
       header: 'Outcomes'
       image: "Image"
+      move_tooltip: "Move"
       range-warning: 'If ranges overlap, vertical order determines priority'
       title: "Outcome title"
       title-example: 'e.g. Indiana Jones'
@@ -392,23 +395,33 @@ en:
       unpublish: 'Unpublish'
       delete: 'Delete quiz'
     question:
+      crop-cancel: "Cancel"
+      crop-save: "Save"
+      delete-confirm: "Are you sure you want to delete this question?"
+      delete-tooltip: "Delete"
       description: "Description (optional)"
       description-example: "e.g. Hint: it is not Hawaii"
       disable-images: "Disable images"
+      duplicate-tooltip: "Duplicate question"
       enable-images: "Enable images"
       feedback-title: "Feedback (optional)"
       feedback-example: "e.g. Bees can smell fear"
       image: "Image"
+      move_tooltip: "Move question"
+      option-type: "Option type"
+      options-tooltip: "Options"
       partial-credit: "Partial credit"
       select-all-apply: "Select all that apply"
-      select-all: "Select all"
+      select-all: "Select many"
       select-one: "Select one"
       title: "Question title"
       title-example: "e.g. What state is Seattle in?"
       true-false: "True/false"
       true-false-warning: "Changing to true/false will delete your current answer options.  Still want to proceed?"
       type: "Type"
+      untitled: "Untitled"
       unused-outcomes: "Un-mapped outcomes"
+      upload-image: "Upload image"
     quiz:
       add-outcome: "Add outcome"
       add-question: "Add a question"
