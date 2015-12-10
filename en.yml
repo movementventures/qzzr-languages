@@ -412,7 +412,7 @@ en:
       options-tooltip: "Options"
       partial-credit: "Partial credit"
       select-all-apply: "Select all that apply"
-      select-all: "Select many"
+      select-all: "Select all"
       select-one: "Select one"
       title: "Question title"
       title-example: "e.g. What state is Seattle in?"
