@@ -399,6 +399,8 @@ en:
       crop-save: "Save"
       delete-confirm: "Are you sure you want to delete this question?"
       delete-tooltip: "Delete"
+      delete-option-confirm: "Are you sure you want to delete this option?"
+      delete-option-tooltip: "Delete"
       description: "Description (optional)"
       description-example: "e.g. Hint: it is not Hawaii"
       disable-images: "Disable images"
@@ -408,6 +410,7 @@ en:
       feedback-example: "e.g. Bees can smell fear"
       image: "Image"
       move_tooltip: "Move question"
+      option-move-tooltip: "Move option"
       option-type: "Option type"
       options-tooltip: "Options"
       partial-credit: "Partial credit"
@@ -472,6 +475,7 @@ en:
       twitter-via-example: '@twitter_handle'
       twitter-hashtags-example: '#quiz #personality'
     crop_image: Crop image
+    image_tips: Image tips
     processing_image: processing
     remove_image: Remove image
     tap_upload_image: Tap here to upload an image
