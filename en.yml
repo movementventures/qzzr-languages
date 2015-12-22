@@ -569,7 +569,7 @@ en:
         font_face: Font face
         font_family: Font family
         show_cover: Show cover page
-        show_times_take: Show times taken
+        show_times_taken: Show times taken
       quizzes_configure_offer:
         add_field: Add field
         config_integrations: CONFIGURE INTEGRATIONS
