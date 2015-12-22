@@ -501,7 +501,7 @@ en:
         description_placeholder: Description (optional)
         title_placeholder: Quiz title
       quizzes_outcomes:
-        add_graded_outcome: Define outcomes (optional)
+        add_outcome: Add outcome
         default_description: Description (optional)
         default_title: Catch-all
         delete_confirm: Are you sure you want to delete this result?
