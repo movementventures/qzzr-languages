@@ -481,4 +481,168 @@ en:
     tap_upload_image: Tap here to upload an image
     upload_image: Drag image here or
     browse: browse
-    uploading_image: "Uploading: %{progress}%"
+    uploading_image: 'Uploading: %{progress}%'
+  account_dropdown:
+    edit_profile: Edit settings
+    edit_settings: Edit settings
+    log_into_qzzr: Log into Qzzr
+    log_into_pollcaster: Log into Pollcaster
+    log_out: Log out
+    privacy: Privacy
+    terms: Terms
+  quizzes_toolbar:
+    configure: Configure
+    cover: Cover page
+    delete_quiz: Delete quiz
+    delete_confirm: Are you sure you want to delete this quiz?
+    next_page: 'Next: %{page}'
+    outcomes: Outcomes
+    publish: Publish
+    questions: Questions
+    update: Update
+    unpublish_confirm: Are you sure you want to unpublish this quiz?
+  quizzes_cover:
+    define_outcomes: Define outcomes (optional)
+    graded_outcome_example: "e.g. You're a genius (95-100)"
+    visible_by_label: 'Visible by %{poster}'
+    description_placeholder: Description (optional)
+    title_placeholder: Quiz title
+  quizzes_outcomes:
+    add_graded_outcome: Define outcomes (optional)
+    default_description: Description (optional)
+    default_title: Catch-all
+    delete_confirm: Are you sure you want to delete this result?
+    delete_tooltip: Delete
+    description: Description (optional)
+    description_example: e.g. You enjoy being awesome...
+    header: Outcomes
+    image: Image
+    move_tooltip: Move
+    range_warning: 'If ranges overlap, vertical order determines priority'
+    title: Outcome title
+    title_example: e.g. Indiana Jones
+  quizzes_question:
+    add_option: Add option
+    crop_cancel: Cancel
+    crop_save: Save
+    delete_confirm: Are you sure you want to delete this question?
+    delete_option_confirm: Are you sure you want to delete this option?
+    delete_option_tooltip: Delete
+    delete_tooltip: Delete
+    description: Description (optional)
+    duplicate_tooltip: Duplicate question
+    feedback_example: e.g. Bees can smell fear
+    feedback_title: Feedback (optional)
+    image_tips: Image tips
+    link_result: Map an outcome
+    move_tooltip: Move question
+    option_label_placeholder: Label
+    option_move_tooltip: Move option
+    option_type: Option type
+    options_tooltip: Options
+    select_all: Select all
+    select_one: Select one
+    title: Question title
+    true_false: True/false
+    true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
+    title_untitled: Untitled
+    unused_outcomes: Un-mapped outcomes
+    upload_image: Upload image
+  quizzes_configure_side_nav:
+    design: Design
+    offers: Offers
+    settings: Quiz settings
+  quizzes_configure_design:
+    embed_preview: Embed preview
+    title: Design
+    accent_color: Accent color
+    accent_color_example: 'e.g. #de514d'
+    ad_custom_bg_label: Custom BG color
+    ad_custom_bg_tooltip: Pick your own specific background color
+    ad_font_label: Font
+    ad_font_tooltip: Customize your font to match your brand
+    ad_invert_text_label: Invert text
+    ad_invert_text_tooltip: Invert your text color to match quizzes with light background
+    ad_learn_more: Learn more
+    ad_overlay_label: Overlay
+    ad_overlay_tooltip: Turn off the dark overlay on your quiz background
+    ad_remove_branding_label: 'Reduce or remove %{brand} branding by upgrading your account'
+    ad_upgrade_action: Upgrade
+    ad_upgrade_now_action: Upgrade Now
+    custom_bg: Background color
+    custom_bg_example: 'e.g. #de514d'
+    face_example: '@font-face { ... }'
+    font_example: 'e.g. Georgia, serif'
+    font_face: Font face
+    font_family: Font family
+    show_cover: Show cover page
+    show_times_take: Show times taken
+  quizzes_configure_offer:
+    add_field: Add field
+    config_integrations: CONFIGURE INTEGRATIONS
+    default_value_title: Default value
+    default_value_example: campaign123
+    enabled: Enabled
+    explanation: 'Collect emails, present offers and get likes for your Facebook page'
+    facebook_title_example: e.g. Like us on Facebook
+    facebook_description_example: e.g. Facebook fans get special offers
+    facebook_url_title: Facebook page url
+    facebook_url_example: http://facebook.com/facebook.page
+    field_name: Field name
+    field_example: e.g. First name
+    lead_gate_result: Form must be submitted before viewing result
+    header: Offer
+    is_enabled_button_label: Visible to quiz takers
+    is_hidden: Hidden
+    lead_form: Form
+    lead_title_example: e.g. Sign up for updates!
+    lead_description_example: 'Stay up to date & get special offers'
+    lead_webhook_example: http://my.url.com/callback
+    lead_webhook_title: Webhook
+    like_form: Facebook Like
+    link_form: Link
+    link_title_example: e.g. 10% off your next order!
+    link_description_example: Click the button below to activate
+    link_button_label_title: Button label
+    link_button_label_example: Apply discount
+    link_button_url_title: Button URL
+    link_button_url_example: http://example.com
+    list_picker_prompt: None selected
+    offer_title: Title
+    offer_description: Description (optional)
+    test_webhook: Test webhook
+  quizzes_configure_integrations:
+    client_id: Client ID
+    client_secret: Client secret
+    coming_soon: Coming soon
+    connect: Connect
+    connect_to: 'Connect to %{provider}'
+    connected: Connected
+    groups: Groups
+    header: Integrations
+    header_caps: Integrations
+    include_outcome: Include result with lead
+    lists: Lists
+    none_selected: None selected
+    service_url: Service URL
+    test_sent: Test sent
+    webhooks_learn_more: Learn more about webhooks
+  quizzes_configure_settings:
+    advanced_header: Advanced
+    boost_quiz: "Boost this quiz in others' mixes"
+    display_mix: Include your content mix at the end of the quiz
+    hashtags: Hashtags
+    hide_on_networks: Hide quiz on Qzzr networks
+    include_quiz_in_mix: Include this quiz in your mix
+    randomized_answers: Randomize answers
+    randomized_questions: Randomize questions
+    redirect_url_example: e.g. http://yoursite.com/quiz
+    share_image: Custom share image
+    share_meta: Use your site's sharing meta tags
+    share_results: Share results instead of quiz title
+    show_feedback: Show instant answer feedback
+    show_start: Show cover page
+    title: Quiz settings
+    twitter_hashtags-example: '#quiz #personality'
+    twitter_via_example: '@twitter_handle'
+    twitter_via_label: Tweet via
