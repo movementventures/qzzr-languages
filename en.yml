@@ -569,6 +569,7 @@ en:
         font_example: 'e.g. Georgia, serif'
         font_face: Font face
         font_family: Font family
+        invert_text: Invert text
         show_cover: Show cover page
         show_times_taken: Show times taken
       quizzes_configure_offer:
