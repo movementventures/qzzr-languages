@@ -562,6 +562,7 @@ en:
         ad_remove_branding_label: 'Reduce or remove %{brand} branding by upgrading your account'
         ad_upgrade_action: Upgrade
         ad_upgrade_now_action: Upgrade Now
+        background: Background
         custom_bg: Background color
         custom_bg_example: 'e.g. #de514d'
         face_example: '@font-face { ... }'
