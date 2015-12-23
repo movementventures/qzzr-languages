@@ -543,7 +543,7 @@ en:
         upload_image: Upload image
       quizzes_configure_side_nav:
         design: Design
-        offers: Offers
+        offer: Offer
         settings: Quiz settings
       quizzes_configure_design:
         embed_preview: Embed preview
