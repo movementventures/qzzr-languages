@@ -533,6 +533,7 @@ en:
         option_move_tooltip: Move option
         option_type: Option type
         options_tooltip: Options
+        outcome_untitled: Untitled
         select_all: Select all
         select_one: Select one
         title: Question title
@@ -578,37 +579,37 @@ en:
         show_times_taken: Show times taken
       quizzes_configure_offer:
         add_field: Add field
-        config_integrations: CONFIGURE INTEGRATIONS
-        default_value_title: Default value
+        config_integrations: Configure integrations
         default_value_example: campaign123
+        default_value_title: Default value
         enabled: Enabled
         explanation: 'Collect emails, present offers and get likes for your Facebook page'
-        facebook_title_example: e.g. Like us on Facebook
         facebook_description_example: e.g. Facebook fans get special offers
-        facebook_url_title: Facebook page url
+        facebook_title_example: e.g. Like us on Facebook
         facebook_url_example: http://facebook.com/facebook.page
-        field_name: Field name
+        facebook_url_title: Facebook page url
         field_example: e.g. First name
-        lead_gate_result: Form must be submitted before viewing result
+        field_name: Field name
         header: Offer
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
-        lead_form: Form
-        lead_title_example: e.g. Sign up for updates!
         lead_description_example: 'Stay up to date & get special offers'
+        lead_form: Form
+        lead_gate_result: Form must be submitted before viewing result
+        lead_title_example: e.g. Sign up for updates!
         lead_webhook_example: http://my.url.com/callback
         lead_webhook_title: Webhook
         like_form: Facebook Like
+        link_button_label_example: Apply discount
+        link_button_label_title: Button label
+        link_description_example: Click the button below to activate
         link_form: Link
         link_title_example: e.g. 10% off your next order!
-        link_description_example: Click the button below to activate
-        link_button_label_title: Button label
-        link_button_label_example: Apply discount
-        link_button_url_title: Button URL
-        link_button_url_example: http://example.com
+        link_url_example: http://example.com
+        link_url_title: Button URL
         list_picker_prompt: None selected
-        offer_title: Title
         offer_description: Description (optional)
+        offer_title: Title
         test_webhook: Test webhook
       quizzes_configure_integrations:
         client_id: Client ID
