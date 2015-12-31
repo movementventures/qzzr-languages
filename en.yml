@@ -628,22 +628,34 @@ en:
         test_sent: Test sent
         webhooks_learn_more: Learn more about webhooks
       quizzes_configure_settings:
+        ad_upgrade_action: Upgrade
+        ad_tweet_hashtags: Tweet hashtags
+        ad_twitter_username: Twitter username mention
+        ad_custom_meta_tags: "Use your own site's sharing meta tags"
+        ad_recommend_quizzes: Recommend other quizzes
+        ad_boost_quiz: "Boost your quiz on others' quizzes"
         advanced_header: Advanced
         boost_quiz: "Boost this quiz in others' mixes"
         display_mix: Include your content mix at the end of the quiz
-        hashtags: Hashtags
+        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your quiz."
         hide_on_networks: Hide quiz on Qzzr networks
         include_quiz_in_mix: Include this quiz in your mix
+        include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
         randomized_answers: Randomize answers
         randomized_questions: Randomize questions
+        redirect_url_label: Share redirect URL
         redirect_url_example: e.g. http://yoursite.com/quiz
+        redirect_url_warning_heading: Danger!
+        redirect_url_warning: 'Shares are automatically redirected back to where we detect your quiz is embedded. If you run into issues, %{link} before using share redirect URL.'
+        redirect_url_article: Read this article
         share_image: Custom share image
         share_meta: Use your site's sharing meta tags
         share_results: Share results instead of quiz title
         show_feedback: Show instant answer feedback
         show_start: Show cover page
         title: Quiz settings
-        twitter_hashtags-example: '#quiz #personality'
+        twitter_hashtags_label: Hashtags
+        twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
     crop_image: Crop image
