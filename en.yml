@@ -646,7 +646,7 @@ en:
         redirect_url_label: Share redirect URL
         redirect_url_example: e.g. http://yoursite.com/quiz
         redirect_url_warning_heading: Danger!
-        redirect_url_warning: 'Shares are automatically redirected back to where we detect your quiz is embedded. If you run into issues, %{link} before using share redirect URL.'
+        redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. If you run into issues, %{link} before using share redirect URL.'
         redirect_url_article: Read this article
         share_image: Custom share image
         share_meta: Use your site's sharing meta tags
