@@ -533,6 +533,12 @@ en:
         option_move_tooltip: Move option
         option_type: Option type
         options_tooltip: Options
+        outcome_weight_label: Points
+        outcome_weight_bounds: 'Min: %{min} max: %{max}'
+        outcome_negate: Negate outcome
+        outcome_negate_remove: Remove negation
+        outcome_negate_description: Negating makes it impossible to get this outcome if this answer is chosen
+        outcome_remove: Remove outcome
         outcome_untitled: Untitled
         select_all: Select all
         select_one: Select one
