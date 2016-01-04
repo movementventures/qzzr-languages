@@ -488,6 +488,7 @@ en:
         cover: Cover page
         delete_quiz: Delete quiz
         delete_confirm: Are you sure you want to delete this quiz?
+        next: 'Next'
         next_page: 'Next: %{page}'
         outcomes: Outcomes
         publish: Publish
