@@ -668,6 +668,8 @@ en:
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
       quizzes_overview:
+        default: default
+        embed_preview: Embed preview
         embed_quiz: Embed this quiz
         having_trouble: 'Having trouble? %{alternate}'
         link_quiz: Link to this quiz
@@ -676,6 +678,7 @@ en:
         share_quiz: Share this quiz
         try_alternate: Try this code instead
         try_preferred: Go back to recommended code
+        wordpress: WordPress
         wordpress_link: 'WordPress (for use with our %{link})'
         wordpress_plugin: plugin
     crop_image: Crop image
