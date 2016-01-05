@@ -486,15 +486,18 @@ en:
       quizzes_toolbar:
         configure: Configure
         cover: Cover page
-        delete_quiz: Delete quiz
+        dashboard: Dashbaord
         delete_confirm: Are you sure you want to delete this quiz?
-        next: 'Next'
+        delete_quiz: Delete quiz
+        learning_center: Learning center
+        next: Next
         next_page: 'Next: %{page}'
         outcomes: Outcomes
         publish: Publish
         questions: Questions
-        update: Update
         unpublish_confirm: Are you sure you want to unpublish this quiz?
+        update: Update
+        upgrade: Upgrade
       quizzes_cover:
         define_outcomes: Define outcomes (optional)
         graded_outcome_example: "e.g. You're a genius (95-100)"
@@ -576,7 +579,6 @@ en:
         background: Background
         custom_bg: Background color
         custom_bg_example: 'e.g. #de514d'
-        face_example: '@font-face { ... }'
         font_example: 'e.g. Georgia, serif'
         font_face: Font face
         font_family: Font family
@@ -665,6 +667,17 @@ en:
         twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
+      quizzes_overview:
+        embed_quiz: Embed this quiz
+        having_trouble: 'Having trouble? %{alternate}'
+        link_quiz: Link to this quiz
+        quiz_published: Quiz published
+        quiz_updated: Quiz updated
+        share_quiz: Share this quiz
+        try_alternate: Try this code instead
+        try_preferred: Go back to recommended code
+        wordpress_link: 'WordPress (for use with our %{link})'
+        wordpress_plugin: plugin
     crop_image: Crop image
     image_tips: Image tips
     processing_image: processing
