@@ -486,7 +486,7 @@ en:
       quizzes_toolbar:
         configure: Configure
         cover: Cover page
-        dashboard: Dashbaord
+        dashboard: Dashboard
         delete_confirm: Are you sure you want to delete this quiz?
         delete_quiz: Delete quiz
         learning_center: Learning center
