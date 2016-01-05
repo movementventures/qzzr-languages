@@ -561,6 +561,7 @@ en:
         settings: Quiz settings
       quizzes_configure_design:
         embed_preview: Embed preview
+        embed_refresh: Restart
         title: Design
         accent_color: Accent color
         accent_color_example: 'e.g. #de514d'
@@ -671,6 +672,7 @@ en:
         default: default
         embed_preview: Embed preview
         embed_quiz: Embed this quiz
+        embed_refresh: Restart
         having_trouble: 'Having trouble? %{alternate}'
         link_quiz: Link to this quiz
         quiz_published: Quiz published
