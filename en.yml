@@ -495,6 +495,7 @@ en:
         outcomes: Outcomes
         publish: Publish
         questions: Questions
+        unpublish: Unpublish
         unpublish_confirm: Are you sure you want to unpublish this quiz?
         update: Update
         upgrade: Upgrade
