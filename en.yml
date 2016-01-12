@@ -516,6 +516,7 @@ en:
         header: Outcomes
         image: Image
         move_tooltip: Move
+        options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title: Outcome title
         title_example: e.g. Indiana Jones
