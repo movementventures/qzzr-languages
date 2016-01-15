@@ -502,7 +502,6 @@ en:
       quizzes_cover:
         define_outcomes: Define outcomes (optional)
         graded_outcome_example: "e.g. You're a genius (95-100)"
-        visible_by_label: 'Visible by %{poster}'
         description_placeholder: Description (optional)
         title_placeholder: Quiz title
       quizzes_outcomes:
@@ -561,6 +560,7 @@ en:
         design: Design
         offer: Offer
         settings: Quiz settings
+        visible_by_label: 'Visible by %{poster}'
       quizzes_configure_design:
         embed_preview: Embed preview
         embed_refresh: Restart
