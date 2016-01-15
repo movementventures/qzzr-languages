@@ -523,6 +523,7 @@ en:
         title_example: e.g. Indiana Jones
       quizzes_question:
         add_option: Add option
+        add_question: Create question
         crop_cancel: Cancel
         crop_save: Save
         delete_confirm: Are you sure you want to delete this question?
