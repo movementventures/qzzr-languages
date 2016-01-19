@@ -404,7 +404,7 @@ en:
       description: "Description (optional)"
       description-example: "e.g. Hint: it is not Hawaii"
       disable-images: "Disable images"
-      duplicate-tooltip: "Duplicate question"
+      duplicate-tooltip: "Duplicate"
       enable-images: "Enable images"
       feedback-title: "Feedback (optional)"
       feedback-example: "e.g. Bees can smell fear"
@@ -536,7 +536,7 @@ en:
         feedback_title: Feedback (optional)
         image_tips: Image tips
         link_result: Map an outcome
-        move_tooltip: Move question
+        move_tooltip: Reorder
         option_label_placeholder: Label
         option_move_tooltip: Move option
         option_type: Option type
