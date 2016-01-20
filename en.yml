@@ -449,7 +449,7 @@ en:
       boost-quiz: "Boost this quiz in others' mixes"
       display-mix: 'Include your content mix at the end of the quiz'
       header: 'Quiz settings'
-      design: 'Design'
+      design: 'Appearance'
       hashtags: 'Hashtags'
       include-quiz-in-mix: 'Include this quiz in your mix'
       show-start: "Show cover page"
@@ -560,14 +560,14 @@ en:
         ad_offer_title: Unlock offers
         ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
         ad_offer_upgrade_now: Upgrade now
-        design: Design
+        design: Appearance
         offer: Offer
         settings: Quiz settings
         visible_by_label: 'Visible by %{poster}'
       quizzes_configure_design:
         embed_preview: Embed preview
         embed_refresh: Restart
-        title: Design
+        title: Appearance
         accent_color: Accent color
         accent_color_example: 'e.g. #de514d'
         ad_custom_bg_label: Custom BG color
@@ -663,7 +663,7 @@ en:
         redirect_url_label: Share redirect URL
         redirect_url_example: e.g. http://yoursite.com/quiz
         redirect_url_warning_heading: Danger!
-        redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. If you run into issues, %{link} before using share redirect URL.'
+        redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. Share redirect URL should be used if links shared to social networks do not link back to the original page where the quiz is embedded. %{link} before using share redirect URL.'
         redirect_url_article: Read this article
         share_image: Custom share image
         share_meta: Use your site's sharing meta tags
