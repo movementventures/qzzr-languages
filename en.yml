@@ -606,6 +606,11 @@ en:
         field_example: e.g. First name
         field_name: Field name
         header: Offer
+        integration_heading: Integrations
+        integration_connect_to: 'Connect to %{provider}'
+        integration_warning_body_action: '"Map to"'
+        integration_warning_body: "%{action} under the field options menu must match a merge tag in Mailchimp to collect the submission's data."
+        integration_warning_link: Learn more
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
         lead_description_example: 'Stay up to date & get special offers'
@@ -631,10 +636,8 @@ en:
         client_secret: Client secret
         coming_soon: Coming soon
         connect: Connect
-        connect_to: 'Connect to %{provider}'
         connected: Connected
         groups: Groups
-        header: Integrations
         header_caps: Integrations
         include_outcome: Include result with lead
         lists: Lists
