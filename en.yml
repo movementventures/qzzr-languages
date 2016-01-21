@@ -697,7 +697,8 @@ en:
         embed_refresh: Restart
         having_trouble: 'Having trouble? %{alternate}'
         link_quiz: Link to this quiz
-        quiz_published: Quiz published
+        quiz_published: "Hot dang! That's a mighty fine quiz."
+        quiz_published_share_it: Now share it.
         quiz_updated: Quiz updated
         share_quiz: Share this quiz
         try_alternate: Try this code instead
