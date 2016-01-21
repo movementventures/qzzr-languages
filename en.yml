@@ -494,6 +494,7 @@ en:
         next_page: 'Next: %{page}'
         outcomes: Outcomes
         publish: Publish
+        question: Question
         questions: Questions
         unpublish: Unpublish
         unpublish_confirm: Are you sure you want to unpublish this quiz?
@@ -608,6 +609,10 @@ en:
         header: Offer
         integration_heading: Integrations
         integration_connect_to: 'Connect to %{provider}'
+        integration_groups: Groups
+        integration_lists: Lists
+        integration_lists_none_selected: None selected
+        integration_include_outcome: Include result with lead
         integration_warning_body_action: '"Map to"'
         integration_warning_body: "%{action} under the field options menu must match a merge tag in Mailchimp to collect the submission's data."
         integration_warning_link: Learn more
@@ -637,11 +642,6 @@ en:
         coming_soon: Coming soon
         connect: Connect
         connected: Connected
-        groups: Groups
-        header_caps: Integrations
-        include_outcome: Include result with lead
-        lists: Lists
-        none_selected: None selected
         service_url: Service URL
         test_sent: Test sent
         webhooks_learn_more: Learn more about webhooks
