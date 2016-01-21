@@ -616,6 +616,11 @@ en:
         integration_warning_body_action: '"Map to"'
         integration_warning_body: "%{action} under the field options menu must match a merge tag in Mailchimp to collect the submission's data."
         integration_warning_link: Learn more
+        integration_webhook_test: Test webhook
+        integration_webhook_test_sent: Test sent
+        integration_webhook_test_error: 'We had a problem sending a webhook test, try again later'
+        integration_webhook_title: Webhook
+        integration_webhook_link: Learn more
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
         lead_description_example: 'Stay up to date & get special offers'
@@ -623,7 +628,6 @@ en:
         lead_gate_result: Form must be submitted before viewing result
         lead_title_example: e.g. Sign up for updates!
         lead_webhook_example: http://my.url.com/callback
-        lead_webhook_title: Webhook
         like_form: Facebook Like
         link_button_label_example: Apply discount
         link_button_label_title: Button label
@@ -635,7 +639,6 @@ en:
         list_picker_prompt: None selected
         offer_description: Description (optional)
         offer_title: Title
-        test_webhook: Test webhook
       quizzes_configure_integrations:
         client_id: Client ID
         client_secret: Client secret
@@ -643,7 +646,6 @@ en:
         connect: Connect
         connected: Connected
         service_url: Service URL
-        test_sent: Test sent
         webhooks_learn_more: Learn more about webhooks
       quizzes_configure_settings:
         ad_upgrade_action: Upgrade
