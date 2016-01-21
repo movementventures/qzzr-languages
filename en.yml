@@ -663,6 +663,7 @@ en:
         hide_on_networks: Hide quiz on Qzzr networks
         include_quiz_in_mix: Include this quiz in your mix
         include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
+        learn_more: "Learn more"
         randomized_answers: Randomize answers
         randomized_questions: Randomize questions
         redirect_url_label: Share redirect URL
