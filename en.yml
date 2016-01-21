@@ -29,6 +29,8 @@ en:
               taken: "Sorry, that username is already taken."
             password:
               too_short: "Password is too short (minimum is %{count} characters)."
+  app:
+    need_help: "Need help?"
   network:
     common:
       share: Share
