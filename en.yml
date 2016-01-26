@@ -477,6 +477,8 @@ en:
       twitter-via-example: '@twitter_handle'
       twitter-hashtags-example: '#quiz #personality'
     editor:
+      app:
+        need_help: Need help?
       account_dropdown:
         edit_profile: Edit settings
         edit_settings: Edit settings
