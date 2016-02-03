@@ -694,6 +694,7 @@ en:
         twitter_via_label: Tweet via
       quizzes_overview:
         default: default
+        download_html: Download HTML
         embed_preview: Embed preview
         embed_quiz: Embed this quiz
         embed_refresh: Restart
