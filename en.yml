@@ -545,20 +545,21 @@ en:
         option_label_placeholder: Label
         option_move_tooltip: Move option
         option_type: Option type
+        option_type_click_spot: Click Spot
+        option_type_select_all: Select all
+        option_type_select_one: Select one
+        option_type_true_false: True/false
         options_tooltip: Options
-        outcome_weight_label: Points
-        outcome_weight_bounds: 'Min: %{min} max: %{max}'
         outcome_negate: Negate outcome
-        outcome_negate_remove: Remove negation
         outcome_negate_description: Negating makes it impossible to get this outcome if this answer is chosen
+        outcome_negate_remove: Remove negation
         outcome_remove: Remove outcome
         outcome_untitled: Untitled
-        select_all: Select all
-        select_one: Select one
+        outcome_weight_bounds: 'Min: %{min} max: %{max}'
+        outcome_weight_label: Points
         title: Question title
-        true_false: True/false
-        true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
         title_untitled: Untitled
+        true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
         unused_outcomes: Un-mapped outcomes
         upload_image: Upload image
       quizzes_configure_side_nav:
