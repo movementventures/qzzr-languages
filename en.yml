@@ -526,6 +526,26 @@ en:
         range_warning: 'If ranges overlap, vertical order determines priority'
         title: Outcome title
         title_example: e.g. Indiana Jones
+      quizzes_outcomes_add_media:
+        drop_media: Drop media to upload,
+        field_placeholder_paste_link: Paste your link,
+        field_press_enter: Press enter to add,
+        media_optional: Add media (optional),
+        search_input_placeholder: Type in what you're looking for,
+        search_input_press_enter: Press enter to search,
+        search_media_results_end: "There are no more results for \"%{search}\".",
+        search_media_results_less_specific: "Try being less specific, or ",
+        search_media_results_none: "There are no results for \"%{search}\"".,
+        search_media_results_none_help: "Try being less specific, or %{action}.",
+        search_media_results_none_help_action: resetting your search,
+        search_meta_size: "Size: %{size}",
+        search_meta_source: "Source: %{source}",
+        search_preview_label: Preview,
+        search_select_image: Select an image to preview what it’ll look like,
+        search_use_image: Use this image,
+        select_media_device: From device,
+        select_media_link: From link,
+        select_media_search: Search
       quizzes_question:
         add_option: Add option
         add_question: Create question
@@ -562,6 +582,46 @@ en:
         true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
         unused_outcomes: Un-mapped outcomes
         upload_image: Upload image
+      quizzes_question_description_add_media:
+        drop_media: Drop media to upload,
+        field_placeholder_paste_link: Paste your link,
+        field_press_enter: Press enter to add,
+        media_optional: Add media (optional),
+        search_input_placeholder: Type in what you're looking for,
+        search_input_press_enter: Press enter to search,
+        search_media_results_end: "There are no more results for \"%{search}\".",
+        search_media_results_less_specific: "Try being less specific, or ",
+        search_media_results_none: "There are no results for \"%{search}\"".,
+        search_media_results_none_help: "Try being less specific, or %{action}.",
+        search_media_results_none_help_action: resetting your search,
+        search_meta_size: "Size: %{size}",
+        search_meta_source: "Source: %{source}",
+        search_preview_label: Preview,
+        search_select_image: Select an image to preview what it’ll look like,
+        search_use_image: Use this image,
+        select_media_device: From device,
+        select_media_link: From link,
+        select_media_search: Search
+      quizzes_question_options_add_media:
+        drop_media: Drop media to upload,
+        field_placeholder_paste_link: Paste your link,
+        field_press_enter: Press enter to add,
+        media_optional: Add media (optional),
+        search_input_placeholder: Type in what you're looking for,
+        search_input_press_enter: Press enter to search,
+        search_media_results_end: "There are no more results for \"%{search}\".",
+        search_media_results_less_specific: "Try being less specific, or ",
+        search_media_results_none: "There are no results for \"%{search}\"".,
+        search_media_results_none_help: "Try being less specific, or %{action}.",
+        search_media_results_none_help_action: resetting your search,
+        search_meta_size: "Size: %{size}",
+        search_meta_source: "Source: %{source}",
+        search_preview_label: Preview,
+        search_select_image: Select an image to preview what it’ll look like,
+        search_use_image: Use this image,
+        select_media_device: From device,
+        select_media_link: From link,
+        select_media_search: Search
       quizzes_configure_side_nav:
         ad_offer_title: Unlock offers
         ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
@@ -693,6 +753,26 @@ en:
         twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
+      quizzes_confirgure_settings_add_media:
+        drop_media: Drop media to upload,
+        field_placeholder_paste_link: Paste your link,
+        field_press_enter: Press enter to add,
+        media_optional: Add media (optional),
+        search_input_placeholder: Type in what you're looking for,
+        search_input_press_enter: Press enter to search,
+        search_media_results_end: "There are no more results for \"%{search}\".",
+        search_media_results_less_specific: "Try being less specific, or ",
+        search_media_results_none: "There are no results for \"%{search}\"".,
+        search_media_results_none_help: "Try being less specific, or %{action}.",
+        search_media_results_none_help_action: resetting your search,
+        search_meta_size: "Size: %{size}",
+        search_meta_source: "Source: %{source}",
+        search_preview_label: Preview,
+        search_select_image: Select an image to preview what it’ll look like,
+        search_use_image: Use this image,
+        select_media_device: From device,
+        select_media_link: From link,
+        select_media_search: Search,
       quizzes_overview:
         default: default
         download_html: Download HTML
