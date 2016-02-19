@@ -526,6 +526,7 @@ en:
         range_warning: 'If ranges overlap, vertical order determines priority'
         title: Outcome title
         title_example: e.g. Indiana Jones
+        title_untitled: Untitled
       quizzes_outcomes_add_media:
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
