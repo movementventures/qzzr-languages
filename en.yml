@@ -514,7 +514,8 @@ en:
         crop_cancel: Cancel
         crop_save: Save
         default_description: Description (optional)
-        default_title: Catch-all
+        default_title: "Catch-all"
+        default_title_side: "Catch-all: %{title}"
         delete_confirm: Are you sure you want to delete this result?
         delete_tooltip: Delete
         description: Description (optional)
