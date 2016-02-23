@@ -529,6 +529,7 @@ en:
         title_example: e.g. Indiana Jones
         title_untitled: Untitled
       quizzes_outcomes_add_media:
+        attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
@@ -585,6 +586,7 @@ en:
         unused_outcomes: Un-mapped outcomes
         upload_image: Upload image
       quizzes_question_description_add_media:
+        attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
@@ -605,6 +607,7 @@ en:
         select_media_link: From link
         select_media_search: Search
       quizzes_question_options_add_media:
+        attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
@@ -756,6 +759,7 @@ en:
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
       quizzes_confirgure_settings_add_media:
+        attribution_warning: Usable without attribution      
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
