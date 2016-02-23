@@ -541,6 +541,7 @@ en:
         search_media_results_none_help: "Try being less specific, or %{action}."
         search_media_results_none_help_action: resetting your search
         search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
         search_meta_size: "Size: %{size}"
         search_meta_source: "Source: %{source}"
         search_preview_label: Preview
@@ -598,6 +599,7 @@ en:
         search_media_results_none_help: "Try being less specific, or %{action}."
         search_media_results_none_help_action: resetting your search
         search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
         search_meta_size: "Size: %{size}"
         search_meta_source: "Source: %{source}"
         search_preview_label: Preview
@@ -619,6 +621,7 @@ en:
         search_media_results_none_help: "Try being less specific, or %{action}."
         search_media_results_none_help_action: resetting your search
         search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
         search_meta_size: "Size: %{size}"
         search_meta_source: "Source: %{source}"
         search_preview_label: Preview
@@ -771,6 +774,7 @@ en:
         search_media_results_none_help: "Try being less specific, or %{action}."
         search_media_results_none_help_action: resetting your search
         search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
         search_meta_size: "Size: %{size}"
         search_meta_source: "Source: %{source}"
         search_preview_label: Preview
