@@ -666,6 +666,29 @@ en:
         overlay_background: Overlay background
         show_cover: Show cover page
         show_times_taken: Show times taken
+      quizzes_configure_design_add_media:
+        add_item_image: Image
+        attribution_warning: Usable without attribution      
+        drop_media: Drop media to upload
+        field_placeholder_paste_link: Paste your link
+        field_press_enter: Press enter to add
+        media_optional: Add media
+        search_input_placeholder: "Type in what you're looking for"
+        search_input_press_enter: Press enter to search
+        search_media_results_end: "There are no more results for \"%{search}\"."
+        search_media_results_none: "There are no results for \"%{search}\"."
+        search_media_results_none_help: "Try being less specific, or %{action}."
+        search_media_results_none_help_action: resetting your search
+        search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
+        search_meta_size: "Size: %{size}"
+        search_meta_source: "Source: %{source}"
+        search_preview_label: Preview
+        search_select_image: "Select an image to preview what it’ll look like"
+        search_use_image: Use this image
+        select_media_device: From device
+        select_media_link: From link
+        select_media_search: Search
       quizzes_configure_offer:
         add_field: Add field
         config_integrations: Configure integrations
