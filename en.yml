@@ -529,11 +529,11 @@ en:
         title_example: e.g. Indiana Jones
         title_untitled: Untitled
       quizzes_outcomes_add_media:
+        add_media_label: Add media
         attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
-        media_optional: Add media
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -587,11 +587,11 @@ en:
         unused_outcomes: Un-mapped outcomes
         upload_image: Upload image
       quizzes_question_description_add_media:
+        add_media_label: Add media
         attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
-        media_optional: Add media
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -609,11 +609,11 @@ en:
         select_media_link: From link
         select_media_search: Search
       quizzes_question_options_add_media:
+        add_media_label: Add media
         attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
-        media_optional: Add media
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -667,12 +667,11 @@ en:
         show_cover: Show cover page
         show_times_taken: Show times taken
       quizzes_configure_design_add_media:
-        add_item_image: Image
+        add_media_label: Image
         attribution_warning: Usable without attribution      
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
-        media_optional: Add media
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -785,11 +784,11 @@ en:
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
       quizzes_configure_settings_add_media:
+        add_media_label: Add media
         attribution_warning: Usable without attribution      
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
-        media_optional: Add media
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
