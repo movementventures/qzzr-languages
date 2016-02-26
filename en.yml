@@ -534,6 +534,7 @@ en:
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
+        processing_image: Processing
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -550,6 +551,7 @@ en:
         select_media_device: From device
         select_media_link: From link
         select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
       quizzes_question:
         add_option: Add option
         add_question: Create question
@@ -592,6 +594,7 @@ en:
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
+        processing_image: Processing
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -608,12 +611,14 @@ en:
         select_media_device: From device
         select_media_link: From link
         select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
       quizzes_question_options_add_media:
         add_media_label: Add media
         attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
+        processing_image: Processing
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -630,6 +635,7 @@ en:
         select_media_device: From device
         select_media_link: From link
         select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
       quizzes_configure_side_nav:
         ad_offer_title: Unlock offers
         ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
@@ -668,10 +674,11 @@ en:
         show_times_taken: Show times taken
       quizzes_configure_design_add_media:
         add_media_label: Image
-        attribution_warning: Usable without attribution      
+        attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
+        processing_image: Processing
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -688,6 +695,7 @@ en:
         select_media_device: From device
         select_media_link: From link
         select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
       quizzes_configure_offer:
         add_field: Add field
         config_integrations: Configure integrations
@@ -785,10 +793,11 @@ en:
         twitter_via_label: Tweet via
       quizzes_configure_settings_add_media:
         add_media_label: Add media
-        attribution_warning: Usable without attribution      
+        attribution_warning: Usable without attribution
         drop_media: Drop media to upload
         field_placeholder_paste_link: Paste your link
         field_press_enter: Press enter to add
+        processing_image: Processing
         search_input_placeholder: "Type in what you're looking for"
         search_input_press_enter: Press enter to search
         search_media_results_end: "There are no more results for \"%{search}\"."
@@ -805,6 +814,7 @@ en:
         select_media_device: From device
         select_media_link: From link
         select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
       quizzes_overview:
         default: default
         download_html: Download HTML
