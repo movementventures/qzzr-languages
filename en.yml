@@ -553,6 +553,7 @@ en:
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
       quizzes_question:
+        add_media_tooltip: Add media
         add_option: Add option
         add_question: Create question
         crop_cancel: Cancel
