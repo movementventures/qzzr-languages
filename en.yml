@@ -331,6 +331,7 @@ en:
       connect: "CONNECT"
       connect-to: "Connect to %{provider}"
       connected: "Connected"
+      double-opt-in: "Double Opt-in"
       groups: "Groups"
       header: "Integrations"
       header-caps: "INTEGRATIONS"
