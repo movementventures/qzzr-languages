@@ -713,6 +713,7 @@ en:
         field_name: Field name
         header: Offer
         integration_connect_to: 'Connect to %{provider}'
+        integration_double_opt_in: 'Enable double opt-in'
         integration_groups: Groups
         integration_heading: Integrations
         integration_include_outcome: Include result with lead
