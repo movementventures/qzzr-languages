@@ -497,6 +497,8 @@ en:
         learning_center: Learning center
         next: Next
         next_page: 'Next: %{page}'
+        onboarding_header: "Nice work! You're almost finished."
+        onboarding_description: "Once you’ve customized your quiz to your liking, hit the Publish button, grab the embed code, and post it on your site."
         outcomes: Outcomes
         publish: Publish
         question: Question
