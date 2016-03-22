@@ -719,6 +719,7 @@ en:
         integration_include_outcome: Include result with lead
         integration_lists: Lists
         integration_lists_none_selected: None selected
+        integration_mailchimp_link: Learn more
         integration_warning_body: "%{action} under the field options menu must match a merge tag in Mailchimp to collect the submission's data."
         integration_warning_body_action: '"Map to"'
         integration_warning_link: Learn more
