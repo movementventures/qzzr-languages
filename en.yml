@@ -509,9 +509,14 @@ en:
         upgrade: Upgrade
       quizzes_cover:
         define_outcomes: Define outcomes (optional)
-        graded_outcome_example: "e.g. You're a genius (95-100)"
         description_placeholder: Description (optional)
+        graded_outcome_example: "e.g. You're a genius (95-100)"
+        onboarding_sidebar_tip_label: Tips: Titles
+        onboarding_quiz_title_tip: "First quiz? Let us give you some pointers from what we’ve learned about the most effective quizzes."
         title_placeholder: Quiz title
+      quizzes_onboarding:
+        examples: Examples
+        tips: Tips
       quizzes_outcomes:
         add_outcome: Add outcome
         crop_cancel: Cancel
@@ -526,6 +531,8 @@ en:
         header: Outcomes
         image: Image
         move_tooltip: Move
+        onboarding_sidebar_tip_label: Tips: Outcomes
+        onboarding_outcome_title_tip: 'Onto the outcomes – the reason people take your quiz, and what you correlate to specific question answers'
         options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title: Outcome title
@@ -572,6 +579,11 @@ en:
         image_tips: Image tips
         link_result: Map an outcome
         move_tooltip: Reorder
+        onboarding_questions_sidebar_tip_label: Tips: Questions
+        onboarding_answers_sidebar_tip_label: Tips: Answers
+        onboarding_feedback_sidebar_tip_label: Tips: Feedback
+        onboarding_outcome_question_title_tip: 'Outcome question titles (PLACEHOLDER)'
+        onboarding_graded_question_title_tip: 'Graded question titles (PLACEHOLDER)'
         option_label_placeholder: Label
         option_move_tooltip: Move option
         option_type: Option type
