@@ -715,6 +715,16 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_offer:
         add_field: Add field
+        app_description_example: e.g. Get exclusive deals when you use our app.
+        app_install_ios_button_placeholder: e.g. For iOS
+        app_install_ios_button_label: iOS Button Label
+        app_install_ios_url_placeholder: e.g. https://itunes.apple.com/us/app/your-app/id12345567890
+        app_install_ios_url: iOS App Store URL
+        app_install_android_button_placeholder: e.g. For Android
+        app_install_android_button_label: Android Button Label
+        app_install_android_url_placeholder: e.g. https://play.google.com/store/apps/details?id=0123456789
+        app_install_android_url: Google Play URL
+        app_title_example: e.g. Download our mobile app
         config_integrations: Configure integrations
         default_value_example: campaign123
         default_value_title: Default value
