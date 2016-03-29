@@ -342,6 +342,7 @@ en:
       test-sent: "Test sent"
       webhooks-learn-more: "Learn more about webhooks"
     offer:
+      app-form: "App Install"
       add-field: "Add field"
       config-integrations: "CONFIGURE INTEGRATIONS"
       default-value-title: 'Default value'
