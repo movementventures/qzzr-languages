@@ -851,6 +851,9 @@ en:
         wordpress: WordPress
         wordpress_link: 'WordPress (for use with our %{link})'
         wordpress_plugin: plugin
+      toggle_tips:
+        hide: Hide tips
+        show: Show tips
     crop_image: Crop image
     image_tips: Image tips
     processing_image: processing
