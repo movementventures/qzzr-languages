@@ -512,7 +512,7 @@ en:
         define_outcomes: Define outcomes (optional)
         description_placeholder: Description (optional)
         graded_outcome_example: "e.g. You're a genius (95-100)"
-        onboarding_sidebar_tip_label: "Tips: Titles"
+        onboarding_sidebar_tip_label: "Tips: Getting started"
         onboarding_bubble_tip: "First quiz? Let us give you some pointers from what we’ve learned about the most effective quizzes."
         title_placeholder: Quiz title
       quizzes_onboarding:
@@ -583,7 +583,7 @@ en:
         onboarding_questions_sidebar_tip_label: "Tips: Questions"
         onboarding_answers_sidebar_tip_label: "Tips: Answers"
         onboarding_feedback_sidebar_tip_label: "Tips: Feedback"
-        onboarding_bubble_tip: 'Ah, questions. So many to ask. So much to learn.'
+        onboarding_bubble_tip: 'Ah, questions. The meat of your quiz.'
         option_label_placeholder: Label
         option_move_tooltip: Move option
         option_type: Option type
