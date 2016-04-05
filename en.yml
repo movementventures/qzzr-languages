@@ -539,7 +539,7 @@ en:
         options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title_label: Outcome title
-        title_placeholder_graded_quiz: ex. You're pretty much Bruce Wayne.
+        title_placeholder_graded_quiz: "ex. You're pretty much Bruce Wayne."
         title_placeholder_outcome_quiz: ex. You should vacation in Bali.
         title_untitled: Untitled
       quizzes_outcomes_add_media:
