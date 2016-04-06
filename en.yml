@@ -319,11 +319,11 @@ en:
       link-result: 'Map an outcome'
     appearance:
       accent-color: 'Accent color'
-      accent-color-example: 'e.g. #de514d'
+      accent-color-example: 'ex. #de514d'
       custom-bg: 'Background color'
-      custom-bg-example: 'e.g. #de514d'
+      custom-bg-example: 'ex. #de514d'
       face-example: '@font-face { ... }'
-      font-example: 'e.g. Georgia, serif'
+      font-example: 'ex. Georgia, serif'
       font-face: 'Font face'
       font-family: 'Font family'
     integrations:
@@ -351,24 +351,24 @@ en:
       default-value-example: 'campaign123'
       enabled: "Enabled"
       explanation: 'Collect emails, present offers and get likes for your Facebook page'
-      facebook-title-example: 'e.g. Like us on Facebook'
-      facebook-description-example: 'e.g. Facebook fans get special offers'
+      facebook-title-example: 'ex. Like us on Facebook'
+      facebook-description-example: 'ex. Facebook fans get special offers'
       facebook-url-title: 'Facebook page url'
       facebook-url-example: 'http://facebook.com/facebook.page'
       field-name: 'Field name'
-      field-example: 'e.g. First name'
+      field-example: 'ex. First name'
       lead-gate-result: 'Form must be submitted before viewing result'
       header: 'Offer'
       is-enabled-button-label: 'Visible to quiz takers'
       is-hidden: 'Hidden'
       lead-form: 'Form'
-      lead-title-example: 'e.g. Sign up for updates!'
+      lead-title-example: 'ex. Sign up for updates!'
       lead-description-example: 'Stay up to date & get special offers'
       lead-webhook-example: 'http://my.url.com/callback'
       lead-webhook-title: 'Webhook'
       like-form: 'Facebook Like'
       link-form: 'Link'
-      link-title-example: 'e.g. 10% off your next order!'
+      link-title-example: 'ex. 10% off your next order!'
       link-description-example: 'Click the button below to activate'
       link-button-label-title: 'Button label'
       link-button-label-example: 'Apply discount'
@@ -386,14 +386,14 @@ en:
       delete-confirm: "Are you sure you want to delete this result?"
       delete-tooltip: "Delete"
       description: "Description (optional)"
-      description-example: 'e.g. You enjoy being awesome...'
-      graded-outcome-example: "e.g. You're a genius (95-100)"
+      description-example: 'ex. You enjoy being awesome...'
+      graded-outcome-example: "ex. You're a genius (95-100)"
       header: 'Outcomes'
       image: "Image"
       move_tooltip: "Move"
       range-warning: 'If ranges overlap, vertical order determines priority'
       title: "Outcome title"
-      title-example: 'e.g. Indiana Jones'
+      title-example: 'ex. Indiana Jones'
     publish:
       header: 'Publish'
       update: 'Update'
@@ -408,12 +408,12 @@ en:
       delete-option-confirm: "Are you sure you want to delete this option?"
       delete-option-tooltip: "Delete"
       description: "Description (optional)"
-      description-example: "e.g. Hint: it is not Hawaii"
+      description-example: "ex. Hint: it is not Hawaii"
       disable-images: "Disable images"
       duplicate-tooltip: "Duplicate"
       enable-images: "Enable images"
       feedback-title: "Feedback (optional)"
-      feedback-example: "e.g. Bees can smell fear"
+      feedback-example: "ex. Bees can smell fear"
       image: "Image"
       move_tooltip: "Move question"
       option-move-tooltip: "Move option"
@@ -424,7 +424,7 @@ en:
       select-all: "Select all"
       select-one: "Select one"
       title: "Question title"
-      title-example: "e.g. What state is Seattle in?"
+      title-example: "ex. What state is Seattle in?"
       true-false: "True/false"
       true-false-warning: "Changing to true/false will delete your current answer options.  Still want to proceed?"
       type: "Type"
@@ -437,19 +437,19 @@ en:
       background-topics: "Upload background & select topics"
       create:
         choose: 'Choose a quiz type'
-        graded-help: "e.g. What movie is this?"
+        graded-help: "ex. What movie is this?"
         graded-label: "Graded"
-        outcome-help: "e.g. What color are you?"
+        outcome-help: "ex. What color are you?"
         outcome-label: "Outcome"
       description: "Description (optional)"
-      description-example: "e.g. Identify the famous sites"
+      description-example: "ex. Identify the famous sites"
       image: "Image"
       post-as: "Visible by %{poster}"
       select-topic: "List in a topic"
       select-another-topic: "List in another topic"
       share-redirect-url: "Share redirect URL"
       title: "Quiz title"
-      title-example: "e.g. which hero are you?"
+      title-example: "ex. which hero are you?"
     settings:
       background: 'Background'
       boost-quiz: "Boost this quiz in others' mixes"
@@ -476,8 +476,8 @@ en:
       header: 'Sharing'
       share-image: 'Custom share image'
       custom-text: 'Custom share text'
-      placeholder: 'e.g. Submit'
-      redirect-url-example: 'e.g. http://yoursite.com/quiz'
+      placeholder: 'ex. Submit'
+      redirect-url-example: 'ex. http://yoursite.com/quiz'
       twitter-via-example: '@twitter_handle'
       twitter-hashtags-example: '#quiz #personality'
     editor:
@@ -532,7 +532,7 @@ en:
         delete_confirm: Are you sure you want to delete this result?
         delete_tooltip: Delete
         description: Description (optional)
-        description_example: e.g. You enjoy being awesome...
+        description_example: ex. You enjoy being awesome...
         header: Outcomes
         image: Image
         move_tooltip: Move
@@ -672,7 +672,7 @@ en:
         embed_refresh: Restart
         title: Appearance
         accent_color: Accent color
-        accent_color_example: 'e.g. #de514d'
+        accent_color_example: 'ex. #de514d'
         ad_custom_bg_label: Custom BG color
         ad_custom_bg_tooltip: Pick your own specific background color
         ad_font_label: Font
@@ -687,8 +687,8 @@ en:
         ad_upgrade_now_action: Upgrade Now
         background: Background
         custom_bg: Background color
-        custom_bg_example: 'e.g. #de514d'
-        font_example: 'e.g. Georgia, serif'
+        custom_bg_example: 'ex. #de514d'
+        font_example: 'ex. Georgia, serif'
         font_face: Font face
         font_family: Font family
         invert_text: Invert text
@@ -721,26 +721,26 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_offer:
         add_field: Add field
-        app_description_example: "e.g. Get exclusive deals when you use our app."
-        app_install_ios_button_placeholder: "e.g. For iOS"
+        app_description_example: "ex. Get exclusive deals when you use our app."
+        app_install_ios_button_placeholder: "ex. For iOS"
         app_install_ios_button_label: "iOS Button Label"
-        app_install_ios_url_placeholder: "e.g. https://itunes.apple.com/us/app/your-app/id12345567890"
+        app_install_ios_url_placeholder: "ex. https://itunes.apple.com/us/app/your-app/id12345567890"
         app_install_ios_url: "iOS App Store URL"
-        app_install_android_button_placeholder: "e.g. For Android"
+        app_install_android_button_placeholder: "ex. For Android"
         app_install_android_button_label: "Android Button Label"
-        app_install_android_url_placeholder: "e.g. https://play.google.com/store/apps/details?id=0123456789"
+        app_install_android_url_placeholder: "ex. https://play.google.com/store/apps/details?id=0123456789"
         app_install_android_url: "Google Play URL"
-        app_title_example: "e.g. Download our mobile app"
+        app_title_example: "ex. Download our mobile app"
         config_integrations: Configure integrations
         default_value_example: campaign123
         default_value_title: Default value
         enabled: Enabled
         explanation: 'Collect emails, present offers and get likes for your Facebook page'
-        facebook_description_example: e.g. Facebook fans get special offers
-        facebook_title_example: e.g. Like us on Facebook
+        facebook_description_example: ex. Facebook fans get special offers
+        facebook_title_example: ex. Like us on Facebook
         facebook_url_example: http://facebook.com/facebook.page
         facebook_url_title: Facebook page url
-        field_example: e.g. First name
+        field_example: ex. First name
         field_name: Field name
         header: Offer
         integration_connect_to: 'Connect to %{provider}'
@@ -764,21 +764,21 @@ en:
         lead_custom_field_popover_delete: Delete
         lead_custom_field_popover_delete_confirm: Are you sure you want to delete this field?
         lead_custom_field_popover_hidden_value: Value
-        lead_custom_field_popover_hidden_value_example: e.g. 1234
+        lead_custom_field_popover_hidden_value_example: ex. 1234
         lead_custom_field_popover_map_to: Map to
-        lead_custom_field_popover_map_to_example: e.g. email_address
+        lead_custom_field_popover_map_to_example: ex. email_address
         lead_custom_field_popover_visible: Visible
         lead_description_example: 'Stay up to date & get special offers'
         lead_form: Form
         lead_gate_result: Form must be submitted before viewing result
-        lead_title_example: e.g. Sign up for updates!
+        lead_title_example: ex. Sign up for updates!
         lead_webhook_example: http://my.url.com/callback
         like_form: Facebook Like
         link_button_label_example: Apply discount
         link_button_label_title: Button label
         link_description_example: Click the button below to activate
         link_form: Link
-        link_title_example: e.g. 10% off your next order!
+        link_title_example: ex. 10% off your next order!
         link_url_example: http://example.com
         link_url_title: Button URL
         list_picker_prompt: None selected
@@ -812,7 +812,7 @@ en:
         randomized_answers: Randomize answers
         randomized_questions: Randomize questions
         redirect_url_label: Share redirect URL
-        redirect_url_example: e.g. http://yoursite.com/quiz
+        redirect_url_example: ex. http://yoursite.com/quiz
         redirect_url_warning_heading: Danger!
         redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. Share redirect URL should be used if links shared to social networks are not correctly linking back to the original page where the quiz is embedded. %{link} before using share redirect URL.'
         redirect_url_article: Read this article
