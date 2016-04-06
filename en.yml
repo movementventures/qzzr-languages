@@ -511,7 +511,7 @@ en:
       quizzes_cover:
         define_outcomes: Define outcomes (optional)
         description_placeholder: Description (optional)
-        graded_outcome_example: "ex. You know the globe (95-100)"
+        graded_outcome_example: "ex. You're a modern Marco Polo (95-100)"
         onboarding_sidebar_tip_label: "Tips: Getting started"
         onboarding_bubble_tip: "First quiz? Let us give you some pointers from what we’ve learned about the most effective quizzes."
         title_label: Quiz title
@@ -539,7 +539,7 @@ en:
         options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title_label: Outcome title
-        title_placeholder_graded_quiz: "ex. You're ."
+        title_placeholder_graded_quiz: "ex. You're a modern Marco Polo."
         title_placeholder_outcome_quiz: ex. Your dream vacation is Bali.
         title_untitled: Untitled
       quizzes_outcomes_add_media:
