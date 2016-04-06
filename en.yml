@@ -263,6 +263,8 @@ en:
       multiple-select-colon: "Select all that apply: "
       next: Next
       next-question: "Next question"
+      not-found: "This quiz is no longer available."
+      not-found-mix-title: "Why not give one of these a go?"
       view-results: "View results"
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
