@@ -511,12 +511,12 @@ en:
       quizzes_cover:
         define_outcomes: Define outcomes (optional)
         description_placeholder: Description (optional)
-        graded_outcome_example: "ex. You're a genius (95-100)"
+        graded_outcome_example: "ex. You know the globe (95-100)"
         onboarding_sidebar_tip_label: "Tips: Getting started"
         onboarding_bubble_tip: "First quiz? Let us give you some pointers from what we’ve learned about the most effective quizzes."
         title_label: Quiz title
-        title_placeholder_graded_quiz: ex. The Ultimate Batman Quiz
-        title_placeholder_outcome_quiz: ex. Where should you vacation next?
+        title_placeholder_graded_quiz: ex. The Ultimate Traveller Quiz
+        title_placeholder_outcome_quiz: ex. What's your dream vacation?
       quizzes_onboarding:
         examples: Examples
         tips: Tips
@@ -539,8 +539,8 @@ en:
         options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title_label: Outcome title
-        title_placeholder_graded_quiz: "ex. You're pretty much Bruce Wayne."
-        title_placeholder_outcome_quiz: ex. You should vacation in Bali.
+        title_placeholder_graded_quiz: "ex. You're ."
+        title_placeholder_outcome_quiz: ex. Your dream vacation is Bali.
         title_untitled: Untitled
       quizzes_outcomes_add_media:
         add_media_label: Add media
@@ -578,7 +578,7 @@ en:
         delete_question_tooltip: Delete
         description: Description (optional)
         duplicate_tooltip: Duplicate question
-        feedback_example: "ex. Batman #1 explains Bruce's backstory."
+        feedback_example: "ex. In winter, Oymyakon, Russia is an average -50 C."
         feedback_title: Feedback (optional)
         image_tips: Image tips
         link_result: Map an outcome
@@ -603,8 +603,8 @@ en:
         outcome_weight_bounds: 'Min: %{min} max: %{max}'
         outcome_weight_label: Points
         title_label: Question title
-        title_placeholder_graded_quiz: "ex. What is the plot to Batman #1?"
-        title_placeholder_outcome_quiz: ex. Which activity sounds most fun?
+        title_placeholder_graded_quiz: "ex. Where is the coldest city?"
+        title_placeholder_outcome_quiz: ex. Which activities sound fun?
         title_untitled: Untitled
         true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
         unused_outcomes: Un-mapped outcomes
