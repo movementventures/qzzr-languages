@@ -538,7 +538,7 @@ en:
         image: Image
         move_tooltip: Move
         onboarding_sidebar_tip_label: "Tips: Outcomes"
-        onboarding_bubble_tip: 'Onto the outcomes – the reason people take your quiz'
+        onboarding_bubble_tip: 'On to the outcomes – the reason people take your quiz'
         options_tooltip: Options
         range_warning: 'If ranges overlap, vertical order determines priority'
         title_label: Outcome title
