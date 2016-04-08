@@ -521,6 +521,7 @@ en:
         title_placeholder_outcome_quiz: ex. What's your dream vacation?
       quizzes_onboarding:
         examples: Examples
+        hide_example: Hide Example
         tips: Tips
       quizzes_outcomes:
         add_outcome: Add outcome
