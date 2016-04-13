@@ -665,6 +665,7 @@ en:
         ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
         ad_offer_upgrade_now: Upgrade now
         design: Appearance
+        mix: Mix
         offer: Offer
         settings: Quiz settings
         visible_by_label: 'Visible by %{poster}'
@@ -793,6 +794,16 @@ en:
         connected: Connected
         service_url: Service URL
         webhooks_learn_more: Learn more about webhooks
+      quizzes_configure_mix:
+        ad_boost_quiz: "Boost your quiz on others' quizzes"
+        ad_recommend_quizzes: Recommend other quizzes
+        ad_upgrade_action: Upgrade
+        boost_quiz: "Boost this quiz in others' mixes"
+        display_mix: Include your content mix at the end of the quiz
+        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your quiz."
+        include_quiz_in_mix: Include this quiz in your mix
+        include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
+        learn_more: "Learn more"
       quizzes_configure_settings:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
