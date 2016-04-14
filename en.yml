@@ -667,7 +667,8 @@ en:
         design: Appearance
         mix: Mix
         offer: Offer
-        settings: Quiz settings
+        settings: Settings
+        sharing: Sharing
         visible_by_label: 'Visible by %{poster}'
       quizzes_configure_design:
         embed_preview: Embed preview
@@ -839,6 +840,48 @@ en:
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
       quizzes_configure_settings_add_media:
+        add_media_label: Add media
+        attribution_warning: Usable without attribution
+        drop_media: Drop media to upload
+        field_placeholder_paste_link: Paste your link
+        field_press_enter: Press enter to add
+        processing_image: Processing
+        search_input_placeholder: "Type in what you're looking for"
+        search_input_press_enter: Press enter to search
+        search_media_results_end: "There are no more results for \"%{search}\"."
+        search_media_results_none: "There are no results for \"%{search}\"."
+        search_media_results_none_help: "Try being less specific, or %{action}."
+        search_media_results_none_help_action: resetting your search
+        search_media_results_searching: Searching...
+        search_meta_attribution_warning: Usable without attribution
+        search_meta_size: "Size: %{size}"
+        search_meta_source: "Source: %{source}"
+        search_preview_label: Preview
+        search_select_image: "Select an image to preview what it’ll look like"
+        search_use_image: Use this image
+        select_media_device: Upload
+        select_media_link: From link
+        select_media_search: Search
+        uploading_image: "Uploading: %{progress}%"
+      quizzes_configure_sharing:
+        ad_upgrade_action: Upgrade
+        ad_tweet_hashtags: Tweet hashtags
+        ad_twitter_username: Twitter username mention
+        ad_custom_meta_tags: "Use your own site's sharing meta tags"
+        crop_share_image_cancel: Cancel
+        crop_share_image_save: Save
+        redirect_url_article: Read this article
+        redirect_url_example: ex. http://yoursite.com/quiz
+        redirect_url_label: Share redirect URL
+        redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. Share redirect URL should be used if links shared to social networks are not correctly linking back to the original page where the quiz is embedded. %{link} before using share redirect URL.'
+        redirect_url_warning_heading: Danger!
+        share_image: Custom share image
+        share_meta: Use your site's sharing meta tags
+        twitter_hashtags_label: Hashtags
+        twitter_hashtags_example: '#quiz #personality'
+        twitter_via_example: '@twitter_handle'
+        twitter_via_label: Tweet via
+      quizzes_configure_sharing_add_media:
         add_media_label: Add media
         attribution_warning: Usable without attribution
         drop_media: Drop media to upload
