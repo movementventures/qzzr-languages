@@ -246,6 +246,7 @@ en:
       keyboard: "Press %{key} to copy"
       default: "Copy text"
     take:
+      browser_alert: "Your browser is not supported. please use a %{browser : supported browser}"
       challenge-a-friend: "Challenge Friends"
       click-to-advance: "Click anywhere to advance"
       correct: "Correct"
