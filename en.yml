@@ -802,7 +802,7 @@ en:
         ad_upgrade_action: Upgrade
         boost_quiz: "Boost this quiz in others' mixes"
         display_mix: Include your content mix at the end of the quiz
-        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your quiz."
+        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your quiz."
         include_quiz_in_mix: Include this quiz in your mix
         include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
         learn_more: "Learn more"
@@ -818,7 +818,7 @@ en:
         crop_share_image_cancel: Cancel
         crop_share_image_save: Save
         display_mix: Include your content mix at the end of the quiz
-        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your quiz."
+        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your quiz."
         hide_on_networks: Hide quiz on Qzzr networks
         include_quiz_in_mix: Include this quiz in your mix
         include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
