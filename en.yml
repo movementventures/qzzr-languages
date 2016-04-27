@@ -148,6 +148,9 @@ en:
         range: '%{lower}-%{upper}%'
         title: How you compare to others
       grade-count: "%{score}/%{count}"
+      mix_item_type_quiz: "quiz"
+      mix_item_type_poll: "poll"
+      mix_item_type_list: "list"
       more-about-your-result: "More about your result"
       more-details: "More details"
       range: "%{lower}-%{upper}%"
