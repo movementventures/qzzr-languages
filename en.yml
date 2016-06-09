@@ -664,6 +664,9 @@ en:
         select_media_link: From link
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
+      quizzes_configure_location:
+        location: "Location: %{owner}"
+        your_account: Your account
       quizzes_configure_side_nav:
         ad_offer_title: Unlock offers
         ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
