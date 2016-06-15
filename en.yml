@@ -475,7 +475,7 @@ en:
         randomized-questions: "Randomize questions"
         share-results: "Share results instead of quiz title"
         show-feedback: 'Show instant answer feedback'
-        share-meta: "Use your site's sharing meta tags"
+        share-meta: "Share Open Graph tags on your site instead of quiz title/results"
     sharing:
       header: 'Sharing'
       share-image: 'Custom share image'
@@ -816,7 +816,7 @@ en:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
         ad_twitter_username: Twitter username mention
-        ad_custom_meta_tags: "Use your own site's sharing meta tags"
+        ad_custom_meta_tags: "Share Open Graph tags on your site instead of quiz title/results"
         ad_recommend_quizzes: Recommend other quizzes
         ad_boost_quiz: "Boost your quiz on others' quizzes"
         advanced_header: Advanced
@@ -837,7 +837,7 @@ en:
         redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. Share redirect URL should be used if links shared to social networks are not correctly linking back to the original page where the quiz is embedded. %{link} before using share redirect URL.'
         redirect_url_article: Read this article
         share_image: Custom share image
-        share_meta: Use your site's sharing meta tags
+        share_meta: "Share Open Graph tags on your site instead of quiz title/results"
         share_results: Share results instead of quiz title
         show_feedback: Show instant answer feedback
         show_start: Show cover page
@@ -874,7 +874,7 @@ en:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
         ad_twitter_username: Twitter username mention
-        ad_custom_meta_tags: "Use your own site's sharing meta tags"
+        ad_custom_meta_tags: "Share Open Graph tags on your site instead of quiz title/results"
         crop_share_image_cancel: Cancel
         crop_share_image_save: Save
         optional: " (optional)"
@@ -884,7 +884,7 @@ en:
         redirect_url_warning: '%{heading} Shares are automatically redirected back to where we detect your quiz is embedded. Share redirect URL should be used if links shared to social networks are not correctly linking back to the original page where the quiz is embedded. %{link} before using share redirect URL.'
         redirect_url_warning_heading: Danger!
         share_image: Share Image
-        share_meta: Use your site's sharing meta tags
+        share_meta: "Share Open Graph tags on your site instead of quiz title/results"
         twitter_hashtags_label: Hashtags
         twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
