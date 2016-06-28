@@ -933,7 +933,7 @@ en:
         try_preferred: Go back to recommended code
         wordpress: WordPress
         wordpress_link: 'WordPress (for use with our %{link})'
-        wordpress_plugin: plugin,
+        wordpress_plugin: plugin
         page_title: "Overview"
       toggle_tips:
         hide: Hide tips
