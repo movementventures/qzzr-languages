@@ -934,7 +934,7 @@ en:
         wordpress: WordPress
         wordpress_link: 'WordPress (for use with our %{link})'
         wordpress_plugin: plugin
-        page_title: "Overview"
+        page_title: Overview
       toggle_tips:
         hide: Hide tips
         show: Show tips
