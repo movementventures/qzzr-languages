@@ -487,6 +487,7 @@ en:
     editor:
       app:
         need_help: Need help?
+        page_title: "%{name : Untitled} · Quiz · %{brand}"
       account_dropdown:
         edit_profile: Edit settings
         edit_settings: Edit settings
@@ -925,6 +926,7 @@ en:
         embed_refresh: Restart
         having_trouble: 'Having trouble? %{alternate}'
         link_quiz: Link to this quiz
+        page_title: "%{name : Untitled} · Overview · %{brand}"
         quiz_published: "Hot dang! That's a mighty fine quiz."
         quiz_published_share_it: Now share it.
         quiz_updated: Quiz updated
