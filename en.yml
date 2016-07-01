@@ -807,6 +807,7 @@ en:
         ad_recommend_quizzes: Recommend other quizzes
         ad_upgrade_action: Upgrade
         boost_quiz: "Boost this quiz in others' mixes"
+        boost_quiz_tooltip: "Boosting will distribute your quiz on free Qzzr and Pollcaster accounts. Click now to learn more."
         display_mix: Include your content mix at the end of the quiz
         display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your quiz."
         include_quiz_in_mix: Include this quiz in your mix
