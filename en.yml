@@ -487,6 +487,7 @@ en:
     editor:
       app:
         need_help: Need help?
+        page_title: "%{name : Untitled} · Quiz · %{brand}"
       account_dropdown:
         edit_profile: Edit settings
         edit_settings: Edit settings
@@ -502,6 +503,10 @@ en:
         delete_confirm: Are you sure you want to delete this quiz?
         delete_quiz: Delete quiz
         learning_center: Learning center
+        label_untitled: Untitled
+        label_quiz_type_outcome: Outcome quiz
+        label_quiz_type_checklist: Checklist quiz
+        label_quiz_type_graded: Graded quiz
         next: Next
         next_page: 'Next: %{page}'
         onboarding_header: "Nice work! You're almost finished."
@@ -922,6 +927,7 @@ en:
         embed_refresh: Restart
         having_trouble: 'Having trouble? %{alternate}'
         link_quiz: Link to this quiz
+        page_title: "%{name : Untitled} · Overview · %{brand}"
         quiz_published: "Hot dang! That's a mighty fine quiz."
         quiz_published_share_it: Now share it.
         quiz_updated: Quiz updated
@@ -931,6 +937,7 @@ en:
         wordpress: WordPress
         wordpress_link: 'WordPress (for use with our %{link})'
         wordpress_plugin: plugin
+        page_title: Overview
       toggle_tips:
         hide: Hide tips
         show: Show tips
