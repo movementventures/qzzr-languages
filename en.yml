@@ -813,6 +813,10 @@ en:
         offer_title: Title
         place_offer_below: Place offer below results
         type_label: Type
+        type_lead_label: Form
+        type_link_label: Link
+        type_facebook_label: Facebook Like
+        type_app_label: App Install
         unused_outcomes: Unused outcomes
       quizzes_configure_integrations:
         client_id: Client ID
