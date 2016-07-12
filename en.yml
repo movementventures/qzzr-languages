@@ -558,7 +558,6 @@ en:
         title_placeholder_graded_quiz: "ex. You're a modern Marco Polo."
         title_placeholder_outcome_quiz: ex. Your dream vacation is Bali.
         title_untitled: Untitled
-
       quizzes_outcomes_add_media:
         add_media_label: Add media
         attribution_warning: Usable without attribution
