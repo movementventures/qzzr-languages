@@ -534,6 +534,10 @@ en:
         tips: Tips
       quizzes_outcomes:
         add_outcome: Add outcome
+        call-to-action-heading: 'New'
+        call-to-action-body: 'Target specific outcomes with specific offers'
+        call-to-action-upgrade-button-label: 'Upgrade'
+        call-to-action-upgraded-button-label: 'Try it out'
         crop_cancel: Cancel
         crop_save: Save
         default_description: Description (optional)
