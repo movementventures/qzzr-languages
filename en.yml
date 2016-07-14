@@ -317,7 +317,7 @@ en:
       follow: Follow
   maker:
     answer:
-      add: 'Add option'
+      add: 'Add answer'
       image: "Image"
       label: "Label"
       link-result: 'Map an outcome'
@@ -420,9 +420,9 @@ en:
       feedback-example: "ex. Bees can smell fear"
       image: "Image"
       move_tooltip: "Move question"
-      option-move-tooltip: "Move option"
-      option-type: "Option type"
-      options-tooltip: "Options"
+      option-move-tooltip: "Move"
+      option-type: "Answer type"
+      options-tooltip: "Answers"
       partial-credit: "Partial credit"
       select-all-apply: "Select all that apply"
       select-all: "Select all"
@@ -430,7 +430,7 @@ en:
       title: "Question title"
       title-example: "ex. What state is Seattle in?"
       true-false: "True/false"
-      true-false-warning: "Changing to true/false will delete your current answer options.  Still want to proceed?"
+      true-false-warning: "Changing to true/false will delete your current answers.  Still want to proceed?"
       type: "Type"
       untitled: "Untitled"
       unused-outcomes: "Un-mapped outcomes"
@@ -580,12 +580,12 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_question:
         add_media_tooltip: Add media
-        add_option: Add option
-        add_question: Create question
+        add_option: Add answer
+        add_question: Add question
         crop_cancel: Cancel
         crop_save: Save
         delete_confirm: Are you sure you want to delete this question?
-        delete_option_confirm: Are you sure you want to delete this option?
+        delete_option_confirm: Are you sure you want to delete this answer?
         delete_option_tooltip: Delete
         delete_question_tooltip: Delete
         description: Description (optional)
@@ -600,8 +600,8 @@ en:
         onboarding_feedback_sidebar_tip_label: "Tips: Feedback"
         onboarding_bubble_tip: 'Ah, questions. The meat of your quiz.'
         option_label_placeholder: Label
-        option_move_tooltip: Move option
-        option_type: Option type
+        option_move_tooltip: Move
+        option_type: Answer type
         option_type_click_spot: Click Spot
         option_type_select_all: Select all
         option_type_select_one: Select one
@@ -618,7 +618,7 @@ en:
         title_placeholder_graded_quiz: "ex. Where is the coldest city?"
         title_placeholder_outcome_quiz: ex. Which activities sound fun?
         title_untitled: Untitled
-        true_false_warning: Changing to true/false will delete your current answer options.  Still want to proceed?
+        true_false_warning: Changing to true/false will delete your current answer answers.  Still want to proceed?
         unused_outcomes: Un-mapped outcomes
         upload_image: Upload image
       quizzes_question_description_add_media:
