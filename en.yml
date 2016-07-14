@@ -534,6 +534,10 @@ en:
         tips: Tips
       quizzes_outcomes:
         add_outcome: Add outcome
+        call-to-action-heading: 'New'
+        call-to-action-body: 'Target specific outcomes with specific offers'
+        call-to-action-upgrade-button-label: 'Upgrade'
+        call-to-action-upgraded-button-label: 'Try it out'
         crop_cancel: Cancel
         crop_save: Save
         default_description: Description (optional)
@@ -679,6 +683,9 @@ en:
         design: Appearance
         mix: Mix
         offer: Offer
+        offers: Offers
+        offers_new: New
+        offers_description: 'Outcome-specific offers'
         settings: Settings
         sharing: Sharing
         visible_by_label: 'Visible by %{poster}'
@@ -746,9 +753,18 @@ en:
         app_install_android_url_placeholder: "ex. https://play.google.com/store/apps/details?id=0123456789"
         app_install_android_url: "Google Play URL"
         app_title_example: "ex. Download our mobile app"
+        cancel: Cancel
         config_integrations: Configure integrations
+        confirm_deletion: Confirm deletion
+        create_tooltip: 'Add outcome-specific offer'
         default_value_example: campaign123
         default_value_title: Default value
+        delete: Delete
+        display_to: Display to
+        display_to_anyone: Anyone else
+        display_to_everyone: Everyone
+        display_to_outcomes_header: Outcomes
+        duplicate: Duplicate
         enabled: Enabled
         explanation: 'Collect emails, present offers and get likes for your Facebook page'
         facebook_description_example: ex. Facebook fans get special offers
@@ -785,7 +801,7 @@ en:
         lead_custom_field_popover_visible: Visible
         lead_description_example: 'Stay up to date & get special offers'
         lead_form: Form
-        lead_gate_result: Form must be submitted before viewing result
+        lead_gate_result: Form must be submitted before viewing results
         lead_title_example: ex. Sign up for updates!
         lead_webhook_example: http://my.url.com/callback
         like_form: Facebook Like
@@ -799,6 +815,13 @@ en:
         list_picker_prompt: None selected
         offer_description: Description (optional)
         offer_title: Title
+        place_offer_below: Place offer below results
+        type_label: Type
+        type_lead_label: Form
+        type_link_label: Link
+        type_facebook_label: Facebook Like
+        type_app_label: App Install
+        unused_outcomes: Unused outcomes
       quizzes_configure_integrations:
         client_id: Client ID
         client_secret: Client secret
