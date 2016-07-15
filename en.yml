@@ -837,9 +837,13 @@ en:
         boost_quiz: "Boost this quiz in others' mixes"
         boost_quiz_tooltip: "'Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more.'"
         display_mix: Include your content mix at the end of the quiz
-        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your quiz."
+        display_mix_label: Include your Remix at the end of the quiz
+        display_mix_label_hub: "Include %{hub_name}'s Remix at the end of the quiz"
+        display_mix_tooltip: "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it at the end of your quiz."
         include_quiz_in_mix: Include this quiz in your mix
         include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
+        is_mixed_label: Include this quiz in your Remix
+        is_mixed_tooltip: "Your quiz won't show up in the Remix until you add a Share Redirect URL on the Sharing tab."
         learn_more: "Learn more"
       quizzes_configure_settings:
         ad_upgrade_action: Upgrade
