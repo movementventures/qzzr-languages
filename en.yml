@@ -742,7 +742,6 @@ en:
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_offer:
-        anyone_label: "Anyone without an outcome-specific offer"
         another_offer_sublabel: "Used on another offer %{useHere: USE HERE}"
         add_field: Add field
         app_description_example: "ex. Get exclusive deals when you use our app."
@@ -763,9 +762,9 @@ en:
         default_value_example: campaign123
         default_value_title: Default value
         delete: Delete
-        display_to: Display to
-        display_to_anyone: Anyone else
-        display_to_everyone: Everyone
+        display_to_anyone_label: "Anyone without an outcome-specific offer"
+        display_to_nobody_label: "Nobody"
+        display_to_label: "Display to %{name}"
         display_to_outcomes_header: Outcomes
         duplicate: Duplicate
         enabled: Enabled
