@@ -822,7 +822,7 @@ en:
         offer_title: Title
         options_tooltip: Options
         place_offer_below: Place offer below results
-        type_label: Type
+        selected_type_label: Type %{type}
         type_lead_label: Form
         type_link_label: Link
         type_facebook_label: Facebook Like
