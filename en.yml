@@ -742,6 +742,7 @@ en:
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_offer:
+        another_offer_sublabel: "Used on another offer %{useHere: USE HERE}"
         add_field: Add field
         app_description_example: "ex. Get exclusive deals when you use our app."
         app_install_ios_button_placeholder: "ex. For iOS"
@@ -753,16 +754,20 @@ en:
         app_install_android_url_placeholder: "ex. https://play.google.com/store/apps/details?id=0123456789"
         app_install_android_url: "Google Play URL"
         app_title_example: "ex. Download our mobile app"
+        before_results_label: Place offer below results
         cancel: Cancel
         config_integrations: Configure integrations
+        create_offer_label: Create offer
+        create_offer_cancel_label: Cancel
         confirm_deletion: Confirm deletion
         create_tooltip: 'Add outcome-specific offer'
         default_value_example: campaign123
         default_value_title: Default value
         delete: Delete
-        display_to: Display to
-        display_to_anyone: Anyone else
-        display_to_everyone: Everyone
+        display_to_anyone_label: "Anyone without an outcome-specific offer"
+        display_to_nobody_label: "Nobody"
+        display_to_label: "Display to %{name}"
+        display_to_general_header: General audience
         display_to_outcomes_header: Outcomes
         duplicate: Duplicate
         enabled: Enabled
@@ -782,14 +787,17 @@ en:
         integration_lists: Lists
         integration_lists_none_selected: None selected
         integration_mailchimp_link: Learn more
+        integration_mailchimp_tooltip: Integrate this offer with a MailChimp list
         integration_warning_body: "%{action} under the field options menu must match a merge tag in Mailchimp to collect the submission's data."
         integration_warning_body_action: '"Map to"'
         integration_warning_link: Learn more
         integration_webhook_link: Learn more
+        integration_webhook_placeholder: URL
         integration_webhook_test: Test webhook
         integration_webhook_test_error: 'We had a problem sending a webhook test, try again later'
         integration_webhook_test_sent: Test sent
         integration_webhook_title: Webhook
+        integration_webhook_tooltip: Webhooks make it easy to send your quiz leads information to a specific URL
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
         lead_custom_field_popover_delete: Delete
@@ -815,8 +823,9 @@ en:
         list_picker_prompt: None selected
         offer_description: Description (optional)
         offer_title: Title
+        options_tooltip: Options
         place_offer_below: Place offer below results
-        type_label: Type
+        selected_type_label: "Type %{type}"
         type_lead_label: Form
         type_link_label: Link
         type_facebook_label: Facebook Like
@@ -835,12 +844,18 @@ en:
         ad_recommend_quizzes: Recommend other quizzes
         ad_upgrade_action: Upgrade
         boost_quiz: "Boost this quiz in others' mixes"
-        boost_quiz_tooltip: "'Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more.'"
+        boost_quiz_tooltip: "Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more."
         display_mix: Include your content mix at the end of the quiz
-        display_mix_tooltip: "Have other quizzes you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your quiz."
+        display_mix_label: Include your Remix at the end of the quiz
+        display_mix_label_hub: "Include %{hub_name}'s Remix at the end of the quiz"
+        display_mix_tooltip: "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it at the end of your quiz."
         include_quiz_in_mix: Include this quiz in your mix
         include_quiz_in_mix_tooltip: "Once you embed and start driving traffic, we'll detect where your quiz is embedded. Skip the waiting for detection by adding a Share redirect URL."
+        is_mixed_label: Include this quiz in your Remix
+        is_mixed_label_hub: "Include this quiz in %{hub_name}'s Remix"
+        is_mixed_tooltip: "Your quiz won't show up in the Remix until you add a Share Redirect URL on the Sharing tab."
         learn_more: "Learn more"
+        mix_tooltip: "Have other pieces of content you'd like to show off? Use Remix to handpick the best quizzes, polls, and lists and recommend them at the end of your content."
       quizzes_configure_settings:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
