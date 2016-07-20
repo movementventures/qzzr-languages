@@ -757,6 +757,8 @@ en:
         before_results_label: Place offer below results
         cancel: Cancel
         config_integrations: Configure integrations
+        create_offer_label: Create offer
+        create_offer_cancel: Cancel
         confirm_deletion: Confirm deletion
         create_tooltip: 'Add outcome-specific offer'
         default_value_example: campaign123
@@ -765,6 +767,7 @@ en:
         display_to_anyone_label: "Anyone without an outcome-specific offer"
         display_to_nobody_label: "Nobody"
         display_to_label: "Display to %{name}"
+        display_to_general_header: General audience
         display_to_outcomes_header: Outcomes
         duplicate: Duplicate
         enabled: Enabled
