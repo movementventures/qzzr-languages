@@ -553,6 +553,7 @@ en:
         onboarding_sidebar_tip_label: "Tips: Outcomes"
         onboarding_bubble_tip: 'On to the outcomes – the reason people take your quiz'
         options_tooltip: Options
+        points_mapped: 'points mapped'
         range_warning: 'If ranges overlap, vertical order determines priority'
         title_label: Outcome title
         title_placeholder_graded_quiz: "ex. You're a modern Marco Polo."
