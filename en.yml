@@ -599,6 +599,7 @@ en:
         feedback_title: Feedback (optional)
         image_tips: Image tips
         link_result: Map an outcome
+        maps_to_example: 'ex. question_1'
         move_tooltip: Reorder
         onboarding_questions_sidebar_tip_label: "Tips: Questions"
         onboarding_answers_sidebar_tip_label: "Tips: Answers"
