@@ -385,7 +385,7 @@ en:
     outcome:
       add-graded-outcome: 'Define outcomes (optional)'
       default:
-        title: "Catch-all"
+        title: "Any undefined score"
         description: "Description (optional)"
       delete-confirm: "Are you sure you want to delete this result?"
       delete-tooltip: "Delete"
@@ -541,8 +541,8 @@ en:
         crop_cancel: Cancel
         crop_save: Save
         default_description: Description (optional)
-        default_title: "Catch-all"
-        default_title_side: "Catch-all: %{title}"
+        default_title: "Any undefined score"
+        default_title_side: "Any undefined score"
         delete_confirm: Are you sure you want to delete this result?
         delete_tooltip: Delete
         description: Description (optional)
