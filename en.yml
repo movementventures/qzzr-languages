@@ -758,7 +758,7 @@ en:
         cancel: Cancel
         config_integrations: Configure integrations
         create_offer_label: Create offer
-        create_offer_cancel: Cancel
+        create_offer_cancel_label: Cancel
         confirm_deletion: Confirm deletion
         create_tooltip: 'Add outcome-specific offer'
         default_value_example: campaign123
