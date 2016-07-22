@@ -534,10 +534,10 @@ en:
         tips: Tips
       quizzes_outcomes:
         add_outcome: Add outcome
-        call-to-action-heading: 'New'
-        call-to-action-body: 'Target specific outcomes with specific offers'
-        call-to-action-upgrade-button-label: 'Upgrade'
-        call-to-action-upgraded-button-label: 'Try it out'
+        call_to_action_heading: 'New'
+        call_to_action_body: 'Target specific outcomes with specific offers'
+        call_to_action_upgrade_button_label: 'Upgrade'
+        call_to_action_upgraded_button_label: 'Try it out'
         crop_cancel: Cancel
         crop_save: Save
         default_description: Description (optional)
@@ -758,6 +758,9 @@ en:
         app_title_example: "ex. Download our mobile app"
         before_results_label: Place offer below results
         cancel: Cancel
+        call_to_action_heading: 'New'
+        call_to_action_body: 'Target specific outcomes with specific offers'
+        call_to_action_upgrade_button_label: 'Upgrade'
         config_integrations: Configure integrations
         create_offer_label: Create offer
         create_offer_cancel_label: Cancel
