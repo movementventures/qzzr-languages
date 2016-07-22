@@ -765,8 +765,8 @@ en:
         create_offer_label: Create offer
         create_offer_cancel_label: Cancel
         create_tooltip: 'Add outcome-specific offer'
-        confirm_dropdown_confirm_label: "Confirm deletion"
-        confirm_dropdown_cancel_label: "Cancel"
+        confirm_delete_confirm_label: Confirm deletion
+        confirm_delete_cancel_label: Cancel
         default_value_example: campaign123
         default_value_title: Default value
         delete: Delete
