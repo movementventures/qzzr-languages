@@ -599,6 +599,7 @@ en:
         feedback_title: Feedback (optional)
         image_tips: Image tips
         link_result: Map an outcome
+        maps_to_example: 'ex. question_1'
         move_tooltip: Reorder
         onboarding_questions_sidebar_tip_label: "Tips: Questions"
         onboarding_answers_sidebar_tip_label: "Tips: Answers"
@@ -760,8 +761,9 @@ en:
         config_integrations: Configure integrations
         create_offer_label: Create offer
         create_offer_cancel_label: Cancel
-        confirm_deletion: Confirm deletion
         create_tooltip: 'Add outcome-specific offer'
+        confirm_dropdown_confirm_label: "Confirm deletion"
+        confirm_dropdown_cancel_label: "Cancel"
         default_value_example: campaign123
         default_value_title: Default value
         delete: Delete
