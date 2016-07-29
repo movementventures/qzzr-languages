@@ -965,6 +965,7 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_overview:
         default: default
+        delete_quiz_label: Delete quiz
         delete_quiz_confirm_message: 'Are you sure you want to delete this quiz?'
         download_html: Download HTML
         embed_preview: Embed preview
