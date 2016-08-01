@@ -836,6 +836,7 @@ en:
         type_link_label: Link
         type_facebook_label: Facebook Like
         type_app_label: App Install
+        untitled_outcome_label: Untitled Outcome
         unused_outcomes: Unused outcomes
       quizzes_configure_integrations:
         client_id: Client ID
