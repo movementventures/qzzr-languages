@@ -500,7 +500,9 @@ en:
         configure: Configure
         cover: Cover page
         dashboard: Dashboard
-        delete_confirm: Are you sure you want to delete this quiz?
+        delete_confirm_cancel_label: Cancel
+        delete_confirm_confirm_label: Delete
+        delete_confirm_message: Are you sure you want to delete this quiz?
         delete_quiz: Delete quiz
         learning_center: Learning center
         label_untitled: Untitled
@@ -543,7 +545,9 @@ en:
         default_description: Description (optional)
         default_title: "Any undefined score"
         default_title_side: "Any undefined score"
-        delete_confirm: Are you sure you want to delete this result?
+        delete_confirm_cancel_label: Cancel
+        delete_confirm_delete_label: Delete
+        delete_confirm_message: Are you sure you want to delete this result?
         delete_tooltip: Delete
         description: Description (optional)
         description_example: ex. You enjoy being awesome...
@@ -590,7 +594,9 @@ en:
         crop_cancel: Cancel
         crop_save: Save
         delete_confirm: Are you sure you want to delete this question?
-        delete_option_confirm: Are you sure you want to delete this answer?
+        delete_option_confirm_cancel_label: Cancel
+        delete_option_confirm_delete_label: Delete
+        delete_option_confirm_message: Are you sure you want to delete this answer?
         delete_option_tooltip: Delete
         delete_question_tooltip: Delete
         description: Description (optional)
@@ -807,7 +813,9 @@ en:
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
         lead_custom_field_popover_delete: Delete
-        lead_custom_field_popover_delete_confirm: Are you sure you want to delete this field?
+        lead_custom_field_popover_delete_confirm_cancel_label: Cancel
+        lead_custom_field_popover_delete_confirm_delete_label: Delete
+        lead_custom_field_popover_delete_confirm_message: Are you sure you want to delete this field?
         lead_custom_field_popover_hidden_value: Value
         lead_custom_field_popover_hidden_value_example: ex. 1234
         lead_custom_field_popover_map_to: Map to
@@ -967,6 +975,8 @@ en:
       quizzes_overview:
         default: default
         delete_quiz_label: Delete quiz
+        delete_quiz_confirm_cancel_label: Cancel
+        delete_quiz_confirm_delete_label: Delete
         delete_quiz_confirm_message: 'Are you sure you want to delete this quiz?'
         download_html: Download HTML
         embed_preview: Embed preview
