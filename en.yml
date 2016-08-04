@@ -775,7 +775,7 @@ en:
         create_tooltip: 'Add outcome-specific offer'
         confirm_switch_outcome_cancel_label: Cancel
         confirm_switch_outcome_confirm_label: Confirm
-        confirm_switch_from_default_outcome_message: '%{unselecting} The following outcomes will no longer see any offer:\n %{unusedOutcomes}'
+        confirm_switch_from_default_outcome_message: '%{unselecting} The following outcomes will no longer see any offer:\n%{unusedOutcomes}'
         confirm_switch_outcome_message: '%{unselecting} %{outcome_label} will now see this offer.'
         confirm_switch_outcome_message_unselecting: '"%{outcome_title}" will no longer see the "%{old_offer_title}" offer.'
         confirm_delete_confirm_label: Confirm deletion
