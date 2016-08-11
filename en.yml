@@ -687,6 +687,8 @@ en:
         location: "Location: %{owner}"
         your_account: Your account
       quizzes_configure_side_nav:
+        ad_offer_title: Unlock offers
+        ad_offer_description: 'Generate leads, link to special offers, and get likes for your Facebook page'
         ad_offer_list_item_label_generate_leads: Generate leads
         ad_offer_list_item_label_special_offers: Link to special offers
         ad_offer_list_item_label_facebook_likes: Get likes for Facebook pages
