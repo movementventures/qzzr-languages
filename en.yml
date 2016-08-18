@@ -685,6 +685,7 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_location:
         location: "Location: %{owner}"
+        search_placeholder: SEARCH
         your_account: Your account
       quizzes_configure_side_nav:
         ad_offer_title: Unlock offers
