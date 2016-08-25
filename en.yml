@@ -702,6 +702,7 @@ en:
         offers: Offers
         offers_new: New
         offers_description: 'Outcome-specific offers'
+        pixels: Pixels
         settings: Settings
         sharing: Sharing
         visible_by_label: 'Visible by %{poster}'
@@ -943,6 +944,11 @@ en:
         select_media_link: From link
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
+      quizzes_configure_pixels:
+        facebook_ad_label: 'Facebook pixel'
+        facebook_ad_example: '1234567890123456'
+        quiz_id_label: 'Quiz ID: %{quiz_id}'
+        facebook_ad_tooltip: 'Paste your Facebook pixel ID to start building better social ad audiences with Boombox.'
       quizzes_configure_sharing:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
