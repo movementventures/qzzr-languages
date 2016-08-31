@@ -945,10 +945,15 @@ en:
         select_media_search: Search
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_pixels:
-        facebook_ad_label: 'Facebook pixel'
         facebook_ad_example: '1234567890123456'
-        quiz_id_label: 'Quiz ID: %{quiz_id}'
+        facebook_ad_label: 'Facebook pixel'
         facebook_ad_tooltip: 'Paste your Facebook pixel ID to start building better social ad audiences with Boombox.'
+        google_example: 'UA-XXXXX-Y'
+        google_label: 'Google pixel'
+        google_tooltip: 'Paste your Google analytics ID to start collecting events'
+        stats_opt_out_label: 'Opt out of Boombox tracking'
+        stats_opt_out_tooltip: "Disallow Boombox tracking this quiz's performance"
+        quiz_id_label: 'Quiz ID: %{quiz_id}'
       quizzes_configure_sharing:
         ad_upgrade_action: Upgrade
         ad_tweet_hashtags: Tweet hashtags
