@@ -702,7 +702,7 @@ en:
         offers: Offers
         offers_new: New
         offers_description: 'Outcome-specific offers'
-        pixels: Pixels
+        events: Events
         settings: Settings
         sharing: Sharing
         visible_by_label: 'Visible by %{poster}'
@@ -946,11 +946,11 @@ en:
         uploading_image: "Uploading: %{progress}%"
       quizzes_configure_pixels:
         facebook_ad_example: '1234567890123456'
-        facebook_ad_label: 'Facebook pixel'
-        facebook_ad_tooltip: 'Paste your Facebook pixel ID to start building better social ad audiences with Boombox.'
+        facebook_ad_label: 'Facebook Pixel ID'
+        facebook_ad_tooltip: 'Paste your Facebook Pixel ID to start building better social ad audiences with Boombox.'
         google_example: 'UA-XXXXX-Y'
-        google_label: 'Google pixel'
-        google_tooltip: 'Paste your Google analytics ID to start collecting events'
+        google_label: 'Google Analytics ID'
+        google_tooltip: 'Paste your Google Analytics ID to start collecting events'
         stats_opt_out_label: 'Opt out of Boombox tracking'
         stats_opt_out_tooltip: "Disallow Boombox tracking this quiz's performance"
         quiz_id_label: 'Quiz ID: %{quiz_id}'
