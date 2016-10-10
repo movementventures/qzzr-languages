@@ -34,7 +34,7 @@ fr:
     maindish:
       social:
         outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\""
-        graded-result: "I scored %{score}% on \"%{quiz_title}\""
+        graded-result: "I scored %{score} % on \"%{quiz_title}\""
         caption: www.maindish.co
         description: "Great new quiz. %{quiz_title}"
       pages:
@@ -112,19 +112,19 @@ fr:
       your-feed: "Your feed"
     results:
       bracket:
-        count: "%{smart_count} personnes |||| %{smart_count} personnes"
-        range: "%{lower}-%{upper}%"
+        count: "%{smart_count} pers. |||| %{smart_count} pers."
+        range: "%{lower}-%{upper} %"
         title: Classement
       grade-count: "%{score}/%{count}"
       more-about-your-result: "More about your result"
       more-details: "More details"
-      range: "%{lower}-%{upper}%"
+      range: "%{lower}-%{upper} %"
       recommended: "D'autres tests sympa"
       retake: Refaire
-      scored-percentage: "Score %{percentage}%"
+      scored-percentage: "Score %{percentage} %"
       scroll-down: "Faites défiler vers le bas pour connaître votre résultat"
       share-your-result: "Partager votre résultat"
-      your-result-graded: "Résultat : Score de %{percentage}%"
+      your-result-graded: "Résultat : Score de %{percentage} %"
       your-result-outcome: "Résultat : %{outcome}"
       a-quick-message: "Un message rapide"
       from: de
@@ -132,7 +132,7 @@ fr:
       title:
         your-result: "Votre résultat"
         for-quiz: "pour %{title}"
-        percentage: "%{percentage}%"
+        percentage: "%{percentage} %"
         fraction: "(%{score}/%{count})"
     search:
       no-results: "We couldn't find anything for that search."
@@ -165,8 +165,8 @@ fr:
     social:
       back: "Revenir au code intégré recommandé"
       branded-caption: "Réalisé avec Qzzr – Des test pour vous créés par vous"
-      branded-graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?"
-      branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
+      branded-graded-result-match: "J'ai obtenu un score de %{score} % au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?"
+      branded-graded-result-top: "I scored %{score} % on \"%{quiz_title}\" on Qzzr! Can you top that?"
       branded-outcome-result: "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" sur Qzzr ! Et toi ?"
       branded-quiz: "Découvre \"%{quiz_title}\" sur Qzzr !"
       can-you-match: "PEUX-TU FAIRE MIEUX ?"
@@ -178,8 +178,8 @@ fr:
       embed-default: "Par défaut"
       facebook: Partager
       gplus: Partager
-      graded-result-match: "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" Peux-tu faire mieux ?"
-      graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
+      graded-result-match: "J'ai obtenu un score de %{score} % au test \"%{quiz_title}\" Peux-tu faire mieux ?"
+      graded-result-top: "I Scored %{score} % on \"%{quiz_title}\" Can you top that?"
       hashtag: tests
       image-outcome-result: "RÉSULTAT : %{title}"
       image-graded-result: "SCORE OBTENU %{percent} %"
@@ -219,3 +219,4 @@ fr:
       start: Commencer
       tap-to-advance: "Tapez n'importe où pour continuer"
       times-taken: "Fait %{smart_count} fois |||| Fait %{smart_count} fois"
+      view-results: "Voir le résultat"
