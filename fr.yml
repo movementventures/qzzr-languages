@@ -124,7 +124,7 @@ fr:
       scored-percentage: "Score %{percentage} %"
       scroll-down: "Faites défiler vers le bas pour connaître votre résultat"
       share-your-result: "Partager votre résultat"
-      your-result-graded: "Résultat : Score de %{percentage} %"
+      your-result-graded: "Résultat : score de %{percentage} %"
       your-result-outcome: "Résultat : %{outcome}"
       a-quick-message: "Un message rapide"
       from: de
