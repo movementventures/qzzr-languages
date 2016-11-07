@@ -219,3 +219,4 @@ de:
       start: Start
       tap-to-advance: "Tippe irgendwo, um fortzusetzen"
       times-taken: "%{smart_count} Mal beantwortet |||| %{smart_count} Mal beantwortet"
+      view-results: "Ergebnisse anzeigen"

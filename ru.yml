@@ -219,3 +219,4 @@ ru:
       start: Начать
       tap-to-advance: "Щелкните в любом месте, чтобы продолжить"
       times-taken: "Пройдено %{smart_count} раз |||| Пройдено %{smart_count} раз"
+      view-results: "Посмотреть Результаты"

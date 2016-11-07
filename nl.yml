@@ -219,3 +219,4 @@ nl:
       start: Beginnen
       tap-to-advance: "Tik ergens om door te gaan"
       times-taken: "%{smart_count} keer nodig gehad |||| %{smart_count} keer nodig gehad"
+      view-results: "Bekijk de resultaten"

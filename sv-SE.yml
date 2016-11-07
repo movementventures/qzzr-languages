@@ -219,3 +219,4 @@ sv-SE:
       start: Börja
       tap-to-advance: "Klicka var som helst för att fortsätta"
       times-taken: "Gjort %{smart_count} gång |||| Taken %{smart_count} gånger"
+      view-results: "Se resultat"

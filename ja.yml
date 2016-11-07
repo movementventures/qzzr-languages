@@ -219,3 +219,4 @@ ja:
       start: スタート
       tap-to-advance: どこでもタップして先に進む
       times-taken: "回答数：%{smart_count}回 |||| 回答数：%{smart_count}回"
+      view-results: "結果の表示"

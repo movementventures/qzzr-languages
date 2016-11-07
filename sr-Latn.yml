@@ -219,3 +219,4 @@ sr-Latn:
       start: Početak
       tap-to-advance: "Dodirnite bilo gde za nastavak"
       times-taken: "Rađen %{smart_count} puta |||| Rađen %{smart_count} puta"
+      view-results: "Преглед резултата"

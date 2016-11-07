@@ -219,3 +219,4 @@ zh-CN:
       start: 开始
       tap-to-advance: 点击任意地方继续
       times-taken: "已被完成 %{smart_count} 次 |||| 已被完成 %{smart_count} 次"
+      view-results: "查看结果"

@@ -206,7 +206,7 @@ it:
       done: Invia
       incorrect: Sbagliato
       incorrect-feedback: "Sbagliato: %{feedback}"
-      invite-a-friend: "Invite Friends"
+      invite-a-friend: "Invita gli amici"
       made-by: "Realizzato da %{author}"
       make-quiz: "Vuoi creare il tuo quiz in modo gratuito?"
       make-quiz-label: "Dai un'occhiata a qzzr"
@@ -219,3 +219,4 @@ it:
       start: Avvio
       tap-to-advance: "Per procedere clicca un punto qualsiasi"
       times-taken: "Svolto %{smart_count} volta |||| Svolto %{smart_count} volte"
+      view-results: "vedi i risultati"

@@ -219,3 +219,4 @@ pl:
       start: Start
       tap-to-advance: "Dotknij gdziekolwiek by przejść dalej"
       times-taken: "Rozwiązny %{smart_count} raz |||| Rozwiązny %{smart_count} razy"
+      view-results: "Pokaż wyniki"

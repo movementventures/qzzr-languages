@@ -219,3 +219,4 @@
       start: Start
       tap-to-advance: "Trykk hvor som helst for å gå videre"
       times-taken: "Tatt %{smart_count} gang |||| Tatt %{smart_count} ganger"
+      view-results: "Vis resultater"

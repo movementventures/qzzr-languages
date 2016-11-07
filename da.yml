@@ -219,3 +219,4 @@ da:
       start: Start
       tap-to-advance: "Tryk hvorsomhelst for at fortsætte"
       times-taken: "Taget %{smart_count} gang |||| Taget %{smart_count} gange"
+      view-results: "Se resultater"

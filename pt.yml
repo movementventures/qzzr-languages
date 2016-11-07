@@ -219,3 +219,4 @@ pt:
       start: Iniciar
       tap-to-advance: "Toque em qualquer lugar para avançar"
       times-taken: "Respondido %{smart_count} vez |||| Respondido %{smart_count} vezes"
+      view-results: "Ver resultados"
