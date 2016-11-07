@@ -198,6 +198,10 @@ sv-SE:
       wordpress: WordPress
       wordpress-link: "WordPress (används med vår %{link})"
       wordpress-link-label: insticksprogram
+    embed_text:
+      having_trouble: "Har du problem att bädda in?"
+      try_alternate: "Prova denna kod"
+      try_preferred: "Gå tillbaka för att rekommendera inbäddad kod"
     take:
       challenge-a-friend: "Utmana vänner"
       click-to-advance: "Klicka var som helst för att fortsätta"

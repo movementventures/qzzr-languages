@@ -116,6 +116,10 @@ fi:
       tumblr: 'Jaa'
       twitter: 'Twiittaa'
       wordpress: 'WordPress'
+    embed_text:
+      having_trouble: "Upotus ei toimi?"
+      try_alternate: "Kokeile tätä."
+      try_preferred: "Takaisin"
     take:
       advance: "Klikkaa missä tahansa jatkaaksesi"
       click-to-advance: "Klikkaa missä tahansa jatkaaksesi"

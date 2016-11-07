@@ -198,6 +198,10 @@ zh-CN:
       wordpress: 博客系统
       wordpress-link: "博客系统 （与我们的 %{link} 一同使用）"
       wordpress-link-label: 插件
+    embed_text:
+      having_trouble: "嵌入有问题？"
+      try_alternate: "试试这个代码"
+      try_preferred: "回到“推荐嵌入代码”页面"
     take:
       challenge-a-friend: 挑战你的好友
       click-to-advance: 点击任意地方继续

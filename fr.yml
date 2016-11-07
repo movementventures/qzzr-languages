@@ -198,6 +198,10 @@ fr:
       wordpress: WordPress
       wordpress-link: "WordPress (à utiliser avec notre %{link})"
       wordpress-link-label: plugin
+    embed_text:
+      having_trouble: "Des problèmes d'intégration ?"
+      try_alternate: "Essayez ce code"
+      try_preferred: "Revenir au code intégré recommandé"
     take:
       challenge-a-friend: "Défiez vos amis"
       click-to-advance: "Cliquez n'importe où pour continuer"

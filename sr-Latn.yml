@@ -198,6 +198,10 @@ sr-Latn:
       wordpress: WordPress
       wordpress-link: "WordPress (za upotrebu sa našim %{link})"
       wordpress-link-label: "dodatna komp."
+    embed_text:
+      having_trouble: "Problem pri ugradnji?"
+      try_alternate: "Probaj ovaj kôd"
+      try_preferred: "Vratite se na preporučeni kôd za ugradnju"
     take:
       challenge-a-friend: "Izazovi prijatelje"
       click-to-advance: "Pritisnite bilo gde da napredujete"

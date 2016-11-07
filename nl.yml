@@ -198,6 +198,10 @@ nl:
       wordpress: WordPress
       wordpress-link: "WordPress (voor gebruik met onze %{link})"
       wordpress-link-label: plug-in
+    embed_text:
+      having_trouble: "Problemen met embedden?"
+      try_alternate: "Probeer deze code"
+      try_preferred: "Ga terug naar aanbevolen embedcode"
     take:
       challenge-a-friend: "Daag vrienden uit"
       click-to-advance: "Klik ergens om verder te gaan"

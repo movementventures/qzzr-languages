@@ -198,6 +198,10 @@ pt:
       wordpress: WordPress
       wordpress-link: "WordPress (para uso com nosso %{link})"
       wordpress-link-label: plug-in
+    embed_text:
+      having_trouble: "Não consegue incorporar?"
+      try_alternate: "Teste este código"
+      try_preferred: "Retornar ao código de incorporação recomendado"
     take:
       challenge-a-friend: "Desafie seus amigos"
       click-to-advance: "Clique em qualquer lugar para avançar"

@@ -198,6 +198,10 @@ ru:
       wordpress: WordPress
       wordpress-link: "WordPress (для использования с нашим %{link})"
       wordpress-link-label: плагин
+    embed_text:
+      having_trouble: "Проблемы со встраиванием?"
+      try_alternate: "Попробуйте воспользоваться этим кодом"
+      try_preferred: "Вернуться к рекомендованному коду встраивания"
     take:
       challenge-a-friend: "Вызвать друзей на состязание"
       click-to-advance: "Щелкните в любом месте, чтобы продолжить"

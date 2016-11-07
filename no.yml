@@ -198,6 +198,10 @@
       wordpress: WordPress
       wordpress-link: "WordPress (for bruk med vår %{link})"
       wordpress-link-label: programtillegg
+    embed_text:
+      having_trouble: "Problemer med integrering?"
+      try_alternate: "Prøv denne koden"
+      try_preferred: "Gå tilbake til den anbefalte integrerte koden"
     take:
       challenge-a-friend: "Utfordre venner"
       click-to-advance: "Klikk hvor som helst for å gå videre"

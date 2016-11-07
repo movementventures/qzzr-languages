@@ -198,6 +198,10 @@ da:
       wordpress: WordPress
       wordpress-link: "WordPress (til at bruge sammen med vores %{link})"
       wordpress-link-label: plugin
+    embed_text:
+      having_trouble: "Har du problemer med at indlejre?"
+      try_alternate: "Prøv denne kode"
+      try_preferred: "Gå tilbage til den anbefalede indlejringskode"
     take:
       challenge-a-friend: "Udfordr venner"
       click-to-advance: "Klik hvorsomhelst for at fortsætte"

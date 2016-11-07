@@ -198,6 +198,10 @@ it:
       wordpress: WordPress
       wordpress-link: "WordPress (da utilizzare con il nostro %{link})"
       wordpress-link-label: plugin
+    embed_text:
+      having_trouble: "Problemi nell'incorporare il quiz?"
+      try_alternate: "Prova questo codice"
+      try_preferred: "Torna al codice di incorporamento consigliato"
     take:
       challenge-a-friend: "Sfida gli amici"
       click-to-advance: "Per procedere clicca un punto qualsiasi"

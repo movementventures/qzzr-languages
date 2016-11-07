@@ -198,6 +198,10 @@ de:
       wordpress: WordPress
       wordpress-link: "WordPress (zur Nutzung mit unserem %{link})"
       wordpress-link-label: Plugin
+    embed_text:
+      having_trouble: "Probleme beim Einbetten?"
+      try_alternate: "Probier diesen Code"
+      try_preferred: "Zurück zum empfohlenen eingebetteten Code"
     take:
       challenge-a-friend: "Fordere Freunde heraus"
       click-to-advance: "Klicke irgendwo, um fortzusetzen."
