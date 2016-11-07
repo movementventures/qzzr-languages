@@ -131,7 +131,7 @@ fi:
       start: Aloita
       tap-to-advance: "Klikkaa missä tahansa jatkaaksesi"
       times-taken: "Tehty %{smart_count} kerran |||| Tehty %{smart_count} kertaa"
-      view-results: "Katso tulokset"
+      view-results: "Näytä tulokset"
     topics:
       arts: Taide
       business: Business
