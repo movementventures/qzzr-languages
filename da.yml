@@ -65,7 +65,7 @@ da:
       email-placeholder: eksempel@e-mail.dk
       enter-your-email: "Indtast din e-mailadresse"
       skip: "Spring over"
-      submit: Indsend
+      submit: OK
     pages:
       index:
         title: "Take Fun Quizzes and Personality Tests for Free | Qzzr"
@@ -120,15 +120,15 @@ da:
       more-details: "More details"
       range: "%{lower}-%{upper}%"
       recommended: "Andre fantastiske quizer"
-      retake: "Tag igen"
-      scored-percentage: "Har scoret %{percentage}%"
-      scroll-down: "Rul ned for at se dit resultat"
+      retake: "Prøv igen"
+      scored-percentage: "Du svarede: %{percentage}% korrekt"
+      scroll-down: "Scroll ned for at se dit resultat"
       share-your-result: "Del dit resultat"
-      your-result-graded: "Resultat: Har scoret %{percentage}%"
+      your-result-graded: "Resultat: Du svarede: %{percentage}% korrekt."
       your-result-outcome: "Resultat: %{outcome}"
       a-quick-message: "En hurtig besked"
       from: fra
-      lead-see-result: "Udfyld formen herunder for at se dit resultat"
+      lead-see-result: "Udfyld og indsend"
       title:
         your-result: "Dit resultat"
         for-quiz: "for %{title}"
@@ -165,7 +165,7 @@ da:
     social:
       back: "Gå tilbage til den anbefalede indlejringskode"
       branded-caption: "Lavet med Qzzr - Quizer for dig, af dig"
-      branded-graded-result-match: "Jeg har scoret %{score}% på \"%{quiz_title}\" på Qzzr! Kan du slå den?"
+      branded-graded-result-match: "Jeg svarede %{score}% korrekt \"%{quiz_title}\" på Qzzr! Kan du slå den?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr! Can you top that?"
       branded-outcome-result: "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" på Qzzr! Hvad med dig?"
       branded-quiz: "Tjek \"%{quiz_title}\" på Qzzr!"
@@ -182,15 +182,15 @@ da:
       graded-result-top: "I Scored %{score}% on \"%{quiz_title}\" Can you top that?"
       hashtag: quizer
       image-outcome-result: "RESULTAT: %{title}"
-      image-graded-result: "SCORET %{percent}%"
+      image-graded-result: "RESULTAT: %{percent}% korrekt"
       link: Link
       linkedin: Del
       on-qzzr: "på Qzzr!"
-      outcome-result: "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" Hvad med dig?"
+      outcome-result: "Mit resultat blev: \"%{outcome_title}\" på \"%{quiz_title}\" Hvad med dig?"
       pinterest: "Pin it"
-      quiz: "Tjek \"%{quiz_title}\""
+      quiz: "Prøv \"%{quiz_title}\""
       reddit: Del
-      share-quiz: "Del denne quiz"
+      share-quiz: "Del quiz"
       trouble: "Har du problemer med at indlejre? Prøv denne kode"
       tumblr: Del
       twitter: Tweet
@@ -204,10 +204,10 @@ da:
       try_preferred: "Gå tilbage til den anbefalede indlejringskode"
     take:
       challenge-a-friend: "Udfordr venner"
-      click-to-advance: "Klik hvorsomhelst for at fortsætte"
+      click-to-advance: "Klik for at fortsætte"
       correct: Korrekt
       correct-feedback: "Korrekt: %{feedback}"
-      done: Indsend
+      done: OK
       incorrect: Forkert
       incorrect-feedback: "Forkert: %{feedback}"
       invite-a-friend: "Invite Friends"
@@ -215,12 +215,12 @@ da:
       make-quiz: "Vil du lave din egen quiz gratis?"
       make-quiz-label: "Prøv qzzr"
       make-quiz-label-boombox: "Prøv Boombox"
-      multiple-select: "Vælg alle, der gælder"
-      multiple-select-colon: "Vælg alle, der gælder: "
+      multiple-select: "Vælg"
+      multiple-select-colon: "Vælg"
       next: Næste
       next-question: "Næste spørgsmål"
       question-count: "%{smart_count} spørgsmål |||| %{smart_count} spørgsmål"
       start: Start
-      tap-to-advance: "Tryk hvorsomhelst for at fortsætte"
-      times-taken: "Taget %{smart_count} gang |||| Taget %{smart_count} gange"
+      tap-to-advance: "Klik for at fortsætte"
+      times-taken: "Besvaret %{smart_count} gang |||| Besvaret %{smart_count} gange"
       view-results: "Se resultater"
