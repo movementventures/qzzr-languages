@@ -488,6 +488,10 @@ en:
       app:
         need_help: Need help?
         page_title: "%{name : Untitled} · Quiz · %{brand}"
+      help_dropdown:
+        get_help_label: 'Get help'
+        learning_center_label: 'View Learning Center'
+        trigger_label: '?'
       account_dropdown:
         edit_profile: Edit settings
         edit_settings: Edit settings
