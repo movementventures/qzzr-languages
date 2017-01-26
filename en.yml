@@ -17,6 +17,8 @@ en:
         title: "View User %{model_label_plural}"
         menu: "View User"
         breadcrumb: "%{model_label_plural}"
+      login_as_user:
+        menu: "Login as User"
   activerecord:
     errors:
       models:
