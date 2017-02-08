@@ -265,6 +265,7 @@ en:
       make-quiz: "Want to make your own quiz for free?"
       make-quiz-label: "Check out qzzr"
       make-quiz-label-boombox: "Check out Boombox"
+      single-select: "Select the best option"
       multiple-select: "Select all that apply"
       multiple-select-colon: "Select all that apply: "
       next: Next
