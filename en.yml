@@ -158,6 +158,7 @@ en:
       range: "%{lower}-%{upper}%"
       recommended: "Recommended for you"
       retake: "Retake"
+      retake_quiz: "Retake quiz"
       scored-percentage: "Scored %{percentage}%"
       scroll-down: "Scroll down for your result"
       share-your-result: 'Share your result'
