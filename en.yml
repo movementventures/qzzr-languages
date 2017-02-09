@@ -276,6 +276,7 @@ en:
       view-results: "View results"
       question-count: "%{smart_count} question |||| %{smart_count} questions"
       start: Start
+      start_quiz: Start quiz
       tap-to-advance: "Tap anywhere to advance"
       times-taken: "Taken %{smart_count} time |||| Taken %{smart_count} times"
     topics:
