@@ -268,6 +268,8 @@ en:
       make-quiz-label-boombox: "Check out Boombox"
       single-select: "Select the best option"
       multiple-select: "Select all that apply"
+      aria-single-select: "Select the best option"
+      aria-multiple-select: "Select all that apply out of %{smart_count} option |||| %{smart_count} options.."
       multiple-select-colon: "Select all that apply: "
       next: Next
       next-question: "Next question"
