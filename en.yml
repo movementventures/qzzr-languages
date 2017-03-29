@@ -207,6 +207,7 @@ en:
       boombox-branded-caption: "Made with Boombox"
       branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you match that?"
       boombox-branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you match that?"
+      branded-graded-result-score-match: "I scored %{score}% on Qzzr. Can you match that?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you top that?"
       boombox-branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you top that?"
       branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr. What about you?"
@@ -225,6 +226,7 @@ en:
       facebook: 'Share'
       gplus: 'Share'
       graded-result-match: "I scored %{score}% on \"%{quiz_title}\". Can you match that?"
+      graded-result-score-match: "I scored %{score}%. Can you match that?"
       graded-result-top: "I scored %{score}% on \"%{quiz_title}\". Can you top that?"
       hashtag: quizzes
       image-outcome-result: "RESULT: %{title}"
