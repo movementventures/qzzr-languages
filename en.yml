@@ -235,8 +235,8 @@ en:
       link: 'Link to this quiz'
       linkedin: 'Share'
       on-qzzr: 'on Qzzr!'
-      outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" What about you?"
-      outcome-result-no-title: "I got \"%{outcome_title}\" What about you?"
+      outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\". What about you?"
+      outcome-result-no-title: "I got \"%{outcome_title}\". What about you?"
       pinterest: 'Pin it'
       quiz: "Check out \"%{quiz_title}\""
       reddit: 'Share'
