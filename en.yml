@@ -211,6 +211,7 @@ en:
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you top that?"
       boombox-branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you top that?"
       branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr. What about you?"
+      branded-outcome-result-no-title: "I got \"%{outcome_title}\" on Qzzr. What about you?"
       boombox-branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Boombox. What about you?"
       branded-quiz: "Check out \"%{quiz_title}\" on Qzzr"
       boombox-branded-quiz: "Check out \"%{quiz_title}\" on Boombox"
@@ -235,6 +236,7 @@ en:
       linkedin: 'Share'
       on-qzzr: 'on Qzzr!'
       outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" What about you?"
+      outcome-result-no-title: "I got \"%{outcome_title}\" What about you?"
       pinterest: 'Pin it'
       quiz: "Check out \"%{quiz_title}\""
       reddit: 'Share'
