@@ -1,0 +1,30 @@
+question:
+  vote-now: "vote now"
+  see-the-breakdown: "See the breakdown"
+  by-categories: "by region, age & gender"
+  percentage:
+    one: '1'
+    other: '%{count}'
+  num-votes:
+    0: 'No votes'
+    one: '1 vote'
+    other: '%{count} votes'
+poll:
+  made-with: "Made with"
+collect-info:
+  title: 'Help us get a more complete view of the world. '
+  subtitle: 'Your info is anonymous.'
+  whats-your-gender: "What's your gender?"
+  female: "Female"
+  male: "Male"
+  how-old-are-you: "How old are you?"
+  years: "years"
+  see-the-breakdown: "See the breakdown"
+  skip: "Skip"
+breakdown:
+  by-nearby: 'nearby'
+  by-country: 'country'
+  by-world: 'world'
+  by-region: 'BY REGION'
+  by-age: 'BY AGE'
+  by-gender: 'BY GENDER'
