@@ -882,7 +882,7 @@ en:
         ad_recommend_quizzes: Recommend other quizzes
         ad_upgrade_action: Upgrade
         boost_quiz: "Boost this quiz in others' mixes"
-        boost_quiz_tooltip: "Boosting will distribute your quiz on free Qzzr, Qzzr, and Pollcaster content. Click to learn more."
+        boost_quiz_tooltip: "Boosting will distribute your quiz on free Qzzr content. Click to learn more."
         display_mix: Include your content mix at the end of the quiz
         display_mix_label: Include your Remix at the end of the quiz
         display_mix_label_hub: "Include %{hub_name}'s Remix at the end of the quiz"
