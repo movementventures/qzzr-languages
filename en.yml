@@ -204,23 +204,16 @@ en:
     social:
       back: 'Go back to recommended embed code'
       branded-caption: "Made with Qzzr"
-      boombox-branded-caption: "Made with Boombox"
       branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you match that?"
-      boombox-branded-graded-result-match: "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you match that?"
       branded-graded-result-score-match: "I scored %{score}% on Qzzr. Can you match that?"
       branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you top that?"
-      boombox-branded-graded-result-top: "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you top that?"
       branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr. What about you?"
       branded-outcome-result-no-title: "I got \"%{outcome_title}\" on Qzzr. What about you?"
-      boombox-branded-outcome-result: "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Boombox. What about you?"
       branded-quiz: "Check out \"%{quiz_title}\" on Qzzr"
-      boombox-branded-quiz: "Check out \"%{quiz_title}\" on Boombox"
       can-you-match: "CAN YOU MATCH THAT?"
       can-you-top: "CAN YOU TOP THAT?"
       caption: "Made with Qzzr"
-      boombox-caption: 'Made with Boombox'
       description: "Make your own quizzes for free on Qzzr, the world's simplest quiz tool."
-      boombox-description: "Make your own quizzes and other interactive content for free on Boombox."
       email: 'Email'
       embed: 'Embed this quiz'
       embed-default: 'Default'
@@ -269,7 +262,6 @@ en:
       made-by: "Made by %{author}"
       make-quiz: "Want to make your own quiz for free?"
       make-quiz-label: "Check out qzzr"
-      make-quiz-label-boombox: "Check out Boombox"
       single-select: "Select the best option"
       multiple-select: "Select all that apply"
       aria-single-select: "Select the best option"
@@ -890,7 +882,7 @@ en:
         ad_recommend_quizzes: Recommend other quizzes
         ad_upgrade_action: Upgrade
         boost_quiz: "Boost this quiz in others' mixes"
-        boost_quiz_tooltip: "Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more."
+        boost_quiz_tooltip: "Boosting will distribute your quiz on free Qzzr, Qzzr, and Pollcaster content. Click to learn more."
         display_mix: Include your content mix at the end of the quiz
         display_mix_label: Include your Remix at the end of the quiz
         display_mix_label_hub: "Include %{hub_name}'s Remix at the end of the quiz"
@@ -963,12 +955,12 @@ en:
       quizzes_configure_pixels:
         facebook_ad_example: '1234567890123456'
         facebook_ad_label: 'Facebook Pixel ID'
-        facebook_ad_tooltip: 'Paste your Facebook Pixel ID to start building better social ad audiences with Boombox.'
+        facebook_ad_tooltip: 'Paste your Facebook Pixel ID to start building better social ad audiences with Qzzr.'
         google_example: 'UA-XXXXX-Y'
         google_label: 'Google Analytics ID'
         google_tooltip: 'Paste your Google Analytics ID to start collecting events'
-        stats_opt_out_label: 'Opt out of Boombox tracking'
-        stats_opt_out_tooltip: "Disallow Boombox tracking this quiz's performance"
+        stats_opt_out_label: 'Opt out of Qzzr tracking'
+        stats_opt_out_tooltip: "Disallow Qzzr tracking this quiz's performance"
         quiz_id_label: 'Quiz ID: %{quiz_id}'
       quizzes_configure_sharing:
         ad_upgrade_action: Upgrade
