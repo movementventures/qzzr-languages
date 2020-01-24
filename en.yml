@@ -928,6 +928,9 @@ en:
         twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
+        webhook_active: Webhook Active
+        webhook_url_example: 'e.g. https://api.yoursite.com/quiz'
+        webhook_url_label: 'Webhook URL'
       quizzes_configure_settings_add_media:
         add_media_label: Add media
         attribution_warning: Usable without attribution
