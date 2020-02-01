@@ -928,6 +928,8 @@ en:
         twitter_hashtags_example: '#quiz #personality'
         twitter_via_example: '@twitter_handle'
         twitter_via_label: Tweet via
+        used_external_id_redirect_url_example: 'e.g. https://api.yoursite.com/quiz'
+        used_external_id_redirect_url_label: 'Used ID Redirect URL'
         webhook_active: Webhook Active
         webhook_url_example: 'e.g. https://api.yoursite.com/quiz'
         webhook_url_label: 'Webhook URL'
