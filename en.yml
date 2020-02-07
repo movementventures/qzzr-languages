@@ -735,6 +735,8 @@ en:
         background: Background
         custom_bg: Background color
         custom_bg_example: 'ex. #de514d'
+        custom_css: 'Custom CSS'
+        custom_css_warning: 'Custom CSS can break your quiz'
         font_example: 'ex. Georgia, serif'
         font_face: Font face
         font_family: Font family
