@@ -834,7 +834,7 @@ en:
         integration_webhook_test_error: 'We had a problem sending a webhook test, try again later'
         integration_webhook_test_sent: Test sent
         integration_webhook_title: Webhook
-        integration_webhook_tooltip: Webhooks make it easy to send your quiz leads information to a specific URL
+        integration_webhook_tooltip: Webhooks make it easy to send your collected quiz data to a specific URL. Click to learn more.
         is_enabled_button_label: Visible to quiz takers
         is_hidden: Hidden
         lead_custom_field_popover_delete: Delete
