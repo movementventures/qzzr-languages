@@ -932,7 +932,7 @@ en:
         twitter_via_label: Tweet via
         used_external_id_redirect_url_example: 'e.g. https://api.yoursite.com/quiz'
         used_external_id_redirect_url_label: 'Used ID Redirect URL'
-        webhook_active: Webhook Active
+        webhook_active: Webhook
         webhook_url_example: 'e.g. https://api.yoursite.com/quiz'
         webhook_url_label: 'Webhook URL'
       quizzes_configure_settings_add_media:
