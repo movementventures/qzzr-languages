@@ -612,6 +612,7 @@ en:
         duplicate_tooltip: Duplicate question
         feedback_example: "ex. In winter, Oymyakon, Russia's average temp. is -50 C."
         feedback_title: Feedback (optional)
+        has_branching: Branching
         image_tips: Image tips
         link_result: Map an outcome
         maps_to_example: 'ex. question_1'
