@@ -410,6 +410,9 @@ en:
     question:
       crop-cancel: "Cancel"
       crop-save: "Save"
+      data-analysis-type:
+        semantic-differential: "Semantic Differential"
+        key-driver: "Key Driver"
       delete-confirm: "Are you sure you want to delete this question?"
       delete-tooltip: "Delete"
       delete-option-confirm: "Are you sure you want to delete this option?"
