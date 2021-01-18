@@ -600,6 +600,9 @@ en:
         add_question: Add question
         crop_cancel: Cancel
         crop_save: Save
+        data-analysis-type:
+          semantic-differential: "Semantic Differential"
+          key-driver: "Key Driver"
         delete_option_confirm_cancel_label: Cancel
         delete_option_confirm_delete_label: Delete
         delete_option_confirm_message: Are you sure you want to delete this answer?
